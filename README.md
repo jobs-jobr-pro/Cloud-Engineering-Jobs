@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Cloud Engineer II, AWS (SAP)](https://jobs.smartrecruiters.com/DeliveryHero/744000081305816-cloud-engineer-ii-aws-sap-)** | Berlin, Germany | On Site | Sep 11 |
 | **[Bayer](https://www.bayer.com/)** | **[Cloud Engineer (Model N)](https://jobs.bayer.com/job/Residence-Based-Cloud-Engineer-%28Model-N%29-Resi/1201945601/)** | Residence Based, Residence Based, US | On Site | Sep 11 |
 | **[Axway](https://www.axway.com)** | **[Senior Cloud Engineer](https://careers-axway.icims.com/jobs/8244/senior-services-consultant-ii/job?in_iframe=1)** | Sofia, Bulgaria | Remote | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)**
+<!-- prettier-ignore-end -->
