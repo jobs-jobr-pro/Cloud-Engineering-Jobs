@@ -3,17 +3,14 @@
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
 
-**📊 Current Stats:** 50 jobs | 22% remote | 36 companies | Avg salary: 151k
-
-**🔥 Trending Skills:** aws, azure, gcp, kubernetes, terraform
-
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
-| Company | Position | Location | Work Model | Date Posted |
-| ------- | -------- | -------- | ---------- | ----------- |
+| Company | Position | Location | Type | Posted |
+| ------- | -------- | -------- | ---- | ------ |
+
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Cloud Engineer II, AWS (SAP)](https://jobs.smartrecruiters.com/DeliveryHero/744000081305816-cloud-engineer-ii-aws-sap-)** | Berlin, Germany | On Site | Sep 11 |
 | **[Bayer](https://www.bayer.com/)** | **[Cloud Engineer (Model N)](https://jobs.bayer.com/job/Residence-Based-Cloud-Engineer-%28Model-N%29-Resi/1201945601/)** | Residence Based, Residence Based, US | On Site | Sep 11 |
 | **[Axway](https://www.axway.com)** | **[Senior Cloud Engineer](https://careers-axway.icims.com/jobs/8244/senior-services-consultant-ii/job?in_iframe=1)** | Sofia, Bulgaria | Remote | Sep 11 |
@@ -64,6 +61,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/129050460718801606-strategic-cloud-engineer-google-cloud)** | Bengaluru, Karnataka, India | On Site | Sep 09 |
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Cloud Engineer (Azure)](https://jobs.smartrecruiters.com/SoftwareMind/744000080748958--cmi-cloud-engineer-azure-)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 09 |
 | **[Cloud Bridge](https://www.cloud-bridge.co.uk/)** | **[AWS Cloud Engineer - Fully Remote](https://careers.cloud-bridge.co.uk/jobs/6426140-aws-cloud-engineer-fully-remote)** | Sweden, Sweden | Remote | Sep 09 |
+
+---
+
+**Current Stats:** 50 jobs | 22% remote | 36 companies | Avg salary: 151k  
+_Note: Stats are approximate and based on available job data_
+
+**Trending Skills:** aws, azure, gcp, kubernetes, terraform  
+_Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
