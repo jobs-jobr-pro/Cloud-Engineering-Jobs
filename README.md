@@ -1,8 +1,7 @@
 # Cloud engineer Jobs 2025
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro).  
-
+Updated daily by [Jobr.pro](https://jobr.pro).
 
 Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
@@ -62,15 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fiserv](https://www.fiserv.com/)** | **[Cloud Engineer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Cloud-Engineer_R-10365146-1)** | Berkeley Heights, New Jersey, United States | On Site | Sep 09 |
 | **[MSD](https://www.msd.com/)** | **[Enterprise Storage & Cloud Engineer](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Enterprise-Storage---Cloud-Engineer_R358045-1)** | CZE - Central Bohemian - Prague (IT Riverview), Czechia | On Site | Sep 09 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Cloud engineer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Cloud engineer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Cloud engineer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -81,6 +77,7 @@ This repository tracks current Cloud engineer positions from companies across di
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -89,8 +86,8 @@ This repository tracks current Cloud engineer positions from companies across di
 
 This repository gets consistent traffic from Cloud engineer professionals actively job searching. The audience is pre-qualified and specifically interested in Cloud engineer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)**
