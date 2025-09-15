@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Latitude](https://www.latitudeinc.net)** | **[Azure DevOps/Cloud Engineer](https://jobs.lever.co/latitudeinc/4302bf46-ebb4-41f9-b8c6-4857db0ef70a)** | Bethesda, MD | On Site | Sep 14 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4920102008)** | Washington, DC | On Site | Sep 12 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4920101008)** | Washington, DC | On Site | Sep 12 |
 | **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4920100008)** | Washington, DC | On Site | Sep 12 |
@@ -57,16 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lorton-VA/Cloud-Engineer_R-00166543)** | 3369 Lorton VA, United States | On Site | Sep 11 |
 | **[HORNBACH](https://www.hornbach.com/)** | **[(remote) Cloud Engineer](https://jobs.hornbach.com/Romania/job/Domne%C5%9Fti-%28remote%29-Cloud-Engineer-077090/1246414701/)** | Domneşti, RO, 077090 | Remote | Sep 11 |
 | **[Workday](https://www.workday.com/)** | **[Senior Cloud Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDChennai/Senior-Cloud-Engineer_JR-0100265)** | IND.Chennai, India | On Site | Sep 11 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Advisor - Cloud Engineer — Research Tech@Lilly](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Boston-MA/Advisor---Cloud-Engineer---Research-Tech-Lilly_R-92296-1)** | US: Boston MA Lilly Seaport Innovation Center, United States | On Site | Sep 11 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Lead Azure Cloud Engineer F/H](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Paris/Lead-Azure-Cloud-Software-Engineer-F-H_R0284003)** | Hoche, France | On Site | Sep 11 |
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Azure Cloud Engineer](https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/USA--PA--Remote/Azure-Cloud-Engineer-III_R2511627)** | USA - PA - Conshohocken - West First, United States | On Site | Sep 11 |
-| **[Western Governors University](https://www.wgu.edu/)** | **[Senior Cloud Engineer](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Senior-Cloud-Engineer_JR-022918-1)** | Salt Lake City Office, United States | On Site | Sep 11 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Senior Cloud Engineer](https://jobs.smartrecruiters.com/PublicStorage/744000081105666-senior-cloud-engineer)** | Plano, TX, United States | On Site | Sep 10 |
 | **[CreateFuture](https://hello.createfuture.com/)** | **[Senior Cloud Engineer](https://job-boards.eu.greenhouse.io/xdesign/jobs/4671670101)** | Edinburgh, Leeds, Manchester or London | On Site | Sep 10 |
+| **[Mayo Clinic](https://www.mayoclinic.org/)** | **[SR IT Cloud Engineer - Remote](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/366655)** | Rochester, MN, United States | Remote | Sep 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 38 companies | Avg salary: 182k  
+**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
