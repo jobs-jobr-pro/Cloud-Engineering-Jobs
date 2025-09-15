@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,7 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Cloud Engineer (Azure Cloud)](https://apply.workable.com/j/FBE8E3F371/apply)** | Singapore, Singapore, Singapore | On Site | Sep 15 |
+| **[CANCOM](https://www.cancom.de/)** | **[Cloud Engineer (m/w/d)](https://cancom-portal-xml.rexx-systems.com/Cloud-Engineer-mwd-de-j10444.html)** | Hamburg, Hamburg, DE; Frankfurt am Main, Hessen, DE; Düsseldorf, Nordrhein-Westfalen, DE; München, Bayern, DE; Aachen, Nordrhein-Westfalen, DE; Hannover, Niedersachsen, DE; Leipzig, Sachsen, DE; Berlin, Berlin, DE; Köln, Nordrhein-Westfalen, DE; Stuttgart, Baden-Württemberg, DE | On Site | Sep 15 |
 | **[WorkCover Queensland](https://www.worksafe.qld.gov.au/)** | **[Principal Cloud Engineer](https://careers.pageuppeople.com/615/cw/en/job/493916)** | Brisbane CBD | On Site | Sep 14 |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Cloud Engineer](https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/3455)** | Huntsville, AL, US | On Site | Sep 14 |
+| **[Oracle](https://www.oracle.com/)** | **[Senior Pre Sales Data & Cloud Engineer – Oracle Database Platform](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/307923)** | PETACH TIKVA, Israel | On Site | Sep 14 |
 | **[ValidaTek, Inc.](https://www.validatek.com)** | **[Senior Cloud Engineer](https://careers-validatek.icims.com/jobs/2386/senior-cloud-engineer/job?in_iframe=1)** | Arlington, VA, United States | On Site | Sep 14 |
 | **[Latitude](https://www.latitudeinc.net)** | **[Azure DevOps/Cloud Engineer](https://jobs.lever.co/latitudeinc/4302bf46-ebb4-41f9-b8c6-4857db0ef70a)** | Bethesda, MD | On Site | Sep 14 |
 | **[Omilia](https://omilia.com/)** | **[Cloud Engineer](https://apply.workable.com/j/5BB41FB133/apply)** | Poland - Remote | Remote | Sep 13 |
@@ -58,15 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XM](https://www.xm.com/)** | **[Cloud Engineer](https://jobs.eu.lever.co/xm/cc735e91-d93d-41a0-b29d-eb97d454d078)** | Limassol | On Site | Sep 11 |
 | **[Axway](https://www.axway.com)** | **[Senior Cloud Engineer](https://careers-axway.icims.com/jobs/8244/senior-services-consultant-ii/job?in_iframe=1)** | Sofia, Bulgaria | Remote | Sep 11 |
 | **[AIG](https://www.aig.com/)** | **[Cloud Engineer Japan](https://aig.wd1.myworkdayjobs.com/en-US/japan/job/Sumida-ku/Principal-Hybrid-Cloud-Engineer_JR2503893)** | 1-2-4 Kinshi - Arca West, Sumida-ku, Tokyo, JPN, Japan | On Site | Sep 11 |
-| **[Workday](https://www.workday.com/)** | **[Senior Cloud Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDChennai/Senior-Cloud-Engineer_JR-0100265)** | IND.Chennai, India | On Site | Sep 11 |
 | **[Manulife](https://www.manulife.com/)** | **[Cloud Engineer](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Cloud-Engineer_JR25081653-1)** | CAN, Ontario, Waterloo, 500 King Street North, Canada | On Site | Sep 11 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Sr. Cloud Engineer – Azure](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Sr-Cloud-Engineer---Azure_RQ207043-1)** | USA VA Home Office (VAHOME), United States | Remote | Sep 11 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Advisor - Cloud Engineer — Research Tech@Lilly](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Boston-MA/Advisor---Cloud-Engineer---Research-Tech-Lilly_R-92296-1)** | US: Boston MA Lilly Seaport Innovation Center, United States | On Site | Sep 11 |
-| **[HORNBACH](https://www.hornbach.com/)** | **[(remote) Cloud Engineer](https://jobs.hornbach.com/Romania/job/Domne%C5%9Fti-%28remote%29-Cloud-Engineer-077090/1246414701/)** | Domneşti, RO, 077090 | Remote | Sep 11 |
+| **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lorton-VA/Cloud-Engineer_R-00166543)** | 3369 Lorton VA, United States | On Site | Sep 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
