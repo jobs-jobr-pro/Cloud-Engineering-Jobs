@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -37,19 +37,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tchibo](https://www.tchibo.com/)** | **[Senior Cloud Engineer (AI Platform) (m/w/d)](https://jobs.tchibo.com/job/Hamburg-Senior-Cloud-Engineer-%28AI-Platform%29-%28mwd%29-Hamb-22297/1248536701/)** | Hamburg, Hamburg, DE, 22297 | On Site | Sep 18 |
 | **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Platform Engineer, AI Development focused)](https://clearroute.teamtailor.com/jobs/6467946-senior-quality-cloud-engineer-platform-engineer-ai-development-focused)** | Sydney, Australia | On Site | Sep 18 |
 | **[Ollion](https://ollion.com/)** | **[Sr Cloud Engineer](https://jobs.smartrecruiters.com/Ollion/744000082562714-sr-cloud-engineer)** | Austin, TX, United States | On Site | Sep 18 |
-| **[Syntax](https://www.syntax.com/)** | **[AWS Cloud Engineer](https://careers.syntax.com/job/San-Andres-Cholula-AWS-Cloud-Engineer-PUE-72830/1327219900/)** | San Andres Cholula, PUE, MX, 72830 | On Site | Sep 18 |
-| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Cloud Engineer](https://hiscox.wd3.myworkdayjobs.com/en-US/Hiscox_External_Site/job/Portugal-Lisbon/Cloud-Engineer_R0018089)** | Lisbon, Portugal | On Site | Sep 18 |
-| **[NTT DATA](https://nttdata.com)** | **[Azure Cloud Engineer](https://careers-inc.nttdata.com/job/Hyderabad-Azure-Cloud-Engineer-TG/1327242400/)** | Hyderabad, TG, IN | On Site | Sep 18 |
-| **[diconium](https://diconium.com/)** | **[Senior Cloud Engineer](https://diconium.wd3.myworkdayjobs.com/en-US/diconium/job/Bucharest/Senior-Cloud-Engineer_JR100476)** | Bucharest, Romania | On Site | Sep 18 |
-| **[Truist](https://www.truist.com/)** | **[Cloud Engineer II](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Cloud-Engineer-II_R0106807)** | Raleigh NC - 3201 Beechleaf Court, United States | On Site | Sep 18 |
 | **[Truist](https://www.truist.com/)** | **[Cloud Engineer III](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Cloud-Engineer-III_R0106809)** | Atlanta GA - 303 Peachtree Center Avenue - Garden Offices, United States | On Site | Sep 18 |
 | **[KBR, Inc.](https://www.kbr.com/)** | **[Senior Cloud Engineer](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Cloud-Engineer_R2112409)** | USA, Colorado Springs, 2424 Garden of the Gods Rd., Suite 100, Building E, Colorado, United States | On Site | Sep 18 |
+| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - AVP (Hybrid)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Digital-S-W-Eng-Sr-Analyst---C12---TAMPA_25872512-1)** | 3800 CITIGROUP CENTER DRIVE BUILDING C TAMPA, United States | On Site | Sep 18 |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Cloud Engineer](https://hiscox.wd3.myworkdayjobs.com/en-US/Hiscox_External_Site/job/Portugal-Lisbon/Cloud-Engineer_R0018089)** | Lisbon, Portugal | On Site | Sep 18 |
+| **[diconium](https://diconium.com/)** | **[Senior Cloud Engineer](https://diconium.wd3.myworkdayjobs.com/en-US/diconium/job/Bucharest/Senior-Cloud-Engineer_JR100476)** | Bucharest, Romania | On Site | Sep 18 |
 | **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://chevron.wd5.myworkdayjobs.com/en-US/ExternalCareerSite_Private/job/Bengaluru-Karnataka-India/Lead-Cloud-Engineer_R000064279-1)** | RMZ Ecoworld 32, India | On Site | Sep 18 |
+| **[Syntax](https://www.syntax.com/)** | **[AWS Cloud Engineer](https://careers.syntax.com/job/San-Andres-Cholula-AWS-Cloud-Engineer-PUE-72830/1327219900/)** | San Andres Cholula, PUE, MX, 72830 | On Site | Sep 18 |
+| **[Truist](https://www.truist.com/)** | **[Cloud Engineer II](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Cloud-Engineer-II_R0106807)** | Raleigh NC - 3201 Beechleaf Court, United States | On Site | Sep 18 |
 | **[UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/)** | **[Senior Cloud Engineer](https://ceh.wd3.myworkdayjobs.com/en-US/CEH_Careers/job/Lancaster/Senior-Cloud-Engineer_JR1487)** | Lancaster, United Kingdom | On Site | Sep 18 |
 | **[Sabre Corporation](https://www.sabre.com/)** | **[IT Service Desk L3 - Sr Cloud Engineer](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Bengaluru-Karnataka-India/IT-Service-Desk-L3---Sr-Cloud-Engineer_JR106760-1)** | India - Bangalore-Navigator Bldg | On Site | Sep 18 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Principal Lead Cloud Engineer](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/Principal-Lead-Cloud-Engineer_2117868-1)** | One Destiny Way, Westlake TX, United States | On Site | Sep 18 |
+| **[NTT DATA](https://nttdata.com)** | **[Azure Cloud Engineer](https://careers-inc.nttdata.com/job/Hyderabad-Azure-Cloud-Engineer-TG/1327242400/)** | Hyderabad, TG, IN | On Site | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Officer (Hybrid)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Digital-S-W-Eng-Intm-Analyst---Officer_25872519)** | 3800 CITIGROUP CENTER DRIVE BUILDING C TAMPA, United States | On Site | Sep 18 |
-| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - AVP (Hybrid)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Digital-S-W-Eng-Sr-Analyst---C12---TAMPA_25872512-1)** | 3800 CITIGROUP CENTER DRIVE BUILDING C TAMPA, United States | On Site | Sep 18 |
+| **[Fidelity Investments](https://www.fidelity.com/)** | **[Principal Lead Cloud Engineer](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/Principal-Lead-Cloud-Engineer_2117868-1)** | One Destiny Way, Westlake TX, United States | On Site | Sep 18 |
 | **[Ollion](https://ollion.com/)** | **[Lead - Cloud Engineer](https://jobs.smartrecruiters.com/Ollion/744000082524759-lead-cloud-engineer)** | Pune, MH, India | Remote | Sep 17 |
 | **[SMX](https://www.smxtech.com/)** | **[Cloud Engineer III (4675)](https://www.smxtech.com/careers/?gh_jid=7352288003)** | Huntsville, AL | On Site | Sep 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud Engineer AWS F/H](https://jobs.smartrecruiters.com/Devoteam/744000082459186-senior-cloud-engineer-aws-f-h)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Sep 17 |
