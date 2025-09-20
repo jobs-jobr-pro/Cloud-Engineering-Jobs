@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -28,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4928459008)** | Washington, DC | On Site | Sep 19 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4928458008)** | Washington, DC | On Site | Sep 19 |
 | **[Five9](https://www.five9.com/)** | **[Associate Cloud Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=5655588004)** | Manila, Manila, Philippines (Hybrid) | On Site | Sep 19 |
+| **[Euroclear](https://www.euroclear.com/)** | **[Senior Cloud Engineer](https://don.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/7946)** | Poland | On Site | Sep 19 |
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://mantech.avature.net/en_US/careers/JobDetail/Cloud-Engineer/40117)** | USA-MD-Fort Meade | On Site | Sep 19 |
 | **[Red Gate Group](https://www.redgategrp.com)** | **[Mid-Level Cloud Engineer](https://jobs.smartrecruiters.com/RedGateGroup/744000082933130-mid-level-cloud-engineer)** | Reston, VA, United States | On Site | Sep 19 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550](https://agileengine.zohorecruit.com/jobs/Careers/248544000231014271)** | Kraków, Poland | On Site | Sep 19 |
@@ -43,8 +44,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[First Advantage](https://fadv.com/)** | **[Senior Cloud Engineer](https://firstadvantage.applytojob.com/apply/0fVcuPVk07/Senior-Cloud-Engineer)** | Bangalore-560066, ITPL Bangalore | On Site | Sep 19 |
 | **[CACI International Inc](https://www.caci.com/)** | **[Enterprise Cloud Engineer](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-VA-Arlington/Enterprise-Cloud-Engineer_317142)** | AEE ARLINGTON VA, United States | On Site | Sep 19 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Regional Cloud Engineer](https://johnsonelectric.wd3.myworkdayjobs.com/en-US/Career_JE/job/Italy-Asti/Regional-Cloud-Engineer_R00027480-1)** | Italy Asti (General) | On Site | Sep 19 |
-| **[Humana](https://www.humana.com/)** | **[Senior Genesys Cloud Engineer remote](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Genesys-Cloud-Engineer-remote_R-388754)** | Remote US, United States | Remote | Sep 19 |
 | **[Maersk](https://www.maersk.com/)** | **[Devops & Cloud Engineer (DBA Base)](https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/IN---Bangalore/Devops---Cloud-Engineer--DBA-Base-_R161418)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Sep 19 |
+| **[Humana](https://www.humana.com/)** | **[Senior Genesys Cloud Engineer remote](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Genesys-Cloud-Engineer-remote_R-388754)** | Remote US, United States | Remote | Sep 19 |
 | **[AllCloud](https://allcloud.io/)** | **[Cloud Engineer](https://allcloud.io/careers/co/united-states/F6.B5D/cloud-engineer/all/)** | Remote, NY, US | Remote | Sep 18 |
 | **[GCI](https://gci.tech)** | **[AWS Cloud Engineer (TS/SCI with Poly Required)](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=6332d734-59f3-4300-b895-ce7c99551943)** | Chantilly, Virginia, United States | On Site | Sep 18 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Cloud Engineer (AWS)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210640344)** | Bengaluru, Karnataka, India | On Site | Sep 18 |
@@ -59,10 +60,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tchibo](https://www.tchibo.com/)** | **[Senior Cloud Engineer (AI Platform) (m/w/d)](https://jobs.tchibo.com/job/Hamburg-Senior-Cloud-Engineer-%28AI-Platform%29-%28mwd%29-Hamb-22297/1248536701/)** | Hamburg, Hamburg, DE, 22297 | On Site | Sep 18 |
 | **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Platform Engineer, AI Development focused)](https://clearroute.teamtailor.com/jobs/6467946-senior-quality-cloud-engineer-platform-engineer-ai-development-focused)** | Sydney, Australia | On Site | Sep 18 |
 | **[Ollion](https://ollion.com/)** | **[Sr Cloud Engineer](https://jobs.smartrecruiters.com/Ollion/744000082562714-sr-cloud-engineer)** | Austin, TX, United States | On Site | Sep 18 |
-| **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://chevron.wd5.myworkdayjobs.com/en-US/ExternalCareerSite_Private/job/Bengaluru-Karnataka-India/Lead-Cloud-Engineer_R000064279-1)** | RMZ Ecoworld 32, India | On Site | Sep 18 |
 | **[Syntax](https://www.syntax.com/)** | **[AWS Cloud Engineer](https://careers.syntax.com/job/San-Andres-Cholula-AWS-Cloud-Engineer-PUE-72830/1327219900/)** | San Andres Cholula, PUE, MX, 72830 | On Site | Sep 18 |
 | **[KBR, Inc.](https://www.kbr.com/)** | **[Senior Cloud Engineer](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Cloud-Engineer_R2112409)** | USA, Colorado Springs, 2424 Garden of the Gods Rd., Suite 100, Building E, Colorado, United States | On Site | Sep 18 |
-| **[Truist](https://www.truist.com/)** | **[Cloud Engineer III](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Cloud-Engineer-III_R0106809)** | Atlanta GA - 303 Peachtree Center Avenue - Garden Offices, United States | On Site | Sep 18 |
+| **[Truist](https://www.truist.com/)** | **[Cloud Engineer II](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Cloud-Engineer-II_R0106807)** | Raleigh NC - 3201 Beechleaf Court, United States | On Site | Sep 18 |
 
 ---
 
