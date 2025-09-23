@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BETSOL](https://www.betsol.com)** | **[Server/Cloud Engineer (L2)](https://jobs.smartrecruiters.com/BETSOL/744000083441455-server-cloud-engineer-l2-)** | Bengaluru, KA, India | On Site | Sep 23 |
 | **[Optimiza](https://optimiza.me/)** | **[DevOps / Cloud Engineer](https://apply.workable.com/j/A35ED2D094/apply)** | Amman, Amman Governorate, Jordan | On Site | Sep 23 |
 | **[Natera](https://www.natera.com/)** | **[Senior Salesforce Service Cloud Engineer](https://job-boards.greenhouse.io/natera/jobs/5578870004)** | Austin, TX | On Site | Sep 22 |
 | **[Qube Research & Technologies](https://www.qube-rt.com/)** | **[Cloud Engineer - AWS Specialist](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8066915002)** | London | On Site | Sep 22 |
@@ -60,13 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[adorsys GmbH & Co. KG](https://adorsys.com/)** | **[DevOps/Cloud Engineer – AZURE/AWS](https://adorsys.jobs.personio.de/job/1401459)** | Rumänien | On Site | Sep 19 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[DevOps Cloud Engineer – Experienced (REF4613Y)](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000082851010-devops-cloud-engineer-experienced-ref4613y-)** | Budapest, Debrecen, Pécs, Szeged, Hungary | On Site | Sep 19 |
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] DevOps Cloud Engineer (GCP)](https://jobs.smartrecruiters.com/SoftwareMind/744000082848838--cmi-devops-cloud-engineer-gcp-)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 19 |
-| **[BETSOL](https://www.betsol.com)** | **[Server/Cloud Engineer (L2)](https://jobs.smartrecruiters.com/BETSOL/744000082811005-server-cloud-engineer-l2-)** | Bengaluru, KA, India | On Site | Sep 19 |
-| **[CACI International Inc](https://www.caci.com/)** | **[Enterprise Cloud Engineer](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-VA-Arlington/Enterprise-Cloud-Engineer_317142)** | AEE ARLINGTON VA, United States | On Site | Sep 19 |
-| **[First Advantage](https://fadv.com/)** | **[Senior Cloud Engineer](https://firstadvantage.applytojob.com/apply/0fVcuPVk07/Senior-Cloud-Engineer)** | Bangalore-560066, ITPL Bangalore | On Site | Sep 19 |
+| **[Humana](https://www.humana.com/)** | **[Senior Genesys Cloud Engineer remote](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Genesys-Cloud-Engineer-remote_R-388754)** | Remote US, United States | Remote | Sep 19 |
+| **[Maersk](https://www.maersk.com/)** | **[Devops & Cloud Engineer (DBA Base)](https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/IN---Bangalore/Devops---Cloud-Engineer--DBA-Base-_R161418)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 36 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
