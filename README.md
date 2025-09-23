@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,16 +13,22 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Natera](https://www.natera.com/)** | **[Senior Salesforce Service Cloud Engineer](https://job-boards.greenhouse.io/natera/jobs/5578870004)** | Austin, TX | On Site | Sep 22 |
+| **[Qube Research & Technologies](https://www.qube-rt.com/)** | **[Cloud Engineer – AWS Specialist](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8060267002)** | Paris | On Site | Sep 22 |
+| **[Clickhouse](https://clickhouse.com/)** | **[Senior Cloud Engineer - Secure Deployments](https://job-boards.greenhouse.io/clickhouse/jobs/5656511004)** | United States (remote) | Remote | Sep 22 |
 | **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer](https://jobs.smartrecruiters.com/REPAGROUP/744000083252545-cloud-engineer)** | Cesena, Emilia-Romagna, Italy | On Site | Sep 22 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud Engineer AWS F/H](https://jobs.smartrecruiters.com/Devoteam/744000083240722-senior-cloud-engineer-aws-f-h)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Sep 22 |
 | **[Net Insight](https://netinsight.net/)** | **[Are you a Cloud Engineer ready to scale and shape the future of AI?](https://jobs.pinetree.se/jobs/6485864-are-you-a-cloud-engineer-ready-to-scale-and-shape-the-future-of-ai)** | Stockholm, Sweden | On Site | Sep 22 |
 | **[Webb Fontaine](https://webbfontaine.com/)** | **[Systems/Cloud Engineer](https://webbfontainegroup.teamtailor.com/jobs/6485833-systems-cloud-engineer)** | Dhaka, Bangladesh | On Site | Sep 22 |
-| **[Elia Group](https://www.eliagroup.eu)** | **[Cloud Engineer (f/m/d)](https://jobs.eliagroup.eu/50Hertz/job/Berlin-Cloud-Engineer-%28fmd%29-BE-10557/816251302/)** | Berlin, BE, DE, 10557 | On Site | Sep 22 |
+| **[Swisscom](https://www.swisscom.ch/en/about/career/devops-rotterdam.html)** | **[Data, AI & Cloud Engineer](https://sdcrotterdam.swisscom.ch/o/data-ai-cloud-engineer)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Sep 22 |
+| **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Senior Cloud Engineer (Azure)](https://jobs.smartrecruiters.com/SoftwareMind/744000083170166--cmi-senior-cloud-engineer-azure-)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 22 |
+| **[StoneX Group](https://www.stonex.com/)** | **[Senior Cloud Engineer](https://english-stonex.icims.com/jobs/13709/senior-cloud-engineer/job?in_iframe=1)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[Cloud Engineer (w/m/d)](https://jobs.eliagroup.eu/50Hertz/job/Berlin-Cloud-Engineer-%28wmd%29-BE-10557/816251402/)** | Berlin, BE, DE, 10557 | On Site | Sep 22 |
+| **[Elia Group](https://www.eliagroup.eu)** | **[Cloud Engineer (f/m/d)](https://jobs.eliagroup.eu/50Hertz/job/Berlin-Cloud-Engineer-%28fmd%29-BE-10557/816251302/)** | Berlin, BE, DE, 10557 | On Site | Sep 22 |
 | **[Viva Energy Australia](https://www.vivaenergy.com.au)** | **[52650860-Cloud Engineer](https://jobs.smartrecruiters.com/VivaEnergyAustralia/744000083142305-52650860-cloud-engineer)** | Melbourne, VIC, Australia | On Site | Sep 22 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Cloud Engineer](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Cloud-Engineer_32476)** | GH Office: Tysons Corner, VA (Headquarters), United States | On Site | Sep 22 |
-| **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=332105)** | Pune, India | On Site | Sep 22 |
 | **[The Missing Link](https://www.themissinglink.com.au/)** | **[L3 IT Systems & Cloud Engineer](https://apply.workable.com/j/6F7CF4D1C3/apply)** | Artarmon, New South Wales, Australia | On Site | Sep 22 |
+| **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=332105)** | Pune, India | On Site | Sep 22 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer II (5877)](https://metrostar.com/job-post/?gh_jid=7450364003)** | Washington, DC | On Site | Sep 20 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (5875)](https://metrostar.com/job-post/?gh_jid=7450363003)** | Washington, DC | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer, App Modernization, Professional Services, Google Cloud (English, Spanish)](https://www.google.com/about/careers/applications/jobs/results/89881905167508166-cloud-engineer-app-modernization-professional-services-google-cloud-english-spanish)** | Mexico City, CDMX, Mexico | On Site | Sep 20 |
@@ -53,20 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[DevOps Cloud Engineer – Experienced (REF4613Y)](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000082851010-devops-cloud-engineer-experienced-ref4613y-)** | Budapest, Debrecen, Pécs, Szeged, Hungary | On Site | Sep 19 |
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] DevOps Cloud Engineer (GCP)](https://jobs.smartrecruiters.com/SoftwareMind/744000082848838--cmi-devops-cloud-engineer-gcp-)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 19 |
 | **[BETSOL](https://www.betsol.com)** | **[Server/Cloud Engineer (L2)](https://jobs.smartrecruiters.com/BETSOL/744000082811005-server-cloud-engineer-l2-)** | Bengaluru, KA, India | On Site | Sep 19 |
-| **[Humana](https://www.humana.com/)** | **[Senior Genesys Cloud Engineer remote](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Genesys-Cloud-Engineer-remote_R-388754)** | Remote US, United States | Remote | Sep 19 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Enterprise Cloud Engineer](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-VA-Arlington/Enterprise-Cloud-Engineer_317142)** | AEE ARLINGTON VA, United States | On Site | Sep 19 |
 | **[First Advantage](https://fadv.com/)** | **[Senior Cloud Engineer](https://firstadvantage.applytojob.com/apply/0fVcuPVk07/Senior-Cloud-Engineer)** | Bangalore-560066, ITPL Bangalore | On Site | Sep 19 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Regional Cloud Engineer](https://johnsonelectric.wd3.myworkdayjobs.com/en-US/Career_JE/job/Italy-Asti/Regional-Cloud-Engineer_R00027480-1)** | Italy Asti (General) | On Site | Sep 19 |
 | **[Maersk](https://www.maersk.com/)** | **[Devops & Cloud Engineer (DBA Base)](https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/IN---Bangalore/Devops---Cloud-Engineer--DBA-Base-_R161418)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Sep 19 |
-| **[AllCloud](https://allcloud.io/)** | **[Cloud Engineer](https://allcloud.io/careers/co/united-states/F6.B5D/cloud-engineer/all/)** | Remote, NY, US | Remote | Sep 18 |
-| **[GCI](https://gci.tech)** | **[AWS Cloud Engineer (TS/SCI with Poly Required)](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=6332d734-59f3-4300-b895-ce7c99551943)** | Chantilly, Virginia, United States | On Site | Sep 18 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Cloud Engineer (AWS)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210640344)** | Bengaluru, Karnataka, India | On Site | Sep 18 |
-| **[Public Cloud Group](https://pcg.io/)** | **[Senior Google Cloud Engineer - Google Digital Workplace, schweizweit](https://jobs.ashbyhq.com/publiccloudgroup/2a01508f-5a8b-4d38-8b5d-04f34afb4c3a)** | Remote - CH | On Site | Sep 18 |
-| **[Accenture Federal Services](https://www.accenture.com/)** | **[Azure Cleared Cloud Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4425911006?gh_jid=4425911006)** | Washington, DC | On Site | Sep 18 |
-| **[Virginia.gov](https://www.virginia.gov/)** | **[AWS Cloud Engineer](https://careers.pageuppeople.com/1125/cw/en-us/job/5091126)** | Q - Z, Richmond (City), Virginia | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 188k  
+**Current Stats:** 50 jobs | 4% remote | 36 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
