@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Genpact](https://www.genpact.com/)** | **[Principal Consultant -Cloud Engineer!](https://jobr.pro/job/29143815/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Kolkata | On Site | Oct 01 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer (OTC) - (REF4724W)](https://jobr.pro/job/29135682/cloud-engineer-otc-ref4724w?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Oct 01 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer- Ostrava](https://jobr.pro/job/29135683/cloud-engineer-ostrava?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Moravská Ostrava a Přívoz, Moravskoslezský kraj, Czechia | On Site | Oct 01 |
 | **[TRUSTEQ](https://jobs.trusteq.de)** | **[(Senior) Cloud Engineer / Architect (m/ w/ d)](https://jobr.pro/job/29120633/senior-cloud-engineer-architect-m-w-d?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Köln | On Site | Oct 01 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Cloud Engineer (Junior Expert)](https://jobr.pro/job/29103674/cloud-engineer-junior-expert?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Louisville, KY, US, KY 40219 | On Site | Oct 01 |
 | **[Postman](https://www.postman.com/)** | **[Senior Cloud Engineer, Cloud Platform](https://jobr.pro/job/29096285/senior-cloud-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, UK | On Site | Oct 01 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[66degrees](https://66degrees.com/)** | **[Google Cloud Engineer/Administrator](https://jobr.pro/job/28999630/google-cloud-engineeradministrator?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune | On Site | Sep 29 |
 | **[Sectra](https://sectra.com/)** | **[Cloud Engineer](https://jobr.pro/job/28976807/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mississauga | On Site | Sep 29 |
 | **[SonarSource](https://sonarsource.com/)** | **[MLOps Cloud Engineer](https://jobr.pro/job/28997815/mlops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bochum | Remote | Sep 29 |
-| **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/28994660/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San José, CR - Remote/Hybrid | Remote | Sep 29 |
-| **[Oracle](https://www.oracle.com/)** | **[Principal Cloud Engineer, Technology, China](https://jobr.pro/job/28939409/principal-cloud-engineer-technology-china?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | China | On Site | Sep 29 |
-| **[Halliburton](https://www.halliburton.com/)** | **[LG856-Cloud Engineer - Senior](https://jobr.pro/job/28905883/lg856-cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, IN, 560103 | On Site | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 37 companies | Avg salary: 151k  
+**Current Stats:** 50 jobs | 14% remote | 38 companies | Avg salary: 151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
