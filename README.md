@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[VMD Corp](https://vmdcorp.com/)** | **[Cloud Engineer (AWS, C2S/C2E) - TS/SCI](https://jobr.pro/job/29175461/cloud-engineer-aws-c2sc2e-tssci?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bethesda, MD, United States | On Site | Oct 01 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer](https://jobr.pro/job/29175598/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Praha 1, Hlavní město Praha, Czechia | On Site | Oct 01 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant -Cloud Engineer!](https://jobr.pro/job/29143815/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Kolkata | On Site | Oct 01 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer (OTC) - (REF4724W)](https://jobr.pro/job/29135682/cloud-engineer-otc-ref4724w?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Oct 01 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer- Ostrava](https://jobr.pro/job/29135683/cloud-engineer-ostrava?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Moravská Ostrava a Přívoz, Moravskoslezský kraj, Czechia | On Site | Oct 01 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/28992737/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Sep 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/28992738/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Sep 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://jobr.pro/job/28992742/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Sep 29 |
-| **[LightFeather](https://lightfeather.io/)** | **[Principal AWS Cloud Engineer](https://jobr.pro/job/28992751/principal-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Sep 29 |
-| **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/28992753/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 164k  
+**Current Stats:** 50 jobs | 12% remote | 38 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
