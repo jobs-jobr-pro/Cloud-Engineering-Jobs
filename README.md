@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Air New Zealand](https://www.airnewzealand.co.nz)** | **[Senior Cloud Engineer - Google Cloud](https://jobr.pro/job/29195729/senior-cloud-engineer-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 02 |
+| **[Air New Zealand](https://www.airnewzealand.co.nz)** | **[Senior Cloud Engineer (Google Cloud)](https://jobr.pro/job/29280520/senior-cloud-engineer-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 03 |
+| **[Point72](https://www.point72.com/)** | **[Cloud Engineer](https://jobr.pro/job/29272376/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY | On Site | Oct 02 |
+| **[idealo](https://www.idealo.de/)** | **[Senior Cloud Engineer – AI Platform (LLM) (f/m/x)](https://jobr.pro/job/29272130/senior-cloud-engineer-ai-platform-llm-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, Berlin, Deutschland | On Site | Oct 02 |
+| **[Kunai](https://www.kunaico.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/29276825/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | Oct 02 |
+| **[Tietoevry](https://www.tietoevry.com/)** | **[DevOps/Cloud Engineer – Tietoevry Create (m/f/d)](https://jobr.pro/job/29288774/devopscloud-engineer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fornebu, Norway | On Site | Oct 02 |
+| **[Tide](https://www.tide.co/)** | **[Staff Cloud Engineer](https://jobr.pro/job/29281833/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lithuania | Remote | Oct 02 |
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Cloud Engineer](https://jobr.pro/job/29254720/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PJC-PJ City, Malaysia | On Site | Oct 02 |
 | **[Essity](https://www.essity.com/)** | **[Cloud Engineer](https://jobr.pro/job/29256718/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Portugal | On Site | Oct 02 |
 | **[Truist](https://www.truist.com/)** | **[Cloud Engineer II](https://jobr.pro/job/29261095/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raleigh NC - 3201 Beechleaf Court, United States | On Site | Oct 02 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Plume Design, Inc](https://www.plume.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/28992697/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | Remote | Sep 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Engenheiro (a) de Solução - Principal Cloud Engineer](https://jobr.pro/job/29038118/engenheiro-a-de-solucao-principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SAO PAULO, SP, Brazil | On Site | Sep 29 |
 | **[Tyto Athene](https://gotyto.com/)** | **[Sr. Cloud Engineer (remote)](https://jobr.pro/job/28975714/sr-cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work From Home, United States | Remote | Sep 29 |
-| **[Tyto Athene](https://gotyto.com/)** | **[Cloud Engineer (remote)](https://jobr.pro/job/28975703/cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work From Home, United States | Remote | Sep 29 |
-| **[Virginia.gov](https://www.virginia.gov/)** | **[Cloud Engineer I](https://jobr.pro/job/29032733/cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Q - Z, Richmond (City), Virginia | On Site | Sep 29 |
-| **[Encora](https://www.encora.com/)** | **[Cloud Engineer](https://jobr.pro/job/28996855/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lima | On Site | Sep 29 |
-| **[ConnectWise](https://www.connectwise.com/)** | **[Principal Storage Cloud Engineer I](https://jobr.pro/job/29009475/principal-storage-cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ARM Remote OR EU | Remote | Sep 29 |
-| **[Loopio](https://loopio.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/29000015/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, ON Hub | Remote | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 160k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
