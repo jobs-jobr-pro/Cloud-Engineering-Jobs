@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -20,6 +20,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Air New Zealand](https://www.airnewzealand.co.nz)** | **[Senior Cloud Engineer (Google Cloud)](https://jobr.pro/job/29280520/senior-cloud-engineer-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Oct 03 |
 | **[Bitcoin Suisse AG](https://www.bitcoinsuisse.com)** | **[Microsoft 365 & Azure Cloud Engineer](https://jobr.pro/job/29318927/microsoft-365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bratislava, Slovakia | On Site | Oct 03 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Java - Azure Cloud Engineer \|\| Chennai](https://jobr.pro/job/29337318/java-azure-cloud-engineer-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 03 |
+| **[Christie's](https://www.christies.com/)** | **[Lead Cloud Engineer - Azure](https://jobr.pro/job/29347487/lead-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, United Kingdom | On Site | Oct 03 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, CB AI Integration Services - Assistant Vice President](https://jobr.pro/job/29347370/cloud-engineer-cb-ai-integration-services-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cary, 3000 CentreGreen Way, United States | On Site | Oct 03 |
+| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Public Cloud Inventory (VP)](https://jobr.pro/job/29346049/cloud-engineer-public-cloud-inventory-vp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Oct 03 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Cloud Engineer, Specialist](https://jobr.pro/job/29347187/cloud-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wayne, PA, United States | On Site | Oct 03 |
+| **[DXC Technology](https://dxc.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/29346318/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 03 |
+| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Public Cloud Observability (VP)](https://jobr.pro/job/29346041/cloud-engineer-public-cloud-observability-vp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Oct 03 |
 | **[Point72](https://www.point72.com/)** | **[Cloud Engineer](https://jobr.pro/job/29272376/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY | On Site | Oct 02 |
 | **[ADT](https://www.adt.com/)** | **[DevOps & Cloud Engineer Intern](https://jobr.pro/job/29314480/devops-cloud-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boca Raton, FL, United States | On Site | Oct 02 |
 | **[idealo](https://www.idealo.de/)** | **[Senior Cloud Engineer – AI Platform (LLM) (f/m/x)](https://jobr.pro/job/29272130/senior-cloud-engineer-ai-platform-llm-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, Berlin, Deutschland | On Site | Oct 02 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Senior Cloud Engineer (Azure)](https://jobr.pro/job/29100430/cmi-senior-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 30 |
 | **[Stellantis](https://www.stellantis.com/)** | **[Jr Cloud engineer](https://jobr.pro/job/29074163/jr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Europe, France | On Site | Sep 30 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Hybrid Cloud Engineer](https://jobr.pro/job/29106633/hybrid-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oslo, Oslo, Norway | On Site | Sep 30 |
-| **[Google](https://www.google.com/)** | **[Cloud Engineer, Platform and Infrastructure, PSO, Google Cloud](https://jobr.pro/job/29035120/cloud-engineer-platform-and-infrastructure-pso-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA, USA; Austin, TX, USA | On Site | Sep 30 |
-| **[INTRALOT](https://www.intralot.com/)** | **[Cloud Engineer](https://jobr.pro/job/29089420/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attikí, Greece | On Site | Sep 30 |
-| **[Openchip & Software Technologies](https://openchip.com/)** | **[Junior Cloud Engineer](https://jobr.pro/job/28989227/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hybrid (Limerick, Ireland) | On Site | Sep 30 |
-| **[ASML](https://www.asml.com/)** | **[Cloud Engineer](https://jobr.pro/job/29082662/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Shanghai Offices, China | On Site | Sep 30 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer - Data Hosting](https://jobr.pro/job/29039344/senior-cloud-engineer-data-hosting?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Sep 30 |
-| **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://jobr.pro/job/29076051/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 1662 Intelligence Community Campus - Bethesda MD, United States | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 162k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
