@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/29415275/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, WARSZAWA, Poland | Remote | Oct 05 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Azure Cloud Engineer](https://jobr.pro/job/29396699/principal-consultant-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer I, Networking, Professional Services, Google Cloud](https://jobr.pro/job/29387100/cloud-engineer-i-networking-professional-services-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, USA; Atlanta, GA, USA | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer, Application Modernization, Global Services Delivery](https://jobr.pro/job/29386956/cloud-engineer-application-modernization-global-services-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SMX](https://www.smxtech.com/)** | **[AWS Cloud Engineer (4505)](https://jobr.pro/job/29185984/aws-cloud-engineer-4505?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 01 |
 | **[VMD Corp](https://vmdcorp.com/)** | **[Cloud Engineer (AWS, C2S/C2E) - TS/SCI](https://jobr.pro/job/29175461/cloud-engineer-aws-c2sc2e-tssci?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bethesda, MD, United States | On Site | Oct 01 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4504)](https://jobr.pro/job/29185985/azure-cloud-engineer-4504?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 01 |
-| **[FWG Solutions, Inc.](https://www.fwgsolutions.com/)** | **[Cloud Engineer](https://jobr.pro/job/29186877/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Antonio, TX | On Site | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 36 companies | Avg salary: 153k  
+**Current Stats:** 50 jobs | 14% remote | 36 companies | Avg salary: 153k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
