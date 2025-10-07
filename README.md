@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bayer](https://www.bayer.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/29498773/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Oct 07 |
 | **[Eurofins](https://www.eurofins.com)** | **[IT Infra Cloud Engineer](https://jobr.pro/job/29480542/it-infra-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | George Town, Penang, Malaysia | On Site | Oct 07 |
 | **[Chatham Financial](https://www.chathamfinancial.com/)** | **[Cloud Engineer](https://jobr.pro/job/29480305/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Charlotte, North Carolina, United States | On Site | Oct 06 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/29466476/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, WARSZAWA, Poland | Remote | Oct 06 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bitcoin Suisse AG](https://www.bitcoinsuisse.com)** | **[Microsoft 365 & Azure Cloud Engineer](https://jobr.pro/job/29318927/microsoft-365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bratislava, Slovakia | On Site | Oct 03 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, CB AI Integration Services - Assistant Vice President](https://jobr.pro/job/29347370/cloud-engineer-cb-ai-integration-services-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cary, 3000 CentreGreen Way, United States | On Site | Oct 03 |
 | **[Christie's](https://www.christies.com/)** | **[Lead Cloud Engineer - Azure](https://jobr.pro/job/29347487/lead-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, United Kingdom | On Site | Oct 03 |
-| **[DXC Technology](https://dxc.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/29346318/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 03 |
 
 ---
 
