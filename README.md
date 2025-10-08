@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AgileEngine](https://agileengine.com/)** | **[Salesforce Data Cloud Engineer ID42615](https://jobr.pro/job/29745856/salesforce-data-cloud-engineer-id42615?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Barranquilla, Colombia | On Site | Oct 08 |
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Artificial Intelligence](https://jobr.pro/job/29712758/strategic-cloud-engineer-artificial-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India; Gurugram, Haryana, India | On Site | Oct 08 |
+| **[Ollion](https://ollion.com/)** | **[Lead - Cloud Engineer](https://jobr.pro/job/29742674/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, India | Remote | Oct 08 |
+| **[Inetum](https://www.inetum.com)** | **[Cloud Engineer](https://jobr.pro/job/29742681/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucharest, Bucharest, Romania | On Site | Oct 08 |
 | **[NEXTDC](https://www.nextdc.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/29589123/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Oct 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/29732676/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 08 |
 | **[Protera](https://www.protera.com/)** | **[Cloud Engineer (L2)](https://jobr.pro/job/29672420/cloud-engineer-l2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Oct 08 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Azure Cloud Engineer](https://jobr.pro/job/29396699/principal-consultant-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer I, Networking, Professional Services, Google Cloud](https://jobr.pro/job/29387100/cloud-engineer-i-networking-professional-services-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, USA; Atlanta, GA, USA | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer, Application Modernization, Global Services Delivery](https://jobr.pro/job/29386956/cloud-engineer-application-modernization-global-services-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 04 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[.NET Core Cloud Engineer](https://jobr.pro/job/29413843/net-core-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil Offsite | Remote | Oct 04 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Mid-level .NET Core Cloud Engineer](https://jobr.pro/job/29413842/mid-level-net-core-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil Offsite | Remote | Oct 04 |
-| **[Accenture](https://www.accenture.com/)** | **[Cloud Engineer (Azure/AWS)](https://jobr.pro/job/29402477/cloud-engineer-azureaws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Petaling Jaya, Kelana Park View Tower, Malaysia | On Site | Oct 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 38 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
