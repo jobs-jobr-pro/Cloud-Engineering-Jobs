@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -22,11 +22,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AccorCorpo](https://careers.accor.com)** | **[Cloud Engineer](https://jobr.pro/job/29823504/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Bangkok, Thailand | On Site | Oct 09 |
 | **[iKnowHow S.A.](https://www.iknowhow.com)** | **[Senior Cloud Engineer/Architect](https://jobr.pro/job/29876046/senior-cloud-engineerarchitect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attica, Greece | On Site | Oct 09 |
 | **[iKnowHow S.A.](https://www.iknowhow.com)** | **[Cloud Engineer](https://jobr.pro/job/29876042/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attica, Greece | On Site | Oct 09 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr System & Cloud Engineer](https://jobr.pro/job/29894579/sr-system-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Arizona - Scottsdale - Corp - N 90th St, United States | On Site | Oct 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer (Data) - TS/SCI with Polygraph](https://jobr.pro/job/29895568/cloud-engineer-data-tssci-with-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA McLean - Customer Proprietary (VAC036), United States | On Site | Oct 09 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/29870623/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 09 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io/)** | **[Cloud Engineer - Azure](https://jobr.pro/job/29870620/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 09 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io/)** | **[Cloud Engineer - AWS](https://jobr.pro/job/29870614/cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 09 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr System & Cloud Engineer](https://jobr.pro/job/29894579/sr-system-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Arizona - Scottsdale - Corp - N 90th St, United States | On Site | Oct 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer - TS/SCI w/ Poly](https://jobr.pro/job/29895547/cloud-engineer-tssci-w-poly?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Herndon - Customer Proprietary (VAC032), United States | On Site | Oct 09 |
 | **[Clickhouse](https://clickhouse.com/)** | **[Senior Cloud Engineer - Product Metrics](https://jobr.pro/job/29831236/senior-cloud-engineer-product-metrics?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canada (remote) | Remote | Oct 08 |
 | **[Valtech](https://www.valtech.com/)** | **[Azure Senior Cloud Engineer](https://jobr.pro/job/29818895/azure-senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal - Remote | Remote | Oct 08 |
