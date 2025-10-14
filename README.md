@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Computershare](https://www.computershare.com/)** | **[Public Cloud Engineer](https://jobr.pro/job/30193975/public-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, United Kingdom | On Site | Oct 14 |
+| **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Consultant Bangalore](https://jobr.pro/job/30187295/gcp-cloud-engineer-consultant-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 14 |
+| **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/30187285/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 14 |
 | **[Eurofins](https://www.eurofins.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/30146597/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, India | On Site | Oct 14 |
+| **[ACC](https://www.acc.co.nz/)** | **[Cloud Engineer - CloudOps](https://jobr.pro/job/30194883/cloud-engineer-cloudops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wellington, New Zealand | On Site | Oct 14 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Platformatization Cloud Engineer (CDSS - Cloud Delivered Security Services)](https://jobr.pro/job/30133507/sr-staff-platformatization-cloud-engineer-cdss-cloud-delivered-security-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Santa Clara, CA, United States | On Site | Oct 13 |
 | **[VusionGroup SA](https://www.ses-imagotag.com)** | **[Cloud Engineer](https://jobr.pro/job/30133513/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Coppell, TX, United States | On Site | Oct 13 |
 | **[Cloudscaler](https://cloudscaler.com/)** | **[Principal Cloud Engineer (AWS)](https://jobr.pro/job/30147462/principal-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | Remote | Oct 13 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EY](https://www.ey.com)** | **[Senior Cloud Engineer - EY GDS Spain - Hybrid](https://jobr.pro/job/29937464/senior-cloud-engineer-ey-gds-spain-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malaga, ES, 29590 | On Site | Oct 10 |
 | **[DMV IT Service](https://www.dmvitservice.com/)** | **[Cloud Engineer](https://jobr.pro/job/29934964/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dallas, Texas, United States | On Site | Oct 10 |
 | **[State Street](https://www.statestreet.com/)** | **[Senior Cloud Engineer - Assistant Vice President](https://jobr.pro/job/29983146/senior-cloud-engineer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, India | On Site | Oct 10 |
-| **[AIS (Applied Information Sciences)](https://www.ais.com/)** | **[Cloud Engineer](https://jobr.pro/job/29984879/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - DC, United States | Remote | Oct 10 |
-| **[UBS](https://www.ubs.com/)** | **[Azure Cloud Engineer, HRCS AI Engineering](https://jobr.pro/job/29954347/azure-cloud-engineer-hrcs-ai-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Poland | On Site | Oct 10 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/29963171/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA, OH, Beavercreek (3800 Pentagon Blvd), United States | On Site | Oct 10 |
-| **[dv01](https://www.dv01.co/)** | **[Cloud Engineer II](https://jobr.pro/job/29905020/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - USA | Remote | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 38 companies | Avg salary: 168k  
+**Current Stats:** 50 jobs | 10% remote | 37 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
