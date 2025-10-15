@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -27,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Cloud Engineer/Principal Cloud Engineer (AHT)](https://jobr.pro/job/30270941/cloud-engineerprincipal-cloud-engineer-aht?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | OHWP10GC, United States | On Site | Oct 15 |
 | **[Merative](https://www.merative.com/)** | **[Cloud Engineer (Mid- Level)](https://jobr.pro/job/30275271/cloud-engineer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mississauga, Ontario, Canada | Remote | Oct 15 |
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer – HPC Compute](https://jobr.pro/job/30255569/cloud-engineer-hpc-compute?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Oct 15 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Java - Azure Cloud Engineer \|\| Chennai](https://jobr.pro/job/30284114/java-azure-cloud-engineer-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 15 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/30220713/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 14 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/30220709/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 14 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/30220712/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 14 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eurofins](https://www.eurofins.com)** | **[IT Infrastructure Cloud Engineer](https://jobr.pro/job/30080045/it-infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Oct 13 |
 | **[Atmosera](https://www.atmosera.com/)** | **[Cloud Engineer - Talent Pipeline (Remote)](https://jobr.pro/job/30142229/cloud-engineer-talent-pipeline-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL | Remote | Oct 13 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Java Cloud Engineer](https://jobr.pro/job/30133613/senior-java-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Krakow, Poland | On Site | Oct 13 |
-| **[Barclays](https://home.barclays/)** | **[Aws Cloud Engineer](https://jobr.pro/job/30111484/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 13 |
 
 ---
 
