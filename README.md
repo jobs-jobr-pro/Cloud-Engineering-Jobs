@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer - HPC Storage](https://jobr.pro/job/30368994/lead-cloud-engineer-hpc-storage?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Oct 16 |
 | **[Delinea](https://delinea.com/)** | **[Cloud Engineer - Governance](https://jobr.pro/job/30327106/cloud-engineer-governance?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City | On Site | Oct 15 |
 | **[NYISO](https://www.nyiso.com/)** | **[Cloud Engineer](https://jobr.pro/job/30331599/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rensselaer, New York, United States | On Site | Oct 15 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior DevOps Google Cloud Engineer](https://jobr.pro/job/30310687/senior-devops-google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Oct 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ClearRoute](https://clearroute.io/)** | **[Quality Cloud Engineer (C++ Developer)](https://jobr.pro/job/30177590/quality-cloud-engineer-c-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, United States | On Site | Oct 13 |
 | **[IHG](https://www.ihg.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30102386/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | GA, United States | On Site | Oct 13 |
 | **[ARHS](https://www.arhs-group.com)** | **[Cloud Engineer](https://jobr.pro/job/30133518/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Luxembourg, Luxembourg District, Luxembourg | On Site | Oct 13 |
-| **[84.51°](https://www.8451.com/)** | **[Senior Cloud Engineer (P3957)](https://jobr.pro/job/30144470/senior-cloud-engineer-p3957?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cincinnati, OH; Chicago, IL | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
