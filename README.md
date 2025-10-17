@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, AVP](https://jobr.pro/job/30408744/cloud-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Oct 16 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Java Cloud Engineer - RFT Technology (Accounting Domain)](https://jobr.pro/job/30408730/java-cloud-engineer-rft-technology-accounting-domain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Oct 16 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Splunk Cloud Engineer - Associate](https://jobr.pro/job/30408716/splunk-cloud-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, 901 N. Glebe Road, United States | On Site | Oct 16 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Azure Cloud Architect - Senior Cloud Engineer - Level 3](https://jobr.pro/job/30411859/azure-cloud-architect-senior-cloud-engineer-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 379 ANNAPOLIS JUNCTION MD, United States | On Site | Oct 16 |
 | **[Delinea](https://delinea.com/)** | **[Cloud Engineer - Governance](https://jobr.pro/job/30327106/cloud-engineer-governance?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City | On Site | Oct 15 |
 | **[NYISO](https://www.nyiso.com/)** | **[Cloud Engineer](https://jobr.pro/job/30331599/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rensselaer, New York, United States | On Site | Oct 15 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior DevOps Google Cloud Engineer](https://jobr.pro/job/30310687/senior-devops-google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Oct 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eurofins](https://www.eurofins.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/30146597/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, India | On Site | Oct 14 |
 | **[ACC](https://www.acc.co.nz/)** | **[Cloud Engineer - CloudOps](https://jobr.pro/job/30194883/cloud-engineer-cloudops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wellington, New Zealand | On Site | Oct 14 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Platformatization Cloud Engineer (CDSS - Cloud Delivered Security Services)](https://jobr.pro/job/30133507/sr-staff-platformatization-cloud-engineer-cdss-cloud-delivered-security-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Santa Clara, CA, United States | On Site | Oct 13 |
-| **[VusionGroup SA](https://www.ses-imagotag.com)** | **[Cloud Engineer](https://jobr.pro/job/30133513/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Coppell, TX, United States | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 35 companies | Avg salary: 169k  
+**Current Stats:** 50 jobs | 4% remote | 35 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
