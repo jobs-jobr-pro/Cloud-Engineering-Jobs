@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550](https://jobr.pro/job/30534443/devopscloud-engineer-seniorlead-id38550?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Katowice, Poland | On Site | Oct 18 |
 | **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30493752/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Oct 18 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead, Cloud Engineer](https://jobr.pro/job/30554676/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CA - ON VIRTUAL, Canada | Remote | Oct 18 |
 | **[Varicent](https://www.varicent.com/)** | **[Cloud Engineer (Remote - Mexico Only)](https://jobr.pro/job/30500847/cloud-engineer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, México | Remote | Oct 17 |
 | **[SMX](https://www.smxtech.com/)** | **[AWS Cloud Engineer (4505)](https://jobr.pro/job/30504876/aws-cloud-engineer-4505?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4504)](https://jobr.pro/job/30504877/azure-cloud-engineer-4504?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AECOM](https://www.aecom.com)** | **[Data Cloud Engineer](https://jobr.pro/job/30257807/data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucharest, 11-15 TIPOGRAFILOR S, Romania | On Site | Oct 15 |
 | **[Eurofins](https://www.eurofins.com)** | **[Cloud Engineer](https://jobr.pro/job/30257809/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | George Town, Penang, Malaysia | On Site | Oct 15 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Consultant Bangalore](https://jobr.pro/job/30271314/gcp-cloud-engineer-consultant-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 15 |
-| **[Merative](https://www.merative.com/)** | **[Cloud Engineer (Mid- Level)](https://jobr.pro/job/30275271/cloud-engineer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mississauga, Ontario, Canada | Remote | Oct 15 |
 
 ---
 
