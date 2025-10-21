@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 20:57 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -17,11 +17,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MigrationIT](https://www.migrationit.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/30578644/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nasr City, Egypt | On Site | Oct 20 |
 | **[Fulcrum Digital](https://fulcrumdigital.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30578254/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Oct 20 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - AWS Cloud Engineer and Java](https://jobr.pro/job/30573403/software-engineer-ii-aws-cloud-engineer-and-java?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | LONDON, United Kingdom | On Site | Oct 20 |
-| **[FICO](https://www.fico.com/)** | **[Sr. Cloud Engineer (EKS and Kubernetes SME)](https://jobr.pro/job/30585507/sr-cloud-engineer-eks-and-kubernetes-sme?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work from Home, United States, United States | Remote | Oct 20 |
-| **[UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30584766/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lancaster, United Kingdom | On Site | Oct 20 |
 | **[Accenture](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/30585577/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Oct 20 |
 | **[State Street](https://www.statestreet.com/)** | **[Senior Cloud Engineer - Assistant Vice President](https://jobr.pro/job/30603705/senior-cloud-engineer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, India | On Site | Oct 20 |
 | **[AIS (Applied Information Sciences)](https://www.ais.com/)** | **[Senior Cloud Engineer - On-Site](https://jobr.pro/job/30606425/senior-cloud-engineer-on-site?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Client Site (Confidential) - Lorton, VA, United States | On Site | Oct 20 |
+| **[UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30584766/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lancaster, United Kingdom | On Site | Oct 20 |
+| **[FICO](https://www.fico.com/)** | **[Sr. Cloud Engineer (EKS and Kubernetes SME)](https://jobr.pro/job/30585507/sr-cloud-engineer-eks-and-kubernetes-sme?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work from Home, United States, United States | Remote | Oct 20 |
 | **[Flow Control Group](https://flowcontrolgroup.com/)** | **[IT Cloud Engineer](https://jobr.pro/job/30582766/it-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Charlotte, NC, 28217, USA | On Site | Oct 19 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550](https://jobr.pro/job/30534443/devopscloud-engineer-seniorlead-id38550?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Katowice, Poland | On Site | Oct 18 |
 | **[ITility, LLC](https://www.itility.com)** | **[Cloud Engineer](https://jobr.pro/job/30563593/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Germany | On Site | Oct 18 |
