@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CBTS](https://www.cbts.com/)** | **[Cloud Engineer I](https://jobr.pro/job/30647290/cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 21 |
 | **[NTT DATA](https://nttdata.com)** | **[Senior sales and Service cloud Engineer](https://jobr.pro/job/30643204/senior-sales-and-service-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, IN | On Site | Oct 21 |
 | **[Beyond](https://www.bynd.com/)** | **[Senior Cloud Engineer - DevOps](https://jobr.pro/job/30636458/senior-cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal - Remote | Remote | Oct 21 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr System & Cloud Engineer](https://jobr.pro/job/30701814/sr-system-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Arizona - Scottsdale - Corp - N 90th St, United States | On Site | Oct 21 |
 | **[Sysco](https://www.sysco.com)** | **[Hybrid Cloud Engineer](https://jobr.pro/job/30613389/hybrid-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Crumlin, Northern Ireland, United Kingdom | On Site | Oct 20 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/30623878/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 20 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/30623877/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anglicare Sydney](https://www.anglicare.org.au/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30487270/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Anglicare Hub Macquarie Park, Australia | On Site | Oct 17 |
 | **[LSEG](https://www.lseg.com/)** | **[Cloud Engineer (Innovation & Analytics)](https://jobr.pro/job/30479261/cloud-engineer-innovation-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | EGY- Cairo-Oilibya Building, Plot 187- 90th North St, Egypt | On Site | Oct 17 |
 | **[Manulife](https://www.manulife.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/30494971/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CAN, Ontario, Waterloo, 500 King Street North, Canada | On Site | Oct 17 |
-| **[Western Governors University](https://www.wgu.edu/)** | **[Staff Cloud Engineer, Craft Education](https://jobr.pro/job/30495026/staff-cloud-engineer-craft-education?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | WGU Tennessee, United States | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 164k  
+**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
