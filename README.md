@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/30660614/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Oct 21 |
+| **[KPMG India](https://kpmg.com/)** | **[Assistant Manager (Cloud Engineer)](https://jobr.pro/job/30669371/assistant-manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 21 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Cloud Engineer](https://jobr.pro/job/30660941/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Drammen, Buskerud, Norway | On Site | Oct 21 |
 | **[CBTS](https://www.cbts.com/)** | **[Cloud Engineer I](https://jobr.pro/job/30647290/cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 21 |
 | **[NTT DATA](https://nttdata.com)** | **[Senior sales and Service cloud Engineer](https://jobr.pro/job/30643204/senior-sales-and-service-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, IN | On Site | Oct 21 |
 | **[Beyond](https://www.bynd.com/)** | **[Senior Cloud Engineer - DevOps](https://jobr.pro/job/30636458/senior-cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal - Remote | Remote | Oct 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LSEG](https://www.lseg.com/)** | **[Cloud Engineer (Innovation & Analytics)](https://jobr.pro/job/30479261/cloud-engineer-innovation-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | EGY- Cairo-Oilibya Building, Plot 187- 90th North St, Egypt | On Site | Oct 17 |
 | **[Manulife](https://www.manulife.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/30494971/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CAN, Ontario, Waterloo, 500 King Street North, Canada | On Site | Oct 17 |
 | **[Western Governors University](https://www.wgu.edu/)** | **[Staff Cloud Engineer, Craft Education](https://jobr.pro/job/30495026/staff-cloud-engineer-craft-education?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | WGU Tennessee, United States | On Site | Oct 17 |
-| **[Citi](https://www.citigroup.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30490459/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Oct 17 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[C# Cloud Engineer](https://jobr.pro/job/30495159/c-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Krakow, Poland | On Site | Oct 17 |
-| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Junior C# Cloud Engineer](https://jobr.pro/job/30495158/junior-c-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Krakow, Poland | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 162k  
+**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
