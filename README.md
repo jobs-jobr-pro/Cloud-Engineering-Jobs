@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,7 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Faraday Future](https://www.ff.com/)** | **[Senior Staff Cloud Engineer](https://jobr.pro/job/30713245/senior-staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gardena, California, United States | On Site | Oct 22 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Cloud Engineer](https://jobr.pro/job/30771839/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Istanbul, İstanbul, Turkey | On Site | Oct 22 |
 | **[Enterprise64](https://www.enterprise64.com)** | **[DevOps Cloud Engineer](https://jobr.pro/job/30742715/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Karachi | On Site | Oct 22 |
+| **[Boeing](https://www.boeing.com/)** | **[Advanced Information Technologist – Cloud Engineer](https://jobr.pro/job/30758283/advanced-information-technologist-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Ridley Park, PA, United States | On Site | Oct 22 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Azure Advanced Cloud Engineer 2 – Customer Focus](https://jobr.pro/job/30753300/azure-advanced-cloud-engineer-2-customer-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 21 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/30714445/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Herndon, Virginia | On Site | Oct 21 |
 | **[ARA](https://www.ara.com)** | **[Staff Cloud Engineer – Cloud Platforms](https://jobr.pro/job/30737936/staff-cloud-engineer-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raleigh, North Carolina, United States; San Antonio, Texas, United States | On Site | Oct 21 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Cloud Engineer (Remote - Mexico Only)](https://jobr.pro/job/30500847/cloud-engineer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, México | Remote | Oct 17 |
 | **[SMX](https://www.smxtech.com/)** | **[AWS Cloud Engineer (4505)](https://jobr.pro/job/30504876/aws-cloud-engineer-4505?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4504)](https://jobr.pro/job/30504877/azure-cloud-engineer-4504?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
-| **[SMX](https://www.smxtech.com/)** | **[Cloud Engineer III (4675)](https://jobr.pro/job/30504878/cloud-engineer-iii-4675?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Workplace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/30450754/workplace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 10% remote | 39 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
