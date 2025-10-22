@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,8 +14,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Faraday Future](https://www.ff.com/)** | **[Senior Staff Cloud Engineer](https://jobr.pro/job/30713245/senior-staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gardena, California, United States | On Site | Oct 22 |
+| **[Enterprise64](https://www.enterprise64.com)** | **[DevOps Cloud Engineer](https://jobr.pro/job/30742715/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Karachi | On Site | Oct 22 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Azure Advanced Cloud Engineer 2 – Customer Focus](https://jobr.pro/job/30753300/azure-advanced-cloud-engineer-2-customer-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 21 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/30714445/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Herndon, Virginia | On Site | Oct 21 |
+| **[ARA](https://www.ara.com)** | **[Staff Cloud Engineer – Cloud Platforms](https://jobr.pro/job/30737936/staff-cloud-engineer-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raleigh, North Carolina, United States; San Antonio, Texas, United States | On Site | Oct 21 |
+| **[COMSO](https://comso.com/)** | **[Azure Cloud Engineer (TS/SCI w/ Polygraph)](https://jobr.pro/job/30743653/azure-cloud-engineer-tssci-w-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 21 |
+| **[COMSO](https://comso.com/)** | **[Junior Azure Cloud Engineer (TS/SCI w/ Polygraph)](https://jobr.pro/job/30743655/junior-azure-cloud-engineer-tssci-w-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 21 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Cloud Engineer](https://jobr.pro/job/30714444/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Herndon, Virginia | On Site | Oct 21 |
+| **[Euroclear](https://www.euroclear.com/)** | **[Azure DevOps / Cloud Engineer](https://jobr.pro/job/30754818/azure-devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Poland | On Site | Oct 21 |
 | **[Continental](https://www.continental.com)** | **[Cloud Engineer / Architect AWS](https://jobr.pro/job/30707021/cloud-engineer-architect-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lousado, Braga, Portugal | On Site | Oct 21 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/30660614/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Oct 21 |
 | **[KPMG India](https://kpmg.com/)** | **[Assistant Manager (Cloud Engineer)](https://jobr.pro/job/30669371/assistant-manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 21 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4504)](https://jobr.pro/job/30504877/azure-cloud-engineer-4504?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
 | **[SMX](https://www.smxtech.com/)** | **[Cloud Engineer III (4675)](https://jobr.pro/job/30504878/cloud-engineer-iii-4675?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Workplace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/30450754/workplace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Principal Workspace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/30450749/principal-workspace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 17 |
-| **[BETSOL](https://www.betsol.com)** | **[Server/Cloud Engineer (L2)](https://jobr.pro/job/30456899/servercloud-engineer-l2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Oct 17 |
-| **[The Dot Collective](https://www.thedotcollective.co.uk/)** | **[Cloud Engineer](https://jobr.pro/job/30512328/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Oct 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Principal Cloud Engineer, Technology, China](https://jobr.pro/job/30451239/principal-cloud-engineer-technology-china?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SHANGHAI, China | On Site | Oct 17 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30489341/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Parkmore East Business Park, Galway Ireland | On Site | Oct 17 |
-| **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobr.pro/job/30460718/d365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
