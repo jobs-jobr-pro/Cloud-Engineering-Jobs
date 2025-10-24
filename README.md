@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Associate Consultant](https://jobr.pro/job/30944900/gcp-cloud-engineer-associate-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 24 |
 | **[TOPdesk](https://www.topdesk.com/)** | **[Senior cloud engineer](https://jobr.pro/job/30938373/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Delft/Tilburg, Netherlands | On Site | Oct 24 |
 | **[Schwarz Gruppe](https://gruppe.schwarz/)** | **[Cloud Engineer - Edge Cloud Kubernetes Plattform (m/w/d)](https://jobr.pro/job/30931671/cloud-engineer-edge-cloud-kubernetes-plattform-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, DE | On Site | Oct 24 |
+| **[Logicalis](https://www.logicalis.com/)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/30972687/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Putrajaya, Malaysia | On Site | Oct 24 |
 | **[University of the Sunshine Coast](https://www.usc.edu.au/)** | **[Cloud Engineer](https://jobr.pro/job/30928381/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Australia, UniSC Sunshine Coast, Australia, UniSC Moreton Bay | On Site | Oct 23 |
 | **[Planet Labs Inc.](https://www.planet.com/)** | **[Senior Cloud Engineer (Network)](https://jobr.pro/job/30903906/senior-cloud-engineer-network?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA | Remote | Oct 23 |
 | **[Metergy Solutions](https://www.metergysolutions.com/)** | **[Lead Cloud Engineer (Azure)](https://jobr.pro/job/30901723/lead-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Ontario | On Site | Oct 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Continental](https://www.continental.com)** | **[Cloud Engineer / Architect AWS](https://jobr.pro/job/30707021/cloud-engineer-architect-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lousado, Braga, Portugal | On Site | Oct 21 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/30660614/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Oct 21 |
 | **[KPMG India](https://kpmg.com/)** | **[Assistant Manager (Cloud Engineer)](https://jobr.pro/job/30669371/assistant-manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 21 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Cloud Engineer](https://jobr.pro/job/30660941/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Drammen, Buskerud, Norway | On Site | Oct 21 |
 
 ---
 
