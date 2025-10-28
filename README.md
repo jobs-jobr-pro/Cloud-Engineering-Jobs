@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Torrens University Australia](https://www.torrens.edu.au/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31065689/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Campus Surry Hills, Australia | On Site | Oct 27 |
 | **[FICO](https://www.fico.com/)** | **[Full Stack Observability Engineer (Cloud Engineer)](https://jobr.pro/job/31071545/full-stack-observability-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, India | On Site | Oct 27 |
 | **[Capgemini](https://www.capgemini.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/31045319/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, AU | On Site | Oct 27 |
+| **[Trend Micro](https://www.trendmicro.com/)** | **[Cloud Engineer](https://jobr.pro/job/31096889/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Oct 27 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6141)](https://jobr.pro/job/31046620/sr-cloud-engineer-i-6141?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 26 |
 | **[CBTS](https://www.cbts.com/)** | **[Cloud Engineer II](https://jobr.pro/job/31054233/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 26 |
 | **[Caixa Mágica Software](https://caixamagica.pt/)** | **[Experienced Cloud Engineer (AWS)](https://jobr.pro/job/31045715/experienced-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Lisbon, Portugal | On Site | Oct 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TITAN Cement Group](https://titan-cement.com/)** | **[Cloud Engineer](https://jobr.pro/job/30819562/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Greece | On Site | Oct 22 |
 | **[Faraday Future](https://www.ff.com/)** | **[Senior Staff Cloud Engineer](https://jobr.pro/job/30713245/senior-staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gardena, California, United States | On Site | Oct 22 |
 | **[Enterprise64](https://www.enterprise64.com)** | **[DevOps Cloud Engineer](https://jobr.pro/job/30742715/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Karachi | On Site | Oct 22 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer (Java, Springboot, Angular, REST, AWS)](https://jobr.pro/job/30798460/senior-cloud-engineer-java-springboot-angular-rest-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 100 Crosby Pkwy, Covington KY, United States | On Site | Oct 22 |
 
 ---
 
