@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Consultant](https://jobr.pro/job/31234411/gcp-cloud-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 29 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/31234412/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 29 |
 | **[Fidelity Investments](https://www.fidelity.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/31234432/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Two Destiny Way, Westlake TX, United States | On Site | Oct 29 |
+| **[Analog Devices](https://www.analog.com/)** | **[Cloud Engineer Intern](https://jobr.pro/job/31274702/cloud-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain, Valencia, Cortes Valencianas | On Site | Oct 29 |
 | **[Eurofins](https://www.eurofins.com)** | **[L3 Operation Senior cloud engineer](https://jobr.pro/job/31206756/l3-operation-senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Oct 28 |
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Cloud Engineer L1 - AWS](https://jobr.pro/job/31155617/cloud-engineer-l1-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Oct 28 |
 | **[Fulcrum Digital](https://fulcrumdigital.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31152105/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Oct 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6141)](https://jobr.pro/job/31046620/sr-cloud-engineer-i-6141?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 26 |
 | **[Caixa Mágica Software](https://caixamagica.pt/)** | **[Experienced Cloud Engineer (AWS)](https://jobr.pro/job/31045715/experienced-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Lisbon, Portugal | On Site | Oct 26 |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Senior Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten! (m/w/d)](https://jobr.pro/job/31019508/senior-cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Oct 24 |
-| **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/30996900/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 24 |
 
 ---
 
