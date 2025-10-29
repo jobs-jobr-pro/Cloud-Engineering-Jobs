@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -30,6 +30,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Cloud Engineer](https://jobr.pro/job/31179305/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PJC-PJ City, Malaysia | On Site | Oct 28 |
 | **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://jobr.pro/job/31186044/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 0088 Orlando FL, United States | On Site | Oct 28 |
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31185704/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - TX - Carrollton - Plano Pkwy, United States | On Site | Oct 28 |
+| **[DXC Technology](https://dxc.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31189800/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 28 |
+| **[Prudential Financial](https://www.prudential.com/)** | **[Lead Cloud Engineer – Azure Security](https://jobr.pro/job/31190172/lead-cloud-engineer-azure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wash, 213 Washington St., Newark, NJ, United States | On Site | Oct 28 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Azure Advanced Cloud Engineer 2 – Customer Focus](https://jobr.pro/job/31142221/azure-advanced-cloud-engineer-2-customer-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 27 |
 | **[Trace3](https://www.trace3.com/)** | **[Cloud Engineer III](https://jobr.pro/job/31105827/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States - Colorado | Remote | Oct 27 |
 | **[RESPEC](https://www.respec.com)** | **[Cloud Engineer](https://jobr.pro/job/31097946/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Albuquerque, NM, United States | On Site | Oct 27 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Associate Consultant](https://jobr.pro/job/30944900/gcp-cloud-engineer-associate-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 24 |
 | **[TOPdesk](https://www.topdesk.com/)** | **[Senior cloud engineer](https://jobr.pro/job/30938373/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Delft/Tilburg, Netherlands | On Site | Oct 24 |
 | **[Schwarz Gruppe](https://gruppe.schwarz/)** | **[Cloud Engineer - Edge Cloud Kubernetes Plattform (m/w/d)](https://jobr.pro/job/30931671/cloud-engineer-edge-cloud-kubernetes-plattform-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, DE | On Site | Oct 24 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, AVP](https://jobr.pro/job/30976758/cloud-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Business Bay, India | On Site | Oct 24 |
-| **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/30977887/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
