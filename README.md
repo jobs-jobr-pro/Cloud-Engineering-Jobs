@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Lottery Corporation](https://www.thelotterycorporation.com/)** | **[Cloud Engineer - GCP or MS Azure](https://jobr.pro/job/31329058/cloud-engineer-gcp-or-ms-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brisbane, Queensland, Australia | On Site | Oct 30 |
 | **[Canon Australia](https://www.canon.com.au)** | **[Azure Cloud Engineer (Corporate IT)](https://jobr.pro/job/31301517/azure-cloud-engineer-corporate-it?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, Australia | On Site | Oct 30 |
 | **[Skylo Technologies](https://www.skylo.tech/)** | **[Staff Cloud Engineer - AWS](https://jobr.pro/job/31285423/staff-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | On Site | Oct 29 |
 | **[Red Gate Group](https://www.redgategrp.com)** | **[Mid-Level Cloud Engineer](https://jobr.pro/job/31280543/mid-level-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, United States | On Site | Oct 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Prudential Financial](https://www.prudential.com/)** | **[Lead Cloud Engineer – Azure Security](https://jobr.pro/job/31190172/lead-cloud-engineer-azure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wash, 213 Washington St., Newark, NJ, United States | On Site | Oct 28 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Azure Advanced Cloud Engineer 2 – Customer Focus](https://jobr.pro/job/31142221/azure-advanced-cloud-engineer-2-customer-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 27 |
 | **[Trace3](https://www.trace3.com/)** | **[Cloud Engineer III](https://jobr.pro/job/31105827/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States - Colorado | Remote | Oct 27 |
-| **[RESPEC](https://www.respec.com)** | **[Cloud Engineer](https://jobr.pro/job/31097946/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Albuquerque, NM, United States | On Site | Oct 27 |
 
 ---
 
