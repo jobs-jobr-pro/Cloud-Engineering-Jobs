@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,7 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Rackner](https://www.rackner.com/)** | **[Multi-Cloud Engineer, Sr. (Crossplane \| DevSecOps \| Top Secret)](https://jobr.pro/job/31391886/multi-cloud-engineer-sr-crossplane-devsecops-top-secret?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, VA / Charlottesville, VA | On Site | Oct 31 |
+| **[COMSO](https://comso.com/)** | **[Cloud Engineer (ON-SITE) - CISPOINT](https://jobr.pro/job/31405161/cloud-engineer-on-site-cispoint?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD, US | On Site | Oct 30 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6067)](https://jobr.pro/job/31390351/sr-cloud-engineer-i-6067?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 30 |
+| **[Stax Payments](https://staxpayments.com/)** | **[Cloud Engineer](https://jobr.pro/job/31408040/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Orlando, FL, US | On Site | Oct 30 |
 | **[Raft](https://goraft.tech/)** | **[Cloud Engineer](https://jobr.pro/job/31377205/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Colorado Springs, Co | On Site | Oct 30 |
 | **[Endava](https://www.endava.com)** | **[GCP Cloud Engineer (Apigee)](https://jobr.pro/job/31392403/gcp-cloud-engineer-apigee?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gdańsk, Pomeranian Voivodeship, Poland | On Site | Oct 30 |
 | **[Solvinity](https://www.solvinity.com/)** | **[Senior Public Cloud Engineer](https://jobr.pro/job/31376303/senior-public-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amersfoort, Utrecht, Nederland | On Site | Oct 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IMA Schelling Group](https://www.imaschelling.com)** | **[Softwareentwickler*in Cloud-Engineer](https://jobr.pro/job/31142958/softwareentwicklerin-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Schwarzach, Austria | On Site | Oct 28 |
 | **[GLS Germany GmbH & Co. OHG](https://gls-group.eu/)** | **[Cloud Engineer (f/m/d) #Cloud #Kubernetes #AWS #Terraform #Helm #Python](https://jobr.pro/job/31135076/cloud-engineer-fmd-cloud-kubernetes-aws-terraform-helm-python?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Eschborn | On Site | Oct 28 |
 | **[Skipton Building Society](https://www.skipton.co.uk/)** | **[Cloud Engineer - 10](https://jobr.pro/job/31153271/cloud-engineer-10?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Skipton - The Bailey, United Kingdom | On Site | Oct 28 |
-| **[Barclays](https://home.barclays/)** | **[Cloud Engineer Developer](https://jobr.pro/job/31167582/cloud-engineer-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 28 |
-| **[Barclays](https://home.barclays/)** | **[Cloud Engineer](https://jobr.pro/job/31167559/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 40 companies | Avg salary: 180k  
+**Current Stats:** 50 jobs | 4% remote | 41 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
