@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer (m/f/d)](https://jobr.pro/job/31453640/cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bergkirchen, BY, Germany | On Site | Oct 31 |
 | **[Next](https://www.next.co.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31419567/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Oct 31 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Experienced AWS Cloud Engineer/Developer](https://jobr.pro/job/31416858/experienced-aws-cloud-engineerdeveloper?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Oct 31 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/31417101/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Oct 31 |
@@ -24,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31452858/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Ridley Park, PA, United States | On Site | Oct 31 |
 | **[RTX](https://www.rtx.com/)** | **[Sr Eng - Full Stack Cloud Engineer (Remote)](https://jobr.pro/job/31452586/sr-eng-full-stack-cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PW102: Middletown Aircraft Rd P.O. Box 611, Middletown, CT, 06457 USA, United States | Remote | Oct 31 |
 | **[DXC Technology](https://dxc.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31450263/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 31 |
+| **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer (CREM)](https://jobr.pro/job/31452923/sr-cloud-engineer-crem?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Oct 31 |
 | **[COMSO](https://comso.com/)** | **[Cloud Engineer (ON-SITE) - CISPOINT](https://jobr.pro/job/31405161/cloud-engineer-on-site-cispoint?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD, US | On Site | Oct 30 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6067)](https://jobr.pro/job/31390351/sr-cloud-engineer-i-6067?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 30 |
 | **[Stax Payments](https://staxpayments.com/)** | **[Cloud Engineer](https://jobr.pro/job/31408040/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Orlando, FL, US | On Site | Oct 30 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unisys](https://www.unisys.com/)** | **[Lead Azure Cloud Engineer - OpenShift Red Hat Experience](https://jobr.pro/job/31277545/lead-azure-cloud-engineer-openshift-red-hat-experience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Home Based Mexico | Remote | Oct 29 |
 | **[Aptiv](https://www.aptiv.com/)** | **[Cloud Engineer](https://jobr.pro/job/31277315/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA Troy Offices, United States | On Site | Oct 29 |
 | **[Fidelity Investments](https://www.fidelity.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/31234432/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Two Destiny Way, Westlake TX, United States | On Site | Oct 29 |
-| **[Analog Devices](https://www.analog.com/)** | **[Cloud Engineer Intern](https://jobr.pro/job/31274702/cloud-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain, Valencia, Cortes Valencianas | On Site | Oct 29 |
-| **[TaskUs](https://www.taskus.com/)** | **[Cloud Engineer](https://jobr.pro/job/31277902/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Gurugram - Mystiqa, India | On Site | Oct 29 |
 
 ---
 
