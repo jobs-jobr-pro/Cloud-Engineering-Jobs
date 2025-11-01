@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -23,6 +23,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/31463393/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 31 |
 | **[Bandwidth](https://www.bandwidth.com/)** | **[Cloud Engineer](https://jobr.pro/job/31460230/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raleigh, NC | On Site | Oct 31 |
 | **[OpenVPN](https://openvpn.net/)** | **[Cloud Engineer (Azure)](https://jobr.pro/job/31460204/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote job | Remote | Oct 31 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Senior Advanced Cloud Engineer – Gov Focus](https://jobr.pro/job/31491258/senior-advanced-cloud-engineer-gov-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Advanced Cloud Engineer II – Gov Focus](https://jobr.pro/job/31491261/advanced-cloud-engineer-ii-gov-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
 | **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer (m/f/d)](https://jobr.pro/job/31453640/cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bergkirchen, BY, Germany | On Site | Oct 31 |
 | **[NFQ](https://www.nfq.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/31463723/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vilnius/Kaunas or remote within Lithuania | Remote | Oct 31 |
 | **[Next](https://www.next.co.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31419567/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Oct 31 |
@@ -32,12 +34,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[Python & Cloud Engineer](https://jobr.pro/job/31425630/python-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 31 |
 | **[Globant Commerce Studio](https://www.globant.com/studio/commerce)** | **[Senior Cloud Engineer](https://jobr.pro/job/31467936/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Makati, NCR, Philippines | On Site | Oct 31 |
 | **[Rackner](https://www.rackner.com/)** | **[Multi-Cloud Engineer, Sr. (Crossplane \| DevSecOps \| Top Secret)](https://jobr.pro/job/31391886/multi-cloud-engineer-sr-crossplane-devsecops-top-secret?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, VA / Charlottesville, VA | On Site | Oct 31 |
-| **[Barclays](https://home.barclays/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/31432171/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 31 |
-| **[McKesson](https://www.mckesson.com/)** | **[Lead, Network and Cloud Engineer](https://jobr.pro/job/31432897/lead-network-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mississauga, ON, CAN - 2300 Meadowvale Blvd (MC74), Canada | On Site | Oct 31 |
 | **[Boeing](https://www.boeing.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31452858/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Ridley Park, PA, United States | On Site | Oct 31 |
 | **[RTX](https://www.rtx.com/)** | **[Sr Eng - Full Stack Cloud Engineer (Remote)](https://jobr.pro/job/31452586/sr-eng-full-stack-cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PW102: Middletown Aircraft Rd P.O. Box 611, Middletown, CT, 06457 USA, United States | Remote | Oct 31 |
 | **[DXC Technology](https://dxc.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31450263/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 31 |
 | **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer (CREM)](https://jobr.pro/job/31452923/sr-cloud-engineer-crem?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Oct 31 |
+| **[Barclays](https://home.barclays/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/31432171/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 31 |
+| **[McKesson](https://www.mckesson.com/)** | **[Lead, Network and Cloud Engineer](https://jobr.pro/job/31432897/lead-network-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mississauga, ON, CAN - 2300 Meadowvale Blvd (MC74), Canada | On Site | Oct 31 |
 | **[COMSO](https://comso.com/)** | **[Cloud Engineer (ON-SITE) - CISPOINT](https://jobr.pro/job/31405161/cloud-engineer-on-site-cispoint?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD, US | On Site | Oct 30 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6067)](https://jobr.pro/job/31390351/sr-cloud-engineer-i-6067?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 30 |
 | **[Stax Payments](https://staxpayments.com/)** | **[Cloud Engineer](https://jobr.pro/job/31408040/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Orlando, FL, US | On Site | Oct 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/31285201/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | Remote | Oct 29 |
 | **[Google](https://www.google.com/)** | **[Workspace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/31233888/workspace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 29 |
 | **[Google](https://www.google.com/)** | **[Principal Workspace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/31233845/principal-workspace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 29 |
-| **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Public Sector](https://jobr.pro/job/31233830/strategic-cloud-engineer-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Oct 29 |
-| **[diva-e](https://www.diva-e.com/)** | **[Cloud Engineer (m/w/d) – Azure / DevOps Allrounder](https://jobr.pro/job/31222968/cloud-engineer-mwd-azure-devops-allrounder?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jena (JEN1), München (MUC1), Leipzig (LEJ1), Karlsruhe (KJR2), Berlin (BER3) | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 174k  
+**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 185k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
