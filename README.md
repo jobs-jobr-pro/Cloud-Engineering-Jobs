@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ALTEN](https://www.alten.com/)** | **[Cloud Engineer Sénior](https://jobr.pro/job/31553751/cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rabat, Rabat-Salé-Kénitra, Morocco | On Site | Nov 03 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Google Cloud Engineer](https://jobr.pro/job/31553765/google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam, NH, Netherlands | Remote | Nov 03 |
+| **[Postcode Lottery Group](https://www.postcodelotterygroup.com/)** | **[Cloud Engineer (m/f/d)](https://jobr.pro/job/31567494/cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Düsseldorf | On Site | Nov 03 |
 | **[Skylo Technologies](https://www.skylo.tech/)** | **[Staff Cloud Engineer - AWS](https://jobr.pro/job/31539976/staff-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | On Site | Nov 02 |
 | **[SDG Group](https://www.sdggroup.com)** | **[Junior Cloud Engineer](https://jobr.pro/job/31551765/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Firenze, Italy | On Site | Nov 02 |
 | **[ITS Informationstechnik Service GmbH](https://its-service.de/)** | **[Azure Cloud Engineer (m/w/d)](https://jobr.pro/job/31543565/azure-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin | On Site | Nov 02 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Canon Australia](https://www.canon.com.au)** | **[Azure Cloud Engineer (Corporate IT)](https://jobr.pro/job/31301517/azure-cloud-engineer-corporate-it?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, Australia | On Site | Oct 30 |
 | **[Columbia Sportswear Company](https://www.columbiasportswearcompany.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/31361706/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia River Building, United States | On Site | Oct 30 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, AVP](https://jobr.pro/job/31368602/cloud-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Business Bay, India | On Site | Oct 30 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31367600/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - Madrid Las Rozas PEB (ESM02), Spain | On Site | Oct 30 |
-| **[Guidehouse](https://www.guidehouse.com/)** | **[Cloud Engineer](https://jobr.pro/job/31368778/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | GH Office: Tysons Corner, VA (Headquarters), United States | On Site | Oct 30 |
-| **[ING](https://www.ing.com/)** | **[Java Cloud Engineer – Certificate Automation](https://jobr.pro/job/31369951/java-cloud-engineer-certificate-automation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
