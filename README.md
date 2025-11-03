@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Skylo Technologies](https://www.skylo.tech/)** | **[Staff Cloud Engineer - AWS](https://jobr.pro/job/31539976/staff-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | On Site | Nov 02 |
 | **[Kinetic](https://www.wearekinetic.com/)** | **[Cloud Engineer - Azure](https://jobr.pro/job/31507713/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, VIC, AU | On Site | Nov 01 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31500691/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nasr City, Egypt | On Site | Nov 01 |
 | **[Fulcrum Digital](https://fulcrumdigital.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31499290/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Nov 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ING](https://www.ing.com/)** | **[Java Cloud Engineer – Certificate Automation](https://jobr.pro/job/31369951/java-cloud-engineer-certificate-automation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Oct 30 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Private Cloud Engineer](https://jobr.pro/job/31367835/private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | KNL51596 Hoofddorp (KNL51596), Netherlands | On Site | Oct 30 |
 | **[M&G plc](https://global.mandg.com/)** | **[AVP – CTO - Cloud Engineer](https://jobr.pro/job/31370097/avp-cto-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mumbai Central Avenue, India | On Site | Oct 30 |
-| **[Skylo Technologies](https://www.skylo.tech/)** | **[Staff Cloud Engineer - AWS](https://jobr.pro/job/31285423/staff-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | On Site | Oct 29 |
 
 ---
 
