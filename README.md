@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,7 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Insignia Financial](https://www.insigniafinancial.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/31606820/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SYDNEY, NSW, AU, 2000 | On Site | Nov 04 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer II - SRE](https://jobr.pro/job/31645770/cloud-engineer-ii-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer III SRE](https://jobr.pro/job/31645768/cloud-engineer-iii-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer I - SRE](https://jobr.pro/job/31645775/cloud-engineer-i-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer I - SRE](https://jobr.pro/job/31645778/cloud-engineer-i-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
 | **[Pluxee](https://www.pluxeegroup.com/)** | **[Cloud Engineer](https://jobr.pro/job/31653977/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | BEL Bruxelles (1000), Belgium | On Site | Nov 04 |
 | **[Jonas Software](https://www.jonassoftware.com/)** | **[Intern - Cloud Engineer](https://jobr.pro/job/31658698/intern-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India (Jonas Collections and Recovery Inc) | On Site | Nov 04 |
 | **[Morse Micro](https://www.morsemicro.com/)** | **[Cloud Engineer](https://jobr.pro/job/31607952/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, Victoria, Australia | On Site | Nov 03 |
