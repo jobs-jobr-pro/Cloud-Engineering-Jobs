@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Identity](https://jobr.pro/job/31743385/cloud-engineer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 05 |
 | **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer - Data Hosting](https://jobr.pro/job/31743378/senior-cloud-engineer-data-hosting?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 05 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Azure Cloud Engineer Sr Principal](https://jobr.pro/job/31782663/azure-cloud-engineer-sr-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Nov 05 |
+| **[Unisys](https://www.unisys.com/)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/31784997/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | The California Endowment (TCE) - Los Angeles, CA, United States | On Site | Nov 05 |
 | **[NetDocuments](https://www.netdocuments.com/)** | **[Senior Cloud Engineer - Observability](https://jobr.pro/job/31701859/senior-cloud-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - US | Remote | Nov 04 |
 | **[Kinetic IT](https://kineticit.com.au/)** | **[Azure Cloud Engineer](https://jobr.pro/job/31732254/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ACT, Canberra | On Site | Nov 04 |
 | **[SMX](https://www.smxtech.com/)** | **[Sr. Cloud Engineer (4792) (TS/SCI) (Ft. Belvoir, VA)](https://jobr.pro/job/31702829/sr-cloud-engineer-4792-tssci-ft-belvoir-va?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Nov 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/31463406/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 31 |
 | **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://jobr.pro/job/31463395/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 31 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/31463394/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 31 |
-| **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/31463393/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 38 companies | Avg salary: 192k  
+**Current Stats:** 50 jobs | 4% remote | 39 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
