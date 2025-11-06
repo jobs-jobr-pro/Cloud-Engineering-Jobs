@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Security, Google Cloud](https://jobr.pro/job/31833252/strategic-cloud-engineer-security-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | Nov 06 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Recommendation Department, AI & Data Division](https://jobr.pro/job/31794599/cloud-engineer-recommendation-department-ai-data-division?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House, Japan | On Site | Nov 06 |
 | **[VicRoads](https://www.vicroads.vic.gov.au/)** | **[Cloud Engineer](https://jobr.pro/job/31790509/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Head Office- Melbourne, Australia | On Site | Nov 06 |
+| **[Barclays](https://home.barclays/)** | **[Java/Cloud Engineer](https://jobr.pro/job/31857184/javacloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 06 |
+| **[Fifty-Five](https://www.fifty-five.com/)** | **[Senior Data & Cloud Engineer (H/F)](https://jobr.pro/job/31849272/senior-data-cloud-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Paris, Île-de-France, France | On Site | Nov 06 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Infrastructure and Cloud engineer](https://jobr.pro/job/31835994/infrastructure-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 06 |
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Operating Systems](https://jobr.pro/job/31835506/cloud-engineer-operating-systems?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 06 |
 | **[Bellroy](https://bellroy.com/)** | **[Cloud Engineer](https://jobr.pro/job/31798930/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Collingwood, Victoria, Australia; Remote | Remote | Nov 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Morse Micro](https://www.morsemicro.com/)** | **[Cloud Engineer](https://jobr.pro/job/31607952/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, Victoria, Australia | On Site | Nov 03 |
 | **[METRO/MAKRO](https://www.metroag.de/)** | **[Cloud Engineer – Cloud Foundation](https://jobr.pro/job/31611196/cloud-engineer-cloud-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | București, București, Romania | On Site | Nov 03 |
 | **[METRO/MAKRO](https://www.metroag.de/)** | **[Cloud Engineer – Cloud Foundation (m/f/d)](https://jobr.pro/job/31594311/cloud-engineer-cloud-foundation-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Düsseldorf, NRW, Germany | On Site | Nov 03 |
-| **[ALTEN](https://www.alten.com/)** | **[Cloud Engineer Sénior](https://jobr.pro/job/31553751/cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rabat, Rabat-Salé-Kénitra, Morocco | On Site | Nov 03 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Google Cloud Engineer](https://jobr.pro/job/31553765/google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam, NH, Netherlands | Remote | Nov 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 179k  
+**Current Stats:** 50 jobs | 4% remote | 36 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
