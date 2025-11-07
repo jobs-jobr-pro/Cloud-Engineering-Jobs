@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Believe](https://www.believe.com)** | **[Senior Cloud Engineer (Liverpool/Hybrid)](https://jobr.pro/job/31878949/senior-cloud-engineer-liverpoolhybrid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Liverpool, United Kingdom | On Site | Nov 06 |
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Security, Google Cloud](https://jobr.pro/job/31833252/strategic-cloud-engineer-security-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | Nov 06 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Recommendation Department, AI & Data Division](https://jobr.pro/job/31794599/cloud-engineer-recommendation-department-ai-data-division?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House, Japan | On Site | Nov 06 |
 | **[VicRoads](https://www.vicroads.vic.gov.au/)** | **[Cloud Engineer](https://jobr.pro/job/31790509/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Head Office- Melbourne, Australia | On Site | Nov 06 |
@@ -24,7 +25,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Cloud Engineer](https://jobr.pro/job/31864775/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | HLT-Hong Leong Tower, Malaysia | On Site | Nov 06 |
 | **[Huntington National Bank](https://www.huntington.com/)** | **[Cloud Engineer](https://jobr.pro/job/31870154/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Easton Ops Cols C Oh, United States | On Site | Nov 06 |
 | **[Leidos](https://www.leidos.com/)** | **[GenAI Cloud Engineer](https://jobr.pro/job/31872607/genai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 3025 Gaithersburg MD, United States | On Site | Nov 06 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Federal Automation Cloud Engineer, Clearance Required Secret, Hybrid Role, On-site, PA, AL, OK, Ut](https://jobr.pro/job/31880662/federal-automation-cloud-engineer-clearance-required-secret-hybrid-role-on-site-pa-al-ok-ut?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | All, Alabama, United States of America | On Site | Nov 06 |
+| **[Concentrix](https://www.concentrix.com/)** | **[Salesforce Data Cloud Engineer](https://jobr.pro/job/31882460/salesforce-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA, NC, Work-at-Home, United States | On Site | Nov 06 |
 | **[Cardinal Health](https://cardinalhealth.com/)** | **[Cloud Engineer](https://jobr.pro/job/31877268/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US-Nationwide-FIELD, United States | On Site | Nov 06 |
+| **[TD](https://www.td.com/)** | **[Lead Cloud Engineer (US)](https://jobr.pro/job/31882310/lead-cloud-engineer-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mt Laurel - Technology Center - 17000 Horizon Way, Mount Laurel, New Jersey, United States | On Site | Nov 06 |
 | **[Bellroy](https://bellroy.com/)** | **[Cloud Engineer](https://jobr.pro/job/31798930/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Collingwood, Victoria, Australia; Remote | Remote | Nov 05 |
 | **[Udemy](https://www.udemy.com/)** | **[Principal Cloud Engineer - Datastores](https://jobr.pro/job/31796828/principal-cloud-engineer-datastores?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Nov 05 |
 | **[Bosch Group](https://www.bosch.com)** | **[Cloud Engineer - IoT (Backend)](https://jobr.pro/job/31789373/cloud-engineer-iot-backend?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Watertown, MA, United States | On Site | Nov 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[RELEX Solutions](https://www.relexsolutions.com/careers/)** | **[Private Cloud Engineer](https://jobr.pro/job/31603141/private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[OpenTable](https://www.opentable.com/)** | **[Cloud Engineer - Core Infrastructure](https://jobr.pro/job/31599382/cloud-engineer-core-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hybrid - Toronto | On Site | Nov 04 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer Sr Principal](https://jobr.pro/job/31687620/cloud-engineer-sr-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Nov 04 |
-| **[Pluxee](https://www.pluxeegroup.com/)** | **[Cloud Engineer](https://jobr.pro/job/31653977/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | BEL Bruxelles (1000), Belgium | On Site | Nov 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer II -SRE](https://jobr.pro/job/31684688/cloud-engineer-ii-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer III SRE](https://jobr.pro/job/31684680/cloud-engineer-iii-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pennada Agraharam, Andhra Pradesh, India | On Site | Nov 04 |
-| **[Insignia Financial](https://www.insigniafinancial.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/31606820/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SYDNEY, NSW, AU, 2000 | On Site | Nov 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 38 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 4% remote | 39 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
