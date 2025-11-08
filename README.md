@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Sr System & Cloud Engineer](https://jobr.pro/job/31962227/sr-system-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SWE - Stockholm County - Stockholm - Corp - Regeringsgatan, Sweden | On Site | Nov 07 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer - TS/SCI with Polygraph](https://jobr.pro/job/31963120/cloud-engineer-tssci-with-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Herndon - Customer Proprietary (VAC381), United States | On Site | Nov 07 |
 | **[Waystar](https://www.waystar.com/)** | **[Sr Specialist Cloud Engineer](https://jobr.pro/job/31963525/sr-specialist-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA, United States | On Site | Nov 07 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Technical Specialist - Cloud Engineer](https://jobr.pro/job/31966733/technical-specialist-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Margarpatta, India | On Site | Nov 07 |
 | **[Federal Reserve System](https://www.federalreserve.gov/)** | **[Sr Cloud Engineer](https://jobr.pro/job/31960202/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Louis, MO, United States | On Site | Nov 07 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer II (5877)](https://jobr.pro/job/31896159/sr-cloud-engineer-ii-5877?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 06 |
 | **[Varicent](https://www.varicent.com/)** | **[Cloud Engineer (Remote - Mexico Only)](https://jobr.pro/job/31900478/cloud-engineer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, México | Remote | Nov 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pirelli](https://www.pirelli.com)** | **[AWS Data Cloud Engineer](https://jobr.pro/job/31709048/aws-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bari, IT | On Site | Nov 05 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Associate Consultant](https://jobr.pro/job/31753468/gcp-cloud-engineer-associate-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 05 |
 | **[KPMG India](https://kpmg.com/)** | **[Azure DevOps, Cloud Engineer](https://jobr.pro/job/31753436/azure-devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 05 |
-| **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Identity](https://jobr.pro/job/31743385/cloud-engineer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
