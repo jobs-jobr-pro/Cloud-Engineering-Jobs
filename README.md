@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer - Self Service Solutions](https://jobr.pro/job/31997295/senior-cloud-engineer-self-service-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
+| **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31997293/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/31979720/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/31979716/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/31979714/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[System Engineer - 3 (Cloud Architecture/ Cloud Engineer/ Platform Engineering (especially in AWS)](https://jobr.pro/job/31768234/system-engineer-3-cloud-architecture-cloud-engineer-platform-engineering-especially-in-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Nov 05 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Cloud Engineer - Tietoevry Care (m/f/d)](https://jobr.pro/job/31810490/senior-cloud-engineer-tietoevry-care-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vilnius, Lithuania | On Site | Nov 05 |
 | **[Machine Learning Reply](https://www.reply.com/machine-learning-reply/de/)** | **[(Senior) Cloud Engineer (m/f/d)](https://jobr.pro/job/31795830/senior-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vienna, Wien, Austria | On Site | Nov 05 |
-| **[Pirelli](https://www.pirelli.com)** | **[AWS Data Cloud Engineer](https://jobr.pro/job/31709048/aws-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bari, IT | On Site | Nov 05 |
-| **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Associate Consultant](https://jobr.pro/job/31753468/gcp-cloud-engineer-associate-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
