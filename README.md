@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/31979720/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/31979716/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/31979714/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
+| **[M&G plc](https://global.mandg.com/)** | **[Senior Analyst CTO Cloud Engineer](https://jobr.pro/job/32042657/senior-analyst-cto-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/31979719/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 07 |
 | **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://jobr.pro/job/31979709/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 07 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/31979708/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NEORIS](https://www.neoris.com)** | **[Cloud Engineer](https://jobr.pro/job/31795478/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ecuador; Quito, Ecuador | On Site | Nov 05 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[System Engineer - 3 (Cloud Architecture/ Cloud Engineer/ Platform Engineering (especially in AWS)](https://jobr.pro/job/31768234/system-engineer-3-cloud-architecture-cloud-engineer-platform-engineering-especially-in-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Nov 05 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Cloud Engineer - Tietoevry Care (m/f/d)](https://jobr.pro/job/31810490/senior-cloud-engineer-tietoevry-care-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vilnius, Lithuania | On Site | Nov 05 |
-| **[Machine Learning Reply](https://www.reply.com/machine-learning-reply/de/)** | **[(Senior) Cloud Engineer (m/f/d)](https://jobr.pro/job/31795830/senior-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vienna, Wien, Austria | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 182k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
