@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Qantas](https://www.qantas.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32055864/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Nov 10 |
+| **[Snapp!](https://snapp.ir/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32050310/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote job | Remote | Nov 08 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer - Self Service Solutions](https://jobr.pro/job/31997295/senior-cloud-engineer-self-service-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31997293/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/31979720/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Udemy](https://www.udemy.com/)** | **[Principal Cloud Engineer - Datastores](https://jobr.pro/job/31796828/principal-cloud-engineer-datastores?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Nov 05 |
 | **[Bosch Group](https://www.bosch.com)** | **[Cloud Engineer - IoT (Backend)](https://jobr.pro/job/31789373/cloud-engineer-iot-backend?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Watertown, MA, United States | On Site | Nov 05 |
 | **[NEORIS](https://www.neoris.com)** | **[Cloud Engineer](https://jobr.pro/job/31795478/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ecuador; Quito, Ecuador | On Site | Nov 05 |
-| **[Akina, Inc.](https://www.akina-inc.com/)** | **[System Engineer - 3 (Cloud Architecture/ Cloud Engineer/ Platform Engineering (especially in AWS)](https://jobr.pro/job/31768234/system-engineer-3-cloud-architecture-cloud-engineer-platform-engineering-especially-in-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Nov 05 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Cloud Engineer - Tietoevry Care (m/f/d)](https://jobr.pro/job/31810490/senior-cloud-engineer-tietoevry-care-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vilnius, Lithuania | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 182k  
+**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
