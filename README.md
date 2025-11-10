@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qantas](https://www.qantas.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32055864/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Nov 10 |
 | **[Power Factors](https://www.powerfactors.com/)** | **[Senior Cloud Engineer (Montreal, Quebec)](https://jobr.pro/job/32063764/senior-cloud-engineer-montreal-quebec?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brossard, Quebec, Canada | On Site | Nov 10 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[(Senior) Azure Cloud Engineer (all genders)](https://jobr.pro/job/32074063/senior-azure-cloud-engineer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Eschborn, Germany | On Site | Nov 10 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer Associate](https://jobr.pro/job/32106376/cloud-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA OK Oklahoma City - 3600 South MacArthur Blvd (OKS002), United States | On Site | Nov 10 |
+| **[Equinix](https://www.equinix.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32105006/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore Office SGO | On Site | Nov 10 |
+| **[Leidos](https://www.leidos.com/)** | **[SCI Cloud Engineer](https://jobr.pro/job/32104319/sci-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 1698 Colorado Springs CO, United States | On Site | Nov 10 |
 | **[Syffer](https://syffer.com/)** | **[Cloud Engineer](https://jobr.pro/job/32069818/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Venda do Pinheiro, Portugal | On Site | Nov 09 |
 | **[RetinAI Medical](https://www.retinai.com)** | **[Cloud Engineer (Full time - Remote Europe)](https://jobr.pro/job/32061848/cloud-engineer-full-time-remote-europe?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, England, United Kingdom - Remote | Remote | Nov 09 |
 | **[Mindera](https://mindera.com/)** | **[Experienced Cloud Engineer (AWS)](https://jobr.pro/job/32057925/experienced-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Porto, Porto District, Portugal - Remote | Remote | Nov 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[GenAI Cloud Engineer](https://jobr.pro/job/31872607/genai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 3025 Gaithersburg MD, United States | On Site | Nov 06 |
 | **[TD](https://www.td.com/)** | **[Lead Cloud Engineer (US)](https://jobr.pro/job/31882310/lead-cloud-engineer-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mt Laurel - Technology Center - 17000 Horizon Way, Mount Laurel, New Jersey, United States | On Site | Nov 06 |
 | **[Cardinal Health](https://cardinalhealth.com/)** | **[Cloud Engineer](https://jobr.pro/job/31877268/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US-Nationwide-FIELD, United States | On Site | Nov 06 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Federal Automation Cloud Engineer, Clearance Required Secret, Hybrid Role, On-site, PA, AL, OK, Ut](https://jobr.pro/job/31880662/federal-automation-cloud-engineer-clearance-required-secret-hybrid-role-on-site-pa-al-ok-ut?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | All, Alabama, United States of America | On Site | Nov 06 |
-| **[Concentrix](https://www.concentrix.com/)** | **[Salesforce Data Cloud Engineer](https://jobr.pro/job/31882460/salesforce-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA, NC, Work-at-Home, United States | On Site | Nov 06 |
-| **[Barclays](https://home.barclays/)** | **[Java/Cloud Engineer](https://jobr.pro/job/31857184/javacloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 179k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
