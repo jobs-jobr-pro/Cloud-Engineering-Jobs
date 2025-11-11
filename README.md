@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experity](https://www.experityhealth.com/)** | **[Cloud Engineer, Sioux Falls, SD Full Time](https://jobr.pro/job/32152332/cloud-engineer-sioux-falls-sd-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sioux Falls, South Dakota, United States | On Site | Nov 10 |
+| **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Senior Cloud Engineer (Active Top Secret Clearance Required)](https://jobr.pro/job/32146101/senior-cloud-engineer-active-top-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, D.C. | On Site | Nov 10 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Cloud Engineer II](https://jobr.pro/job/32084063/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ft. Meade, MD | On Site | Nov 10 |
+| **[Zello](https://zello.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32149484/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, Texas | Remote | Nov 10 |
+| **[Lifespark](https://lifespark.com/)** | **[Cloud Engineer](https://jobr.pro/job/32155742/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Louis Park, Minnesota, United States | On Site | Nov 10 |
+| **[Caylent](https://caylent.com/)** | **[Cloud Engineer - Not an Active Opening, Building Talent Pipeline](https://jobr.pro/job/32159712/cloud-engineer-not-an-active-opening-building-talent-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MEXICO | Remote | Nov 10 |
+| **[InterSystems](https://www.intersystems.com)** | **[Principal Healthcare Cloud Engineer](https://jobr.pro/job/32154105/principal-healthcare-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, MA | On Site | Nov 10 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant - Contact Center Cloud Engineer](https://jobr.pro/job/32072682/lead-consultant-contact-center-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Nov 10 |
 | **[ELCA Group](https://www.elca.ch/)** | **[DevOps Cloud Engineer](https://jobr.pro/job/32067787/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ho Chi Minh, Viet Nam | On Site | Nov 10 |
 | **[Qantas](https://www.qantas.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32055864/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Nov 10 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[US Pharmacopeia](https://www.usp.org)** | **[Cloud Engineer (HYBRID CONTRACTOR- 6 months)](https://jobr.pro/job/31900039/cloud-engineer-hybrid-contractor-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rockville, Maryland, United States | On Site | Nov 06 |
 | **[Believe](https://www.believe.com)** | **[Senior Cloud Engineer (Liverpool/Hybrid)](https://jobr.pro/job/31878949/senior-cloud-engineer-liverpoolhybrid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Liverpool, United Kingdom | On Site | Nov 06 |
 | **[Jamf](https://www.jamf.com/)** | **[Cloud Engineer II \| Oracle EPM](https://jobr.pro/job/31894473/cloud-engineer-ii-oracle-epm?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brno, Czechia | On Site | Nov 06 |
-| **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Security, Google Cloud](https://jobr.pro/job/31833252/strategic-cloud-engineer-security-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | Nov 06 |
-| **[NETGEAR](https://www.netgear.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/31889920/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cork, Ireland | Remote | Nov 06 |
-| **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Microsoft Azure Cloud Engineer](https://jobr.pro/job/31872171/microsoft-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - PA - Conshohocken - West First, United States | On Site | Nov 06 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Infrastructure and Cloud engineer](https://jobr.pro/job/31870514/infrastructure-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 06 |
-| **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Cloud Engineer](https://jobr.pro/job/31864775/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | HLT-Hong Leong Tower, Malaysia | On Site | Nov 06 |
-| **[Huntington National Bank](https://www.huntington.com/)** | **[Cloud Engineer](https://jobr.pro/job/31870154/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Easton Ops Cols C Oh, United States | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
