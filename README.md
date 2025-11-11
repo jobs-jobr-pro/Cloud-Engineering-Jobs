@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Cloud Engineer I, Networking, Professional Services, Google Cloud](https://jobr.pro/job/32181174/cloud-engineer-i-networking-professional-services-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, USA; Atlanta, GA, USA | On Site | Nov 11 |
 | **[Experity](https://www.experityhealth.com/)** | **[Cloud Engineer, Sioux Falls, SD Full Time](https://jobr.pro/job/32152332/cloud-engineer-sioux-falls-sd-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sioux Falls, South Dakota, United States | On Site | Nov 10 |
 | **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Senior Cloud Engineer (Active Top Secret Clearance Required)](https://jobr.pro/job/32146101/senior-cloud-engineer-active-top-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, D.C. | On Site | Nov 10 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Cloud Engineer II](https://jobr.pro/job/32084063/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ft. Meade, MD | On Site | Nov 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/31890750/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Nov 06 |
 | **[US Pharmacopeia](https://www.usp.org)** | **[Cloud Engineer (HYBRID CONTRACTOR- 6 months)](https://jobr.pro/job/31900039/cloud-engineer-hybrid-contractor-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rockville, Maryland, United States | On Site | Nov 06 |
 | **[Believe](https://www.believe.com)** | **[Senior Cloud Engineer (Liverpool/Hybrid)](https://jobr.pro/job/31878949/senior-cloud-engineer-liverpoolhybrid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Liverpool, United Kingdom | On Site | Nov 06 |
-| **[Jamf](https://www.jamf.com/)** | **[Cloud Engineer II \| Oracle EPM](https://jobr.pro/job/31894473/cloud-engineer-ii-oracle-epm?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brno, Czechia | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 163k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
