@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Java microservices with cloud Engineer](https://jobr.pro/job/32191736/java-microservices-with-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Nov 11 |
 | **[Barclays](https://home.barclays/)** | **[Cloud Engineer](https://jobr.pro/job/32204208/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 11 |
 | **[Kantar](https://www.kantar.com/)** | **[Cloud Engineer](https://jobr.pro/job/32193640/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, International Tech Park, India | On Site | Nov 11 |
+| **[Anglicare Sydney](https://www.anglicare.org.au/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32228055/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Anglicare Hub Macquarie Park, Australia | On Site | Nov 11 |
 | **[Experity](https://www.experityhealth.com/)** | **[Cloud Engineer, Sioux Falls, SD Full Time](https://jobr.pro/job/32152332/cloud-engineer-sioux-falls-sd-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sioux Falls, South Dakota, United States | On Site | Nov 10 |
 | **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Senior Cloud Engineer (Active Top Secret Clearance Required)](https://jobr.pro/job/32146101/senior-cloud-engineer-active-top-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, D.C. | On Site | Nov 10 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Cloud Engineer II](https://jobr.pro/job/32084063/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ft. Meade, MD | On Site | Nov 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Sr System & Cloud Engineer](https://jobr.pro/job/31962227/sr-system-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | SWE - Stockholm County - Stockholm - Corp - Regeringsgatan, Sweden | On Site | Nov 07 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Technical Specialist - Cloud Engineer](https://jobr.pro/job/31966733/technical-specialist-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Margarpatta, India | On Site | Nov 07 |
 | **[Federal Reserve System](https://www.federalreserve.gov/)** | **[Sr Cloud Engineer](https://jobr.pro/job/31960202/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Louis, MO, United States | On Site | Nov 07 |
-| **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer II (5877)](https://jobr.pro/job/31896159/sr-cloud-engineer-ii-5877?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 161k  
+**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
