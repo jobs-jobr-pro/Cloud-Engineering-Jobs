@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Everience Benelux](https://www.everience.com)** | **[Cloud Engineer](https://jobr.pro/job/32418567/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Milan, Lombardy, Italy | On Site | Nov 13 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/32373252/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 13 |
 | **[Atmosera](https://www.atmosera.com/)** | **[Cloud Engineer (Migration Specialist)](https://jobr.pro/job/32337998/cloud-engineer-migration-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Nov 13 |
 | **[Atmosera](https://www.atmosera.com/)** | **[Cloud Engineer (Azure Architecture)](https://jobr.pro/job/32337997/cloud-engineer-azure-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Nov 13 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer Associate](https://jobr.pro/job/32106376/cloud-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA OK Oklahoma City - 3600 South MacArthur Blvd (OKS002), United States | On Site | Nov 10 |
 | **[Equinix](https://www.equinix.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32105006/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore Office SGO | On Site | Nov 10 |
 | **[Leidos](https://www.leidos.com/)** | **[SCI Cloud Engineer](https://jobr.pro/job/32104319/sci-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 1698 Colorado Springs CO, United States | On Site | Nov 10 |
-| **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer](https://jobr.pro/job/32120270/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Nov 10 |
 
 ---
 
