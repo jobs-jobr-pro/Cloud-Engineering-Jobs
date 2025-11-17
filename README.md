@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EXL](https://www.exlservice.com/)** | **[Data Engineer-Cloud Engineer-Cloud Data Engineer](https://jobr.pro/job/32617206/data-engineer-cloud-engineer-cloud-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurugram, Haryana, India | On Site | Nov 17 |
+| **[Futurum Technology Ltd.](https://www.futurum.tech)** | **[Cloud Engineer](https://jobr.pro/job/32616296/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Nov 17 |
+| **[Scalian](https://www.scalian.com)** | **[Data Cloud Engineer](https://jobr.pro/job/32616297/data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Nov 17 |
+| **[IRIUM](https://www.irium.es/)** | **[SAP Basis & Cloud Engineer](https://jobr.pro/job/32618601/sap-basis-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain - Remote | Remote | Nov 17 |
+| **[Tinqin](https://www.tinqin.com/)** | **[DevOps / Cloud Engineer](https://jobr.pro/job/32616211/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sofia, Sofia City Province, Bulgaria | On Site | Nov 16 |
 | **[Captivation](https://captivation.us/)** | **[AWS Cloud Engineer (Hybrid) - AWS/Python/Linux/Ansible/Terraform](https://jobr.pro/job/32600913/aws-cloud-engineer-hybrid-awspythonlinuxansibleterraform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD - Hybrid | On Site | Nov 16 |
 | **[SonarSource](https://sonarsource.com/)** | **[Cloud Engineer](https://jobr.pro/job/32597651/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin | Remote | Nov 16 |
 | **[Ollion](https://ollion.com/)** | **[Sr Cloud Engineer](https://jobr.pro/job/32507155/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX, United States | On Site | Nov 14 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cintra](https://www.cintra.com/)** | **[Senior Infrastructure/Cloud Engineer](https://jobr.pro/job/32372483/senior-infrastructurecloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, United Kingdom | Remote | Nov 12 |
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Senior DevOps Cloud Engineer (Azure)](https://jobr.pro/job/32339486/cmi-senior-devops-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 12 |
 | **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Senior Cloud Engineer (Azure)](https://jobr.pro/job/32339487/cmi-senior-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Nov 12 |
-| **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Cloud Engineer (Azure)](https://jobr.pro/job/32339489/cmi-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 12 |
-| **[NFQ](https://www.nfq.com/)** | **[Cloud Engineer (AWS)](https://jobr.pro/job/32334960/cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vilnius/Kaunas | On Site | Nov 12 |
-| **[DKB \| Deutsche Kreditbank AG](https://www.dkb.de)** | **[Senior Cloud Engineer](https://jobr.pro/job/32246829/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, DE, 10117 | On Site | Nov 12 |
-| **[Air New Zealand](https://www.airnewzealand.co.nz)** | **[Senior Cloud Engineer](https://jobr.pro/job/32259603/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Nov 12 |
-| **[Acquire Intelligence](https://acquire.ai/)** | **[Cloud Engineer](https://jobr.pro/job/32245090/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pasig City, Philippines | On Site | Nov 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 34 companies | Avg salary: 179k  
+**Current Stats:** 50 jobs | 14% remote | 34 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
