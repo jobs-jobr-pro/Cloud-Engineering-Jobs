@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Captivation](https://captivation.us/)** | **[AWS Cloud Engineer (Hybrid) - AWS/Python/Linux/Ansible/Terraform](https://jobr.pro/job/32600913/aws-cloud-engineer-hybrid-awspythonlinuxansibleterraform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD - Hybrid | On Site | Nov 16 |
+| **[SonarSource](https://sonarsource.com/)** | **[Cloud Engineer](https://jobr.pro/job/32597651/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin | Remote | Nov 16 |
 | **[Ollion](https://ollion.com/)** | **[Sr Cloud Engineer](https://jobr.pro/job/32507155/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX, United States | On Site | Nov 14 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Cloud Engineer 2/3](https://jobr.pro/job/32485924/cloud-engineer-23?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, MD | On Site | Nov 14 |
 | **[Altana AI](https://altana.ai/)** | **[Staff Cloud Engineer](https://jobr.pro/job/32526890/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Australia | On Site | Nov 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DKB \| Deutsche Kreditbank AG](https://www.dkb.de)** | **[Senior Cloud Engineer](https://jobr.pro/job/32246829/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, DE, 10117 | On Site | Nov 12 |
 | **[Air New Zealand](https://www.airnewzealand.co.nz)** | **[Senior Cloud Engineer](https://jobr.pro/job/32259603/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Nov 12 |
 | **[Acquire Intelligence](https://acquire.ai/)** | **[Cloud Engineer](https://jobr.pro/job/32245090/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pasig City, Philippines | On Site | Nov 12 |
-| **[Radiance Technologies](https://www.radiancetech.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32315896/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dayton Office, United States | On Site | Nov 12 |
-| **[Crowe](https://www.crowe.com/)** | **[Data & Analytics Senior Cloud Engineer](https://jobr.pro/job/32315094/data-analytics-senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, India | On Site | Nov 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 34 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 12% remote | 34 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
