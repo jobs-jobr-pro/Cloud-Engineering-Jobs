@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,9 +18,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[DevOps/Cloud Engineer (development focus)](https://jobr.pro/job/32711218/devopscloud-engineer-development-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Stockholm | On Site | Nov 18 |
 | **[Skipton Building Society](https://www.skipton.co.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32703257/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hybrid (GB), United Kingdom | On Site | Nov 18 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[FinOps Cloud Engineer 100% (f/m/d)](https://jobr.pro/job/32729749/finops-cloud-engineer-100-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Zurich, Switzerland | On Site | Nov 18 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer - Messaging and Scheduling](https://jobr.pro/job/32731839/senior-cloud-engineer-messaging-and-scheduling?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
 | **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/32731835/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
 | **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32731838/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
+| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer - Messaging and Scheduling](https://jobr.pro/job/32731839/senior-cloud-engineer-messaging-and-scheduling?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
 | **[CereCore](https://cerecore.net/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/32712101/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, United States | Remote | Nov 17 |
 | **[Icario](https://icariohealth.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/32674759/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Nov 17 |
 | **[AlixPartners](https://www.alixpartners.com/)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/32661010/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Silicon Valley | On Site | Nov 17 |
