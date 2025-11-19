@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/32740241/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/32740254/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/32740240/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
+| **[MSM Technology](https://www.msmtechinc.com/)** | **[Enterprise Cloud Engineer](https://jobr.pro/job/32776297/enterprise-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, VA, US | On Site | Nov 18 |
 | **[NTT DATA](https://services.global.ntt/)** | **[Lead Cloud Engineer in Data](https://jobr.pro/job/32739026/lead-cloud-engineer-in-data?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Nov 18 |
 | **[Stratpoint Technologies](https://stratpoint.com/)** | **[Cloud Engineer](https://jobr.pro/job/32739539/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mandaluyong, Metro Manila, Philippines | On Site | Nov 18 |
 | **[Clickhouse](https://clickhouse.com/)** | **[Senior Cloud Engineer - Secure Deployments](https://jobr.pro/job/32741210/senior-cloud-engineer-secure-deployments?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin (Remote) | Remote | Nov 18 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Cloud Engineer 2/3](https://jobr.pro/job/32485924/cloud-engineer-23?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, MD | On Site | Nov 14 |
 | **[Altana AI](https://altana.ai/)** | **[Staff Cloud Engineer](https://jobr.pro/job/32526890/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Australia | On Site | Nov 14 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/32507165/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Nov 14 |
-| **[Faculty](https://faculty.ai)** | **[Cloud Engineer](https://jobr.pro/job/32522097/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London - Hybrid | On Site | Nov 14 |
 
 ---
 
