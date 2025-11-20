@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -15,9 +15,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/32783204/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 19 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/32793152/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hong Kong | On Site | Nov 19 |
+| **[Nelnet](https://nelnetinc.com/)** | **[Infrastructure and Cloud Engineer - NBS](https://jobr.pro/job/32829558/infrastructure-and-cloud-engineer-nbs?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lincoln - Nelnet Center, United States | On Site | Nov 19 |
 | **[PwC](https://www.pwc.com/)** | **[Junior Cloud Engineer](https://jobr.pro/job/32818513/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest - 78 Bajcsy-Zsilinszky, Hungary | On Site | Nov 19 |
 | **[BBVA](https://www.bbva.com/)** | **[Cloud Engineer](https://jobr.pro/job/32810250/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | TORRE BBVA, Argentina | On Site | Nov 19 |
-| **[Nelnet](https://nelnetinc.com/)** | **[Infrastructure and Cloud Engineer - NBS](https://jobr.pro/job/32829558/infrastructure-and-cloud-engineer-nbs?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lincoln - Nelnet Center, United States | On Site | Nov 19 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com/)** | **[Cloud Engineer II](https://jobr.pro/job/32831785/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | NV - Sparks (Prater), United States | On Site | Nov 19 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Cloud Engineer Architect](https://jobr.pro/job/32796777/cloud-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, US | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/32740247/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/32740253/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HARMAN International](https://www.harman.com/)** | **[Cloud Engineer](https://jobr.pro/job/32645784/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN Pune Embassy Tech Zone Rajiv Gandhi Infotec Park HCS, India | On Site | Nov 17 |
 | **[abrdn](https://www.abrdn.com/)** | **[Cloud Engineer](https://jobr.pro/job/32640286/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edinburgh, United Kingdom | On Site | Nov 17 |
 | **[Boeing](https://www.boeing.com/)** | **[Cloud Engineer](https://jobr.pro/job/32648314/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Seattle, WA, United States | On Site | Nov 17 |
-| **[Tinqin](https://www.tinqin.com/)** | **[DevOps / Cloud Engineer](https://jobr.pro/job/32616211/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sofia, Sofia City Province, Bulgaria | On Site | Nov 16 |
 
 ---
 
