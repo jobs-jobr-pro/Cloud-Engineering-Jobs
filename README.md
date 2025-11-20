@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Eurofins](https://www.eurofins.com)** | **[IT Infrastructure Cloud Engineer](https://jobr.pro/job/32855095/it-infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 20 |
 | **[Eurofins](https://www.eurofins.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/32855097/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, India | On Site | Nov 20 |
+| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32874129/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Parkmore East Business Park, Galway Ireland | On Site | Nov 20 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/32839214/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 19 |
 | **[Platinum Technologies](https://www.pt78.co/)** | **[Cloud Engineer](https://jobr.pro/job/32845108/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Nov 19 |
 | **[Encora](https://www.encora.com/)** | **[Senior Cloud Engineer - DevOps](https://jobr.pro/job/32838282/senior-cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico | On Site | Nov 19 |
@@ -22,9 +23,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/32783204/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 19 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/32793152/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hong Kong | On Site | Nov 19 |
 | **[Nelnet](https://nelnetinc.com/)** | **[Infrastructure and Cloud Engineer - NBS](https://jobr.pro/job/32829558/infrastructure-and-cloud-engineer-nbs?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lincoln - Nelnet Center, United States | On Site | Nov 19 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com/)** | **[Cloud Engineer II](https://jobr.pro/job/32831785/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | NV - Sparks (Prater), United States | On Site | Nov 19 |
 | **[PwC](https://www.pwc.com/)** | **[Junior Cloud Engineer](https://jobr.pro/job/32818513/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest - 78 Bajcsy-Zsilinszky, Hungary | On Site | Nov 19 |
 | **[BBVA](https://www.bbva.com/)** | **[Cloud Engineer](https://jobr.pro/job/32810250/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | TORRE BBVA, Argentina | On Site | Nov 19 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com/)** | **[Cloud Engineer II](https://jobr.pro/job/32831785/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | NV - Sparks (Prater), United States | On Site | Nov 19 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Cloud Engineer Architect](https://jobr.pro/job/32796777/cloud-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, US | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/32740247/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/32740253/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VML](https://www.vml.com/)** | **[Junior Data Cloud Engineer](https://jobr.pro/job/32664017/junior-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian, Poland | On Site | Nov 17 |
 | **[Scalian](https://www.scalian.com)** | **[Data Cloud Engineer](https://jobr.pro/job/32616297/data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Nov 17 |
 | **[Keyloop](https://keyloop.com/)** | **[Cloud Engineer - AWS EKS](https://jobr.pro/job/32654924/cloud-engineer-aws-eks?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vietnam-ATG | On Site | Nov 17 |
-| **[Keyloop](https://keyloop.com/)** | **[Principal Cloud Engineer - AWS EKS](https://jobr.pro/job/32654927/principal-cloud-engineer-aws-eks?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vietnam-ATG | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 35 companies | Avg salary: 147k  
+**Current Stats:** 50 jobs | 16% remote | 36 companies | Avg salary: 147k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
