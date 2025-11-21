@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oracle](https://www.oracle.com/)** | **[Account Cloud Engineer - France](https://jobr.pro/job/32960078/account-cloud-engineer-france?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | COLOMBES, France | On Site | Nov 21 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/32959782/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 21 |
 | **[Xylem](https://www.xylem.com/)** | **[Cyber Security, Network und Cloud Engineer (m/w/d)](https://jobr.pro/job/32939829/cyber-security-network-und-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ludwigshafen, Germany | On Site | Nov 21 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6223)](https://jobr.pro/job/32936418/sr-cloud-engineer-i-6223?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 20 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[Cloud Engineer](https://jobr.pro/job/32900671/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Híbrido Venda do Pinheiro/ Porto, Híbrido Venda do Pinheiro/ Porto | On Site | Nov 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Skipton Building Society](https://www.skipton.co.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32703257/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hybrid (GB), United Kingdom | On Site | Nov 18 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[FinOps Cloud Engineer 100% (f/m/d)](https://jobr.pro/job/32729749/finops-cloud-engineer-100-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Zurich, Switzerland | On Site | Nov 18 |
 | **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/32731835/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32731838/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer - Messaging and Scheduling](https://jobr.pro/job/32731839/senior-cloud-engineer-messaging-and-scheduling?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 161k  
+**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
