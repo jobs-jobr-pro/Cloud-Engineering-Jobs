@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Cloud Engineer](https://jobr.pro/job/32904423/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PJC-PJ City, Malaysia | On Site | Nov 20 |
 | **[RTX](https://www.rtx.com/)** | **[Prin Eng - Full Stack Cloud Engineer (Remote)](https://jobr.pro/job/32917728/prin-eng-full-stack-cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PW102: Middletown Aircraft Rd P.O. Box 611, Middletown, CT, 06457 USA, United States | Remote | Nov 20 |
 | **[Maersk](https://www.maersk.com/)** | **[Cloud Engineer](https://jobr.pro/job/32916678/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Nov 20 |
+| **[TD](https://www.td.com/)** | **[Lead Cloud Engineer (US)](https://jobr.pro/job/32921528/lead-cloud-engineer-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mt Laurel - Technology Center - 17000 Horizon Way, Mount Laurel, New Jersey, United States | On Site | Nov 20 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/32839214/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Engineer](https://jobr.pro/job/32880560/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, United States | On Site | Nov 19 |
 | **[Platinum Technologies](https://www.pt78.co/)** | **[Cloud Engineer](https://jobr.pro/job/32845108/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Nov 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Icario](https://icariohealth.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/32674759/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Nov 17 |
 | **[AlixPartners](https://www.alixpartners.com/)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/32661010/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Silicon Valley | On Site | Nov 17 |
 | **[Fivesky](https://fivesky.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/32663362/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Alpharetta, GA | On Site | Nov 17 |
-| **[Platinum Technologies](https://www.pt78.co/)** | **[Multi Cloud Engineer Architect SME](https://jobr.pro/job/32655903/multi-cloud-engineer-architect-sme?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 38 companies | Avg salary: 168k  
+**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
