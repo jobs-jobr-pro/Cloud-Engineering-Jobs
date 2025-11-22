@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capgemini](https://www.capgemini.com/)** | **[Software & Cloud Engineer - GCP & HPC](https://jobr.pro/job/33041872/software-cloud-engineer-gcp-hpc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US-AZ-Phoenix | On Site | Nov 22 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33026790/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 22 |
 | **[SMX](https://www.smxtech.com/)** | **[Junior Cloud Engineer (4818)](https://jobr.pro/job/33014103/junior-cloud-engineer-4818?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Nov 21 |
 | **[SMX](https://www.smxtech.com/)** | **[Cloud Engineer II (4817)](https://jobr.pro/job/33014102/cloud-engineer-ii-4817?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Nov 21 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Stratpoint Technologies](https://stratpoint.com/)** | **[Cloud Engineer](https://jobr.pro/job/32739539/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mandaluyong, Metro Manila, Philippines | On Site | Nov 18 |
 | **[Clickhouse](https://clickhouse.com/)** | **[Senior Cloud Engineer - Secure Deployments](https://jobr.pro/job/32741210/senior-cloud-engineer-secure-deployments?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin (Remote) | Remote | Nov 18 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/32717733/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Suffolk, VA, United States | On Site | Nov 18 |
-| **[Paymentus](https://www.paymentus.com/)** | **[Cloud Engineer I](https://jobr.pro/job/32756189/cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond Hill, Ontario, Canada | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 155k  
+**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
