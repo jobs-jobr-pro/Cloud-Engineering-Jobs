@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Westpac](https://www.westpac.com.au/)** | **[Senior Cloud Engineer, Contact Centre Platforms](https://jobr.pro/job/33077345/senior-cloud-engineer-contact-centre-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kogarah, NSW, Australia | On Site | Nov 24 |
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - HPC Workstations](https://jobr.pro/job/33075418/cloud-engineer-hpc-workstations?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 24 |
 | **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer – OT Platform](https://jobr.pro/job/33075407/senior-cloud-engineer-ot-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 24 |
+| **[NatWest Group](https://www.natwestgroup.com/)** | **[Cloud Engineer, DevOps](https://jobr.pro/job/33098277/cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, India | On Site | Nov 24 |
 | **[Pro-Vizion](https://pro-vizion.net/)** | **[Cloud Engineer (TS/SCI w/ Active Polygraph)](https://jobr.pro/job/33070871/cloud-engineer-tssci-w-active-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Nov 23 |
 | **[Skaylink](https://www.skaylink.com/)** | **[Cloud Engineer - Concept, implementation, test/reliability, operations, management, improvement (m/f/d)](https://jobr.pro/job/33066274/cloud-engineer-concept-implementation-testreliability-operations-management-improvement-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Florianópolis | On Site | Nov 23 |
 | **[Cheops](https://www.cheops.com/)** | **[Cloud Engineer](https://jobr.pro/job/33065384/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edegem | On Site | Nov 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PwC](https://www.pwc.com/)** | **[Junior Cloud Engineer](https://jobr.pro/job/32818513/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest - 78 Bajcsy-Zsilinszky, Hungary | On Site | Nov 19 |
 | **[BBVA](https://www.bbva.com/)** | **[Cloud Engineer](https://jobr.pro/job/32810250/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | TORRE BBVA, Argentina | On Site | Nov 19 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/32793152/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hong Kong | On Site | Nov 19 |
-| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Cloud Engineer Architect](https://jobr.pro/job/32796777/cloud-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, US | On Site | Nov 18 |
 
 ---
 
