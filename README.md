@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,9 +14,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer I, Networking, Professional Services, Google Cloud](https://jobr.pro/job/33241494/cloud-engineer-i-networking-professional-services-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, USA; Atlanta, GA, USA | On Site | Nov 26 |
+| **[Devoteam](https://www.devoteam.com/)** | **[AWS Junior Cloud Engineer (m/w/d)](https://jobr.pro/job/33247754/aws-junior-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | München, BY, Germany | On Site | Nov 26 |
 | **[Photon](https://www.photon.com/)** | **[Cloud Engineer - BLR](https://jobr.pro/job/33240902/cloud-engineer-blr?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Nov 26 |
 | **[University of Wollongong](https://www.uow.edu.au/)** | **[*Senior Cloud Engineer](https://jobr.pro/job/33243416/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wollongong, NSW, Australia | On Site | Nov 26 |
 | **[Vodafone](https://www.vodafone.com)** | **[Public Cloud Engineer, GCP](https://jobr.pro/job/33210789/public-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, IN | On Site | Nov 26 |
+| **[MP Solutions Ltd.](https://www.mps.hu/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33254031/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Budapest, Hungary | On Site | Nov 26 |
+| **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobr.pro/job/33250566/d365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Nov 26 |
 | **[WorkCover Queensland](https://www.worksafe.qld.gov.au/)** | **[Principal Cloud Engineer (Azure/AWS)](https://jobr.pro/job/33238926/principal-cloud-engineer-azureaws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brisbane CBD | On Site | Nov 25 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6234)](https://jobr.pro/job/33214341/sr-cloud-engineer-i-6234?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Nov 25 |
 | **[Sysco](https://www.sysco.com)** | **[Hybrid Cloud Engineer](https://jobr.pro/job/33216051/hybrid-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Co. Limerick, Ireland | On Site | Nov 25 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eurofins](https://www.eurofins.com)** | **[Senior cloud engineer](https://jobr.pro/job/33066803/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 24 |
 | **[Westpac](https://www.westpac.com.au/)** | **[Senior Cloud Engineer, Contact Centre Platforms](https://jobr.pro/job/33077345/senior-cloud-engineer-contact-centre-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kogarah, NSW, Australia | On Site | Nov 24 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Cloud Engineer, DevOps](https://jobr.pro/job/33098277/cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, India | On Site | Nov 24 |
-| **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - HPC Workstations](https://jobr.pro/job/33075418/cloud-engineer-hpc-workstations?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 24 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Cloud Engineer – OT Platform](https://jobr.pro/job/33075407/senior-cloud-engineer-ot-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 24 |
-| **[Pro-Vizion](https://pro-vizion.net/)** | **[Cloud Engineer (TS/SCI w/ Active Polygraph)](https://jobr.pro/job/33070871/cloud-engineer-tssci-w-active-polygraph?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Nov 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 39 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 2% remote | 40 companies | Avg salary: 171k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
