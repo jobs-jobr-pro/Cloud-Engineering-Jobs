@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,8 +13,20 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vodafone](https://www.vodafone.com)** | **[Public Cloud Engineer, GCP](https://jobr.pro/job/33210789/public-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, IN | On Site | Nov 26 |
+| **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6234)](https://jobr.pro/job/33214341/sr-cloud-engineer-i-6234?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Nov 25 |
+| **[Sysco](https://www.sysco.com)** | **[Hybrid Cloud Engineer](https://jobr.pro/job/33216051/hybrid-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Co. Limerick, Ireland | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/33218192/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/33218190/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/33218188/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://jobr.pro/job/33218183/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/33218191/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/33218181/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
+| **[Loopio](https://loopio.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33213834/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ahmedabad, Gujarat | Remote | Nov 25 |
+| **[Adyen](https://www.adyen.com/)** | **[Infrastructure (Cloud) Engineer](https://jobr.pro/job/33220327/infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam | On Site | Nov 25 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior DevOps Google Cloud Engineer](https://jobr.pro/job/33163348/senior-devops-google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Nov 25 |
 | **[Hapag-Lloyd](https://www.hapag-lloyd.com/)** | **[Cloud Engineer](https://jobr.pro/job/33157233/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gdansk, Poland | On Site | Nov 25 |
+| **[Hitachi Digital Services](https://hitachids.com)** | **[Senior .NET AWS Cloud Engineer (Onsite Malaysia)](https://jobr.pro/job/33206774/senior-net-aws-cloud-engineer-onsite-malaysia?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ho Chi Minh, Ha Noi, Da Nang | On Site | Nov 25 |
 | **[Endava](https://www.endava.com)** | **[Cloud Engineer](https://jobr.pro/job/33140203/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 25 |
 | **[KPMG India](https://kpmg.com/)** | **[Cloud Engineer Consultant](https://jobr.pro/job/33172751/cloud-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/33172812/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/33078983/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 23 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Software & Cloud Engineer - GCP & HPC](https://jobr.pro/job/33041872/software-cloud-engineer-gcp-hpc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US-AZ-Phoenix | On Site | Nov 22 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33026790/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 22 |
-| **[Firefly Aerospace](https://fireflyspace.com/)** | **[Cloud Engineer](https://jobr.pro/job/33068461/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cedar Park, TX | On Site | Nov 22 |
-| **[SMX](https://www.smxtech.com/)** | **[Junior Cloud Engineer (4818)](https://jobr.pro/job/33014103/junior-cloud-engineer-4818?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Nov 21 |
-| **[SMX](https://www.smxtech.com/)** | **[Cloud Engineer II (4817)](https://jobr.pro/job/33014102/cloud-engineer-ii-4817?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Nov 21 |
-| **[IFS](https://www.ifs.com/)** | **[Principle Cloud Engineer](https://jobr.pro/job/33003576/principle-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, ON, Canada | On Site | Nov 21 |
-| **[Capgemini](https://www.capgemini.com/)** | **[Cloud Engineer](https://jobr.pro/job/32967661/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CA-ON-Mississauga | On Site | Nov 21 |
-| **[Inetum](https://www.inetum.com)** | **[Expert Cloud Engineer](https://jobr.pro/job/32963003/expert-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 21 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Cloud Engineer](https://jobr.pro/job/32994317/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Floor 6, Accra Financial Centre, 37 Independence Avenue, Accra, GA184, Ghana | On Site | Nov 21 |
-| **[IRIUM](https://www.irium.es/)** | **[SAP Basis & Cloud Engineer (BTP & S/4HANA)](https://jobr.pro/job/32980380/sap-basis-cloud-engineer-btp-s4hana?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MADRID, MADRID | On Site | Nov 21 |
-| **[Xylem](https://www.xylem.com/)** | **[Cyber Security, Network und Cloud Engineer (m/w/d)](https://jobr.pro/job/32939829/cyber-security-network-und-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ludwigshafen, Germany | On Site | Nov 21 |
-| **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6223)](https://jobr.pro/job/32936418/sr-cloud-engineer-i-6223?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 20 |
-| **[Axians Portugal](https://www.axians.pt/)** | **[Cloud Engineer](https://jobr.pro/job/32900671/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Híbrido Venda do Pinheiro/ Porto, Híbrido Venda do Pinheiro/ Porto | On Site | Nov 20 |
-| **[Cloudscaler](https://cloudscaler.com/)** | **[Senior Cloud Engineer (AWS)](https://jobr.pro/job/32931627/senior-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bath | Remote | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 43 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 4% remote | 39 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
