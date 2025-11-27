@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC)](https://jobr.pro/job/33272136/gcp-cloud-engineer-washington-dc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Nov 26 |
+| **[Version 1](https://www.version1.com)** | **[AWS Cloud Engineer](https://jobr.pro/job/33286930/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dublin, County Dublin, Ireland | On Site | Nov 26 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer I, Networking, Professional Services, Google Cloud](https://jobr.pro/job/33241494/cloud-engineer-i-networking-professional-services-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, USA; Atlanta, GA, USA | On Site | Nov 26 |
 | **[Devoteam](https://www.devoteam.com/)** | **[AWS Junior Cloud Engineer (m/w/d)](https://jobr.pro/job/33247754/aws-junior-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | München, BY, Germany | On Site | Nov 26 |
 | **[Photon](https://www.photon.com/)** | **[Cloud Engineer - BLR](https://jobr.pro/job/33240902/cloud-engineer-blr?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Nov 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reply](https://www.reply.com/)** | **[Consultant 2 – Cloud Engineer (Azure)](https://jobr.pro/job/33122380/consultant-2-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kochi, Kerala | On Site | Nov 24 |
 | **[Experian](https://www.experian.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33065493/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, India | On Site | Nov 24 |
 | **[Eurofins](https://www.eurofins.com)** | **[Senior cloud engineer](https://jobr.pro/job/33066803/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 24 |
-| **[Westpac](https://www.westpac.com.au/)** | **[Senior Cloud Engineer, Contact Centre Platforms](https://jobr.pro/job/33077345/senior-cloud-engineer-contact-centre-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kogarah, NSW, Australia | On Site | Nov 24 |
 
 ---
 
