@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer - OTC "SOLO" (REF4866W)](https://jobr.pro/job/33381708/cloud-engineer-otc-solo-ref4866w?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Nov 28 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/33381724/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[IAM Cloud Engineer](https://jobr.pro/job/33367253/iam-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bruxelles, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[DevOps Cloud Engineer](https://jobr.pro/job/33367249/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brussels, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Norddeutscher Rundfunk](https://www.ndr.de/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33376740/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, hybrides Arbeiten möglich, VG 08 | On Site | Nov 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Azure Cloud Engineer Sr Principal](https://jobr.pro/job/33196574/azure-cloud-engineer-sr-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Nov 25 |
 | **[Berner Group](https://www.berner-group.com/)** | **[Cloud Engineer (w/m/d)](https://jobr.pro/job/33195729/cloud-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berner Omnichannel Trading Holding - Headquarters Köln, Germany | On Site | Nov 25 |
 | **[Leidos](https://www.leidos.com/)** | **[Journeyman Cloud Engineer](https://jobr.pro/job/33195366/journeyman-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6859 U.S. Coast Guard C5ISC Service Ctr Alexandria VA, United States | On Site | Nov 25 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Java Cloud Engineer - RFT Technology (Accounting Domain)](https://jobr.pro/job/33198448/java-cloud-engineer-rft-technology-accounting-domain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Nov 25 |
-| **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Infrastructure as Code](https://jobr.pro/job/33160096/cloud-engineer-infrastructure-as-code?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 40 companies | Avg salary: 154k  
+**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 154k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
