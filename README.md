@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,13 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Elia Group](https://www.eliagroup.eu)** | **[IAM Cloud Engineer](https://jobr.pro/job/33367253/iam-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bruxelles, BRU, BE, 1000 | On Site | Nov 28 |
+| **[Elia Group](https://www.eliagroup.eu)** | **[DevOps Cloud Engineer](https://jobr.pro/job/33367249/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brussels, BRU, BE, 1000 | On Site | Nov 28 |
 | **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer](https://jobr.pro/job/33358192/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cesena, Emilia-Romagna, Italy | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33327466/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-VA-Virginia Beach | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/33327460/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 27 |
+| **[Reconomy](https://reconomy.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/33370899/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucharest | On Site | Nov 27 |
 | **[SAS](https://www.sas.com)** | **[Sr Associate Cloud Engineer](https://jobr.pro/job/33304099/sr-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Nov 27 |
 | **[Datacom](https://datacom.com/)** | **[Cloud Engineer](https://jobr.pro/job/33316788/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland, Auckland, New Zealand | On Site | Nov 27 |
 | **[Accolade, Inc.](https://www.accolade.com)** | **[Principal Cloud Engineer I](https://jobr.pro/job/33350685/principal-cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Prague, Czechia | On Site | Nov 27 |
 | **[Barclays](https://home.barclays/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33337669/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Nov 27 |
+| **[Insight Enterprises, Inc.](https://www.insight.com/)** | **[Cloud Engineer II (Java/Spring/Nodejs/React)](https://jobr.pro/job/33371320/cloud-engineer-ii-javaspringnodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurugram Gurgaon HR, IN | On Site | Nov 27 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33318672/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, NSW | On Site | Nov 26 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC)](https://jobr.pro/job/33272136/gcp-cloud-engineer-washington-dc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Nov 26 |
 | **[GCI](https://gci.tech)** | **[Cloud Engineer (Kubernetes) (TS/SCI with Poly Required)](https://jobr.pro/job/33298141/cloud-engineer-kubernetes-tssci-with-poly-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tysons Corner, Virginia, United States; Chantilly, Virginia, United States; Warrenton, Virginia, United States | On Site | Nov 26 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Infrastructure as Code](https://jobr.pro/job/33160096/cloud-engineer-infrastructure-as-code?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 25 |
 | **[Finastra](https://www.finastra.com/)** | **[Expert DevOps Cloud Engineer](https://jobr.pro/job/33144749/expert-devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Trivandrum, India | On Site | Nov 25 |
 | **[PwC](https://www.pwc.com/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33204302/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest - 78 Bajcsy-Zsilinszky, Hungary | On Site | Nov 25 |
-| **[AnaVation](https://anavationllc.com/)** | **[Cloud Engineer](https://jobr.pro/job/33120163/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Nov 24 |
-| **[TMS, LLC](https://www.linktms.com/)** | **[AWS Cloud Engineer \| 10+ Years](https://jobr.pro/job/33115531/aws-cloud-engineer-10-years?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raritan, NJ, United States | On Site | Nov 24 |
-| **[Vanderbilt University](https://www.vanderbilt.edu/)** | **[Associate Cloud Engineer](https://jobr.pro/job/33154338/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nashville, TN, United States | On Site | Nov 24 |
-| **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33129106/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 24 |
 
 ---
 
