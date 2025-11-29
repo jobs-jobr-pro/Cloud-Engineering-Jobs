@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -25,10 +25,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Steampunk](https://steampunk.com)** | **[Cloud Engineer](https://jobr.pro/job/33421182/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | McLean, VA, United States | On Site | Nov 28 |
 | **[Norddeutscher Rundfunk](https://www.ndr.de/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33376740/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, hybrides Arbeiten möglich, VG 08 | On Site | Nov 28 |
 | **[IRIUM](https://www.irium.es/)** | **[CLOUD ENGINEER con AWS (MADRID HIBRIDO)](https://jobr.pro/job/33376391/cloud-engineer-con-aws-madrid-hibrido?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MADRID, MADRID | On Site | Nov 28 |
+| **[Insight Enterprises, Inc.](https://www.insight.com/)** | **[Cloud Engineer III](https://jobr.pro/job/33415510/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, IN | On Site | Nov 28 |
 | **[Fidelity International](https://fidelityinternational.com/)** | **[Technical Consultant/Senior Technical Consultant - Cloud Engineer](https://jobr.pro/job/33405623/technical-consultantsenior-technical-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalian Office, China | On Site | Nov 28 |
 | **[Fidelity International](https://fidelityinternational.com/)** | **[Senior Technical Consultant - Cloud Engineer](https://jobr.pro/job/33405621/senior-technical-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalian Office, China | On Site | Nov 28 |
 | **[MSD](https://www.msd.com/)** | **[Manager, Health Cloud Engineer](https://jobr.pro/job/33405450/manager-health-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Nov 28 |
-| **[Insight Enterprises, Inc.](https://www.insight.com/)** | **[Cloud Engineer III](https://jobr.pro/job/33415510/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, IN | On Site | Nov 28 |
 | **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer](https://jobr.pro/job/33358192/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cesena, Emilia-Romagna, Italy | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33327466/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-VA-Virginia Beach | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/33327460/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 27 |
