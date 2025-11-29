@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/33381724/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[IAM Cloud Engineer](https://jobr.pro/job/33367253/iam-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bruxelles, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[DevOps Cloud Engineer](https://jobr.pro/job/33367249/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brussels, BRU, BE, 1000 | On Site | Nov 28 |
+| **[Steampunk](https://steampunk.com)** | **[Cloud Engineer](https://jobr.pro/job/33421182/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | McLean, VA, United States | On Site | Nov 28 |
 | **[Norddeutscher Rundfunk](https://www.ndr.de/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33376740/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, hybrides Arbeiten möglich, VG 08 | On Site | Nov 28 |
 | **[IRIUM](https://www.irium.es/)** | **[CLOUD ENGINEER con AWS (MADRID HIBRIDO)](https://jobr.pro/job/33376391/cloud-engineer-con-aws-madrid-hibrido?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MADRID, MADRID | On Site | Nov 28 |
 | **[Fidelity International](https://fidelityinternational.com/)** | **[Technical Consultant/Senior Technical Consultant - Cloud Engineer](https://jobr.pro/job/33405623/technical-consultantsenior-technical-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalian Office, China | On Site | Nov 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/33218191/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/33218181/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Nov 25 |
 | **[Loopio](https://loopio.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33213834/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ahmedabad, Gujarat | Remote | Nov 25 |
-| **[Adyen](https://www.adyen.com/)** | **[Infrastructure (Cloud) Engineer](https://jobr.pro/job/33220327/infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 38 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 8% remote | 38 companies | Avg salary: 150k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
