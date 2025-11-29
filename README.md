@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -19,6 +19,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elia Group](https://www.eliagroup.eu)** | **[DevOps Cloud Engineer](https://jobr.pro/job/33367249/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brussels, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Norddeutscher Rundfunk](https://www.ndr.de/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33376740/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, hybrides Arbeiten möglich, VG 08 | On Site | Nov 28 |
 | **[IRIUM](https://www.irium.es/)** | **[CLOUD ENGINEER con AWS (MADRID HIBRIDO)](https://jobr.pro/job/33376391/cloud-engineer-con-aws-madrid-hibrido?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MADRID, MADRID | On Site | Nov 28 |
+| **[Fidelity International](https://fidelityinternational.com/)** | **[Technical Consultant/Senior Technical Consultant - Cloud Engineer](https://jobr.pro/job/33405623/technical-consultantsenior-technical-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalian Office, China | On Site | Nov 28 |
+| **[Fidelity International](https://fidelityinternational.com/)** | **[Senior Technical Consultant - Cloud Engineer](https://jobr.pro/job/33405621/senior-technical-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalian Office, China | On Site | Nov 28 |
+| **[MSD](https://www.msd.com/)** | **[Manager, Health Cloud Engineer](https://jobr.pro/job/33405450/manager-health-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Nov 28 |
 | **[REPA GROUP](https://repagroup.com)** | **[Cloud Engineer](https://jobr.pro/job/33358192/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cesena, Emilia-Romagna, Italy | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33327466/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-VA-Virginia Beach | On Site | Nov 27 |
 | **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/33327460/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 27 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Cloud Engineer](https://jobr.pro/job/33140203/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 25 |
 | **[KPMG India](https://kpmg.com/)** | **[Cloud Engineer Consultant](https://jobr.pro/job/33172751/cloud-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
 | **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/33172812/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Azure Cloud Engineer Sr Principal](https://jobr.pro/job/33196574/azure-cloud-engineer-sr-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Nov 25 |
-| **[Berner Group](https://www.berner-group.com/)** | **[Cloud Engineer (w/m/d)](https://jobr.pro/job/33195729/cloud-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berner Omnichannel Trading Holding - Headquarters Köln, Germany | On Site | Nov 25 |
-| **[Leidos](https://www.leidos.com/)** | **[Journeyman Cloud Engineer](https://jobr.pro/job/33195366/journeyman-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6859 U.S. Coast Guard C5ISC Service Ctr Alexandria VA, United States | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 154k  
+**Current Stats:** 50 jobs | 6% remote | 38 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
