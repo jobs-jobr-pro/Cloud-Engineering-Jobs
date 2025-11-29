@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BEW Berliner Energie und Wärme AG](https://www.bew.berlin)** | **[Cloud Engineer - Schwerpunkt MS Azure und Datenbankservices](https://jobr.pro/job/33406348/cloud-engineer-schwerpunkt-ms-azure-und-datenbankservices?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, Germany | On Site | Nov 28 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer - OTC "SOLO" (REF4866W)](https://jobr.pro/job/33381708/cloud-engineer-otc-solo-ref4866w?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Nov 28 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/33381724/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[IAM Cloud Engineer](https://jobr.pro/job/33367253/iam-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bruxelles, BRU, BE, 1000 | On Site | Nov 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hitachi Digital Services](https://hitachids.com)** | **[Senior .NET AWS Cloud Engineer (Onsite Malaysia)](https://jobr.pro/job/33206774/senior-net-aws-cloud-engineer-onsite-malaysia?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ho Chi Minh, Ha Noi, Da Nang | On Site | Nov 25 |
 | **[Endava](https://www.endava.com)** | **[Cloud Engineer](https://jobr.pro/job/33140203/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 25 |
 | **[KPMG India](https://kpmg.com/)** | **[Cloud Engineer Consultant](https://jobr.pro/job/33172751/cloud-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
-| **[KPMG India](https://kpmg.com/)** | **[GCP Cloud Engineer Assistant Manager Bangalore](https://jobr.pro/job/33172812/gcp-cloud-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 38 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
