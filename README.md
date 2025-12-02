@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -32,6 +32,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33447116/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 01 |
 | **[Fugro](https://www.fugro.com/)** | **[Cloud Engineer](https://jobr.pro/job/33460663/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Level 2, North Tower, 10 Browning Street, South Brisbane, QLD, 4101, Australia | On Site | Dec 01 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Devops Cloud Engineer, VP](https://jobr.pro/job/33480754/devops-cloud-engineer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, India | On Site | Dec 01 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Senior Cloud Engineer – DoD Enterprise Cloud Operations (remote)](https://jobr.pro/job/33494779/senior-cloud-engineer-dod-enterprise-cloud-operations-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Home Office: Washington, DC, United States | Remote | Dec 01 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[SME Cloud Engineer – DoD/USACE Cloud Infrastructure (remote)](https://jobr.pro/job/33494774/sme-cloud-engineer-dodusace-cloud-infrastructure-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Home Office: Washington, DC, United States | Remote | Dec 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Lead Cloud Engineer/Manager](https://jobr.pro/job/33491036/lead-cloud-engineermanager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA MD Bethesda - NIH Campus, Bldg 31-B1B09 (MDC038), United States | On Site | Dec 01 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33491909/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - DXC Madrid Las Rozas (ESM02), Spain | On Site | Dec 01 |
 | **[Ollion](https://ollion.com/)** | **[Lead - Cloud Engineer](https://jobr.pro/job/33442896/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, India | On Site | Nov 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accolade, Inc.](https://www.accolade.com)** | **[Principal Cloud Engineer I](https://jobr.pro/job/33350685/principal-cloud-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Prague, Czechia | On Site | Nov 27 |
 | **[Barclays](https://home.barclays/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33337669/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Nov 27 |
 | **[Insight Enterprises, Inc.](https://www.insight.com/)** | **[Cloud Engineer II (Java/Spring/Nodejs/React)](https://jobr.pro/job/33371320/cloud-engineer-ii-javaspringnodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurugram Gurgaon HR, IN | On Site | Nov 27 |
-| **[UNSW](https://www.unsw.edu.au/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33318672/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, NSW | On Site | Nov 26 |
-| **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC)](https://jobr.pro/job/33272136/gcp-cloud-engineer-washington-dc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 127k  
+**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 148k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
