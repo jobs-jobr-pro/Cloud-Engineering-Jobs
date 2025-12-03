@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chevron](https://www.chevron.com/)** | **[AVD Cloud Engineer](https://jobr.pro/job/33544971/avd-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Dec 02 |
 | **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://jobr.pro/job/33585644/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6369 UK Mobile Worker, United Kingdom | On Site | Dec 02 |
 | **[Amgen](https://www.amgen.com/)** | **[Specialist AWS Cloud Engineer](https://jobr.pro/job/33586878/specialist-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal - ACC | On Site | Dec 02 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, AS](https://jobr.pro/job/33589247/cloud-engineer-as?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Dec 02 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6240)](https://jobr.pro/job/33517218/sr-cloud-engineer-i-6240?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 01 |
 | **[Effectual](https://www.effectual.com/)** | **[Cloud Engineer](https://jobr.pro/job/33507172/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Dec 01 |
 | **[Arch Global Services (Philippines) Inc.](https://www.archgroup.com/)** | **[Systems Engineer (Cloud Engineer)](https://jobr.pro/job/33498099/systems-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bonifacio Global City, Philippines | On Site | Dec 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elia Group](https://www.eliagroup.eu)** | **[IAM Cloud Engineer](https://jobr.pro/job/33367253/iam-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bruxelles, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[DevOps Cloud Engineer](https://jobr.pro/job/33367249/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brussels, BRU, BE, 1000 | On Site | Nov 28 |
 | **[Steampunk](https://steampunk.com)** | **[Cloud Engineer](https://jobr.pro/job/33421182/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | McLean, VA, United States | On Site | Nov 28 |
-| **[Norddeutscher Rundfunk](https://www.ndr.de/)** | **[Junior Cloud Engineer](https://jobr.pro/job/33376740/junior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, hybrides Arbeiten möglich, VG 08 | On Site | Nov 28 |
 
 ---
 
