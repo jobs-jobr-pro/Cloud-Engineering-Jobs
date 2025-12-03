@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 08:31 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 12:31 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xtremax](https://www.xtremax.com/)** | **[Cloud Engineer](https://jobr.pro/job/33623315/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Bangkok, Thailand | On Site | Dec 03 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Azure Cloud Engineer - TO34](https://jobr.pro/job/33600005/azure-cloud-engineer-to34?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 02 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC) Secret Clearance Required](https://jobr.pro/job/33569339/gcp-cloud-engineer-washington-dc-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Dec 02 |
 | **[Udemy](https://www.udemy.com/)** | **[Snr Staff Cloud Engineer- Datastores (MySQL, Kafka, Redis, AWS)](https://jobr.pro/job/33605127/snr-staff-cloud-engineer-datastores-mysql-kafka-redis-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dublin, Ireland | On Site | Dec 02 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DigiCert](https://www.digicert.com/)** | **[Senior Trust Operations Cloud Engineer](https://jobr.pro/job/33407589/senior-trust-operations-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore | On Site | Nov 28 |
 | **[BEW Berliner Energie und Wärme AG](https://www.bew.berlin)** | **[Cloud Engineer - Schwerpunkt MS Azure und Datenbankservices](https://jobr.pro/job/33406348/cloud-engineer-schwerpunkt-ms-azure-und-datenbankservices?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, Germany | On Site | Nov 28 |
 | **[Capco](https://www.capco.com/)** | **[Cloud Engineer (Azure) - COM INGLÊS - Remoto](https://jobr.pro/job/33408916/cloud-engineer-azure-com-ingles-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil - Sao Paulo | Remote | Nov 28 |
-| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer - OTC "SOLO" (REF4866W)](https://jobr.pro/job/33381708/cloud-engineer-otc-solo-ref4866w?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Nov 28 |
 
 ---
 
