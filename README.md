@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 00:31 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 04:31 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ARHS](https://www.arhs-group.com)** | **[Cloud Engineer AWS or Azure (m/f)](https://jobr.pro/job/33641660/cloud-engineer-aws-or-azure-mf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Luxembourg, Luxembourg District, Luxembourg | On Site | Dec 03 |
 | **[Everience Benelux](https://www.everience.com)** | **[Cloud Engineer](https://jobr.pro/job/33641827/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Milan, Lombardy, Italy | On Site | Dec 03 |
 | **[Xtremax](https://www.xtremax.com/)** | **[Cloud Engineer](https://jobr.pro/job/33623315/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Bangkok, Thailand | On Site | Dec 03 |
+| **[CIBC](https://www.cibc.com/)** | **[Cloud Engineer, Infrastructure Management](https://jobr.pro/job/33663085/cloud-engineer-infrastructure-management?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto-81 Bay, 32nd Floor, Canada | On Site | Dec 03 |
 | **[Chevron](https://www.chevron.com/)** | **[Cloud Engineer - Enterprise Content Management](https://jobr.pro/job/33640473/cloud-engineer-enterprise-content-management?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Dec 03 |
 | **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/33640451/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Dec 03 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Azure Cloud Engineer - TO34](https://jobr.pro/job/33600005/azure-cloud-engineer-to34?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Devops Cloud Engineer, VP](https://jobr.pro/job/33480754/devops-cloud-engineer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, India | On Site | Dec 01 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Senior Cloud Engineer – DoD Enterprise Cloud Operations (remote)](https://jobr.pro/job/33494779/senior-cloud-engineer-dod-enterprise-cloud-operations-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Home Office: Washington, DC, United States | Remote | Dec 01 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[SME Cloud Engineer – DoD/USACE Cloud Infrastructure (remote)](https://jobr.pro/job/33494774/sme-cloud-engineer-dodusace-cloud-infrastructure-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Home Office: Washington, DC, United States | Remote | Dec 01 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Lead Cloud Engineer/Manager](https://jobr.pro/job/33491036/lead-cloud-engineermanager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA MD Bethesda - NIH Campus, Bldg 31-B1B09 (MDC038), United States | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
