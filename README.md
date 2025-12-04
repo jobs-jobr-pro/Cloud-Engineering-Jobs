@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/33698393/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oak Brook, IL, United States | On Site | Dec 04 |
+| **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/33698279/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 04 |
+| **[mStart plus d.o.o.](https://mstart.hr/)** | **[Junior Cloud Engineer - Student position (m/ž)](https://jobr.pro/job/33696356/junior-cloud-engineer-student-position-mz?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Zagreb, Hrvatska (Hybrid) | On Site | Dec 04 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer II, AI/ML, Google Cloud](https://jobr.pro/job/33667897/cloud-engineer-ii-aiml-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX, USA; Atlanta, GA, USA | On Site | Dec 04 |
 | **[Zensar](https://www.zensar.com/)** | **[Cloud Engineer](https://jobr.pro/job/33668914/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Dec 04 |
 | **[Getinz](https://www.getinz.com/)** | **[Senior Security Engineer_Infra and Cloud Engineer](https://jobr.pro/job/33681520/senior-security-engineerinfra-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 04 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Cloud Engineer L1 - AWS](https://jobr.pro/job/33465090/cloud-engineer-l1-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Dec 01 |
 | **[Simple Software Solutions Group](https://sssg.us/)** | **[AWS Cloud Engineer](https://jobr.pro/job/33464778/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raritan, United States | On Site | Dec 01 |
 | **[Advancio](https://www.advancio.com)** | **[DevOps Cloud Engineer Based in U.S.A](https://jobr.pro/job/33461915/devops-cloud-engineer-based-in-usa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Dec 01 |
-| **[Deloitte](https://www.deloitte.com/)** | **[AWS Cloud Engineer @ Thessaloniki](https://jobr.pro/job/33460778/aws-cloud-engineer-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Thessaloniki | On Site | Dec 01 |
-| **[Emorphis Technologies](https://www.emorphis.com/)** | **[Cloud Engineer](https://jobr.pro/job/33469014/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madhya Pradesh, Indore, India | On Site | Dec 01 |
-| **[Oracle](https://www.oracle.com/)** | **[Account Cloud Engineer](https://jobr.pro/job/33459440/account-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RIYADH, Saudi Arabia | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 165k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
