@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II-Cloud Engineer - Service Registry](https://jobr.pro/job/33804400/software-engineer-ii-cloud-engineer-service-registry?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 05 |
 | **[Google](https://www.google.com/)** | **[Principal Workspace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/33788016/principal-workspace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Dec 05 |
+| **[Oracle](https://www.oracle.com/)** | **[Cloud Engineer](https://jobr.pro/job/33801211/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | BUCHAREST, Romania | On Site | Dec 05 |
+| **[Pluxee](https://www.pluxeegroup.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33801897/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | BEL Bruxelles (1000), Belgium | On Site | Dec 05 |
 | **[McDonald's Corporation](https://www.mcdonalds.com)** | **[Cloud Engineer III](https://jobr.pro/job/33716297/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de México, CDMX, Mexico | On Site | Dec 04 |
 | **[McDonald's Corporation](https://www.mcdonalds.com)** | **[Cloud Engineer II](https://jobr.pro/job/33716298/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de México, CDMX, Mexico | On Site | Dec 04 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4857)](https://jobr.pro/job/33723547/azure-cloud-engineer-4857?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hanover, MD | On Site | Dec 04 |
+| **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Cloud Engineer](https://jobr.pro/job/33814642/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, US | Remote | Dec 04 |
 | **[Achievers](https://www.achievers.com/)** | **[DevOps/Cloud Engineer](https://jobr.pro/job/33730793/devopscloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto | On Site | Dec 04 |
 | **[Nagarro](https://www.nagarro.com)** | **[Staff Engineer -- Salesforce Consumer Goods Cloud Engineer](https://jobr.pro/job/33739271/staff-engineer-salesforce-consumer-goods-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, Illinois, United States | On Site | Dec 04 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/33698393/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oak Brook, IL, United States | On Site | Dec 04 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Workspace Strategic Cloud Engineer, Google Public Sector](https://jobr.pro/job/33541984/workspace-strategic-cloud-engineer-google-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Dec 02 |
 | **[Continental](https://www.continental.com)** | **[Cloud Engineer – IT HUB Otrokovice](https://jobr.pro/job/33611347/cloud-engineer-it-hub-otrokovice?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Otrokovice 2, Zlínský kraj, Czechia | On Site | Dec 02 |
 | **[Experian](https://www.experian.com/)** | **[Senior Cloud Engineer - Cloud & AI (AWS Focus)](https://jobr.pro/job/33517903/senior-cloud-engineer-cloud-ai-aws-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, India | On Site | Dec 02 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer, AS](https://jobr.pro/job/33589247/cloud-engineer-as?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Dec 02 |
-| **[Chevron](https://www.chevron.com/)** | **[AVD Cloud Engineer](https://jobr.pro/job/33544971/avd-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Dec 02 |
-| **[Leidos](https://www.leidos.com/)** | **[Cloud Engineer](https://jobr.pro/job/33585644/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6369 UK Mobile Worker, United Kingdom | On Site | Dec 02 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer SRE](https://jobr.pro/job/33585193/cloud-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 40 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 4% remote | 39 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
