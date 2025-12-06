@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Cloud Engineer - Enterprise AI Services/Big Data](https://jobr.pro/job/33829972/cloud-engineer-enterprise-ai-servicesbig-data?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canada, Toronto, Ontario | On Site | Dec 05 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Google Cloud Engineer](https://jobr.pro/job/33829589/google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid HQ (KES51610), Spain | On Site | Dec 05 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Cloud Engineer](https://jobr.pro/job/33830292/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Client Office: Bethesda, MD, United States | On Site | Dec 05 |
+| **[BMO](https://www.bmo.com/)** | **[Senior Cloud Engineer - Data, AI](https://jobr.pro/job/33832250/senior-cloud-engineer-data-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | VIRTUAL(R)13 - HomeRes - IL, United States | Remote | Dec 05 |
 | **[McDonald's Corporation](https://www.mcdonalds.com)** | **[Cloud Engineer III](https://jobr.pro/job/33716297/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de México, CDMX, Mexico | On Site | Dec 04 |
 | **[McDonald's Corporation](https://www.mcdonalds.com)** | **[Cloud Engineer II](https://jobr.pro/job/33716298/cloud-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de México, CDMX, Mexico | On Site | Dec 04 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4857)](https://jobr.pro/job/33723547/azure-cloud-engineer-4857?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hanover, MD | On Site | Dec 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC) Secret Clearance Required](https://jobr.pro/job/33569339/gcp-cloud-engineer-washington-dc-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Dec 02 |
 | **[Udemy](https://www.udemy.com/)** | **[Snr Staff Cloud Engineer- Datastores (MySQL, Kafka, Redis, AWS)](https://jobr.pro/job/33605127/snr-staff-cloud-engineer-datastores-mysql-kafka-redis-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dublin, Ireland | On Site | Dec 02 |
 | **[Neurons Lab](https://neurons-lab.com/)** | **[GCP Cloud Engineer](https://jobr.pro/job/33606136/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Poland | Remote | Dec 02 |
-| **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550 ($2,500 signing bonus)](https://jobr.pro/job/33553828/devopscloud-engineer-seniorlead-id38550-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Одеса, Ukraine | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 40 companies | Avg salary: 192k  
+**Current Stats:** 50 jobs | 6% remote | 40 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
