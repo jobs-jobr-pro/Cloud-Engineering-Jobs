@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Shield AI](https://shield.ai/)** | **[Senior Cloud Engineer (R4222)](https://jobr.pro/job/34138508/senior-cloud-engineer-r4222?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Diego, California | On Site | Dec 11 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/34130969/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, United States | On Site | Dec 10 |
+| **[The Swift Group](https://theswiftgroup.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34152951/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Dec 10 |
+| **[Udemy](https://www.udemy.com/)** | **[Principal Cloud Engineer - Datastores](https://jobr.pro/job/34143825/principal-cloud-engineer-datastores?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Dec 10 |
 | **[Ally Financial](https://www.ally.com/)** | **[Sr Cloud Engineer](https://jobr.pro/job/34090406/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 500 Woodward Avenue, MI, 601 S. Tryon Street, NC | Remote | Dec 10 |
 | **[Hapag-Lloyd](https://www.hapag-lloyd.com/)** | **[Senior DevOps/Cloud Engineer](https://jobr.pro/job/34101679/senior-devopscloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gdansk, Poland | On Site | Dec 10 |
 | **[Zensar](https://www.zensar.com/)** | **[CloudFormation/Terraform /Cloud Engineer](https://jobr.pro/job/34083954/cloudformationterraform-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Dec 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Centific](https://centific.com/)** | **[Cloud Engineer - DevOps - DCS-1](https://jobr.pro/job/33919516/cloud-engineer-devops-dcs-1?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Dec 08 |
 | **[NTT DATA](https://hello.global.ntt/)** | **[Cloud Engineer (L2)](https://jobr.pro/job/33947117/cloud-engineer-l2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Port Elizabeth, South Africa | On Site | Dec 08 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer Principal](https://jobr.pro/job/33946939/cloud-engineer-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 08 |
-| **[Ameriprise Financial Services](https://www.ameriprise.com/)** | **[Cloud Engineer](https://jobr.pro/job/33954214/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 08579 Minneapolis Headquarters 901, United States | On Site | Dec 08 |
-| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/33926140/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Barcelona, Catalonia, Spain | On Site | Dec 07 |
-| **[Zaizi](https://www.zaizi.com/)** | **[NatSec Cloud Engineer](https://jobr.pro/job/33921921/natsec-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, England, United Kingdom | On Site | Dec 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 159k  
+**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
