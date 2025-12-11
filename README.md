@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Shield AI](https://shield.ai/)** | **[Senior Cloud Engineer (R4222)](https://jobr.pro/job/34138508/senior-cloud-engineer-r4222?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Diego, California | On Site | Dec 11 |
+| **[Creative Chaos](https://creativechaos.co/)** | **[Infrastructure Cloud Engineer](https://jobr.pro/job/34159902/infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pakistan - Remote | Remote | Dec 11 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/34130969/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, United States | On Site | Dec 10 |
 | **[The Swift Group](https://theswiftgroup.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34152951/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Dec 10 |
 | **[Udemy](https://www.udemy.com/)** | **[Principal Cloud Engineer - Datastores](https://jobr.pro/job/34143825/principal-cloud-engineer-datastores?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Dec 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/33920402/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 08 |
 | **[Centific](https://centific.com/)** | **[Cloud Engineer - DevOps - DCS-1](https://jobr.pro/job/33919516/cloud-engineer-devops-dcs-1?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Dec 08 |
 | **[NTT DATA](https://hello.global.ntt/)** | **[Cloud Engineer (L2)](https://jobr.pro/job/33947117/cloud-engineer-l2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Port Elizabeth, South Africa | On Site | Dec 08 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud Engineer Principal](https://jobr.pro/job/33946939/cloud-engineer-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
