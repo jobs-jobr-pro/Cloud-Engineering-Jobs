@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Future PLC](https://www.futureplc.com/)** | **[Senior Salesforce Marketing Cloud Engineer](https://jobr.pro/job/34083988/senior-salesforce-marketing-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United Kingdom - Remote | Remote | Dec 10 |
 | **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34082344/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 100 New Millennium Way, Bldg 1, Durham NC, United States | On Site | Dec 10 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Cloud Engineer, Senior](https://jobr.pro/job/34104242/cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA, VA, Arlington (1550 Crystal Dr Suite 300) non-client, United States | On Site | Dec 10 |
+| **[GDIT](https://www.gdit.com/)** | **[Cloud Engineer Senior (SRF xxxx) - 100% Telework!](https://jobr.pro/job/34129549/cloud-engineer-senior-srf-xxxx-100-telework?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 10 |
+| **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer](https://jobr.pro/job/34130396/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Dec 10 |
 | **[BayRock Labs](https://bayrocklabs.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/34075641/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New Delihi, India | On Site | Dec 09 |
 | **[CreateFuture](https://hello.createfuture.com/)** | **[Senior Cloud Engineer (GCP)](https://jobr.pro/job/34047682/senior-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edinburgh, Leeds, Manchester or London | On Site | Dec 09 |
 | **[CreateFuture](https://hello.createfuture.com/)** | **[Senior Cloud Engineer (Azure)](https://jobr.pro/job/34047681/senior-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edinburgh, Leeds, Manchester or London | On Site | Dec 09 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[prenode GmbH](https://www.prenode.de/)** | **[Data Engineer / Cloud-Engineer für Data, AI & MLOps (m/w/d)](https://jobr.pro/job/33911843/data-engineer-cloud-engineer-fur-data-ai-mlops-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Karlsruhe | On Site | Dec 07 |
 | **[GovCIO](https://govcio.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/33907900/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, United States | On Site | Dec 07 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant – Cloud Engineer](https://jobr.pro/job/33875101/lead-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Dec 06 |
-| **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550 ($2,500 signing bonus)](https://jobr.pro/job/33874773/devopscloud-engineer-seniorlead-id38550-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Київ, Ukraine | On Site | Dec 06 |
-| **[Google](https://www.google.com/)** | **[Cloud Engineer I, Application Modernization, Technical Delivery](https://jobr.pro/job/33867741/cloud-engineer-i-application-modernization-technical-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Dec 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 155k  
+**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 153k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
