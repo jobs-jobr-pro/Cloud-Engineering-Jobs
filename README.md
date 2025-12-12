@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Daimler Truck](https://www.daimlertruck.com/)** | **[DTICI_Senior Cloud Engineer - T7](https://jobr.pro/job/34250302/dticisenior-cloud-engineer-t7?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 12 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/34200039/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ARLINGTON, VA, United States | On Site | Dec 11 |
 | **[ECS](https://ecstech.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/34200038/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work from home, VA | Remote | Dec 11 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Junior AWS Cloud Engineer](https://jobr.pro/job/34225943/junior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[abrdn](https://www.abrdn.com/)** | **[Cloud Engineer](https://jobr.pro/job/34027654/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edinburgh, United Kingdom | On Site | Dec 09 |
 | **[Chamonix IT](https://www.chamonix.com.au)** | **[Senior Azure IaC Cloud Engineer (SA)](https://jobr.pro/job/34023238/senior-azure-iac-cloud-engineer-sa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Adelaide, South Australia 5000, Australia | On Site | Dec 08 |
 | **[3Cloud](https://3cloudsolutions.com/)** | **[Senior Cloud Engineer - Managed Services](https://jobr.pro/job/33965171/senior-cloud-engineer-managed-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - US | Remote | Dec 08 |
-| **[Trace3](https://www.trace3.com/)** | **[Cloud Engineer III](https://jobr.pro/job/33957118/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States - Colorado | Remote | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
