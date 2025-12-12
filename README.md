@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Shield AI](https://shield.ai/)** | **[Senior Cloud Engineer (R4222)](https://jobr.pro/job/34138508/senior-cloud-engineer-r4222?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Diego, California | On Site | Dec 11 |
 | **[Creative Chaos](https://creativechaos.co/)** | **[Infrastructure Cloud Engineer](https://jobr.pro/job/34159902/infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pakistan - Remote | Remote | Dec 11 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Principal Software Cloud Engineer](https://jobr.pro/job/34187598/principal-software-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND-TS Hyderabad Nanakramguda, India | On Site | Dec 11 |
+| **[M&G plc](https://global.mandg.com/)** | **[Manager Enterprise technology cloud engineer](https://jobr.pro/job/34211478/manager-enterprise-technology-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mumbai Central Avenue, India | On Site | Dec 11 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/34130969/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, United States | On Site | Dec 10 |
 | **[The Swift Group](https://theswiftgroup.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34152951/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA | On Site | Dec 10 |
 | **[Udemy](https://www.udemy.com/)** | **[Principal Cloud Engineer - Datastores](https://jobr.pro/job/34143825/principal-cloud-engineer-datastores?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Dec 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virginia.gov](https://www.virginia.gov/)** | **[Cloud Engineer Tech Lead](https://jobr.pro/job/33990278/cloud-engineer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Q - Z, Richmond (City), Virginia | On Site | Dec 08 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Cloud Engineer](https://jobr.pro/job/33974920/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Drammen, Buskerud, Norway | On Site | Dec 08 |
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, Google Cloud (Mandarin, English)](https://jobr.pro/job/33918557/strategic-cloud-engineer-google-cloud-mandarin-english?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Beijing, China; Shanghai, China | On Site | Dec 08 |
-| **[Google](https://www.google.com/)** | **[Cloud Engineer II, Application Modernization, Technical Delivery](https://jobr.pro/job/33918535/cloud-engineer-ii-application-modernization-technical-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 176k  
+**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
