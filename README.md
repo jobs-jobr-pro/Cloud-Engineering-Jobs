@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Daimler Truck](https://www.daimlertruck.com/)** | **[DTICI_Senior Cloud Engineer - T7](https://jobr.pro/job/34250302/dticisenior-cloud-engineer-t7?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 12 |
 | **[American Electric Power](https://www.aep.com/)** | **[Cloud Engineer](https://jobr.pro/job/34269050/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | AEP Headquarters, United States | On Site | Dec 12 |
 | **[Thales](https://www.thalesgroup.com/)** | **[IMS Cloud Engineer](https://jobr.pro/job/34263205/ims-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jakarta, Indonesia | On Site | Dec 12 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[SR Cloud Engineer](https://jobr.pro/job/34292479/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA NC Durham - 79 TW Alexander Dr (NCS017), United States | On Site | Dec 12 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/34200039/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ARLINGTON, VA, United States | On Site | Dec 11 |
 | **[ECS](https://ecstech.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/34200038/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work from home, VA | Remote | Dec 11 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Junior AWS Cloud Engineer](https://jobr.pro/job/34225943/junior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Cloud Engineer](https://jobr.pro/job/34065131/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Makati, Metro Manila, Philippines | On Site | Dec 09 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/33966431/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Dec 09 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Cloud Engineer](https://jobr.pro/job/34038402/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Client Office: Bethesda, MD, United States | On Site | Dec 09 |
-| **[DXC Technology](https://dxc.com/)** | **[Cloud Engineer](https://jobr.pro/job/34037170/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | LIS01 - DXC Lisbon Paco de Arcos Quinta da Fonte (LIS01), Portugal | On Site | Dec 09 |
 
 ---
 
