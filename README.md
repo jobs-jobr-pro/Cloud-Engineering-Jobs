@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Inetum](https://www.inetum.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/34310269/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Lisbon, Portugal | On Site | Dec 12 |
+| **[Ford Motor Company](https://corporate.ford.com/)** | **[Application Security Cloud Engineer](https://jobr.pro/job/34324710/application-security-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dearborn, MI, United States | On Site | Dec 12 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550 ($2,500 signing bonus)](https://jobr.pro/job/34258916/devopscloud-engineer-seniorlead-id38550-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Poznań, Poland | On Site | Dec 12 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550 ($2,500 signing bonus)0](https://jobr.pro/job/34258898/devopscloud-engineer-seniorlead-id38550-2500-signing-bonus0?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gdańsk, Poland | On Site | Dec 12 |
 | **[Machine Learning Reply](https://www.reply.com/machine-learning-reply/de/)** | **[(Senior) Cloud Engineer (m/f/d)](https://jobr.pro/job/34298560/senior-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vienna, Wien, Austria | On Site | Dec 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Software Mind](https://softwaremind.com)** | **[\[WBG\] Senior Platform /Cloud Engineer](https://jobr.pro/job/34062302/wbg-senior-platform-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Dec 09 |
 | **[Visma](https://www.visma.fi/)** | **[Senior Cloud Engineer, Visma Sign](https://jobr.pro/job/33998999/senior-cloud-engineer-visma-sign?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lappeenranta, Finland | On Site | Dec 09 |
 | **[Fever](https://feverup.com/)** | **[Salesforce Marketing Cloud Engineer](https://jobr.pro/job/34048447/salesforce-marketing-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid | On Site | Dec 09 |
-| **[Bayer](https://www.bayer.com/)** | **[Cloud Engineer](https://jobr.pro/job/33976335/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cimanggis, West Java, ID | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
