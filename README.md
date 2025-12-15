@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/34358485/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Dec 15 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Jr. Cloud Engineer](https://jobr.pro/job/34358486/jr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Dec 15 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Expert Cloud Engineer OTC- SOLO (REF4947J)](https://jobr.pro/job/34326602/expert-cloud-engineer-otc-solo-ref4947j?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Budapest, Debrecen, Szeged, Pécs, Hungary | On Site | Dec 13 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Sr. Cloud Engineer](https://jobr.pro/job/34330286/lead-software-engineer-sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbus, OH, United States | On Site | Dec 12 |
 | **[Inetum](https://www.inetum.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/34310269/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon, Lisbon, Portugal | On Site | Dec 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CreateFuture](https://hello.createfuture.com/)** | **[Senior Cloud Engineer (Azure)](https://jobr.pro/job/34047681/senior-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edinburgh, Leeds, Manchester or London | On Site | Dec 09 |
 | **[ADP](https://www.adp.com/)** | **[Senior DevOps/AWS Cloud Engineer](https://jobr.pro/job/34018669/senior-devopsaws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tunis, tun-tn, Tunisia | On Site | Dec 09 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Enterprise Cloud Engineer II/III/Sr or Principal](https://jobr.pro/job/34083820/enterprise-cloud-engineer-iiiiisr-or-principal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Des Moines, IA, United States | On Site | Dec 09 |
-| **[AllCloud](https://allcloud.io/)** | **[MSP - AWS Cloud Engineer](https://jobr.pro/job/34012752/msp-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, NY, US | Remote | Dec 09 |
-| **[Simple Software Solutions Group](https://sssg.us/)** | **[AWS Cloud Engineer](https://jobr.pro/job/34002806/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Raritan, United States | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 14% remote | 44 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
