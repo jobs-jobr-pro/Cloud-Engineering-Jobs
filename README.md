@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -16,8 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/34358485/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Dec 15 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Jr. Cloud Engineer](https://jobr.pro/job/34358486/jr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Dec 15 |
 | **[CrowdStrike](https://www.crowdstrike.com/)** | **[Cloud Engineer Intern - Spring 2026](https://jobr.pro/job/34362749/cloud-engineer-intern-spring-2026?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sunnyvale, United States | On Site | Dec 15 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Java Cloud Engineer - RFT Technology (Accounting Domain)](https://jobr.pro/job/34384416/java-cloud-engineer-rft-technology-accounting-domain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 15 |
 | **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer Senior Lead - Public Cloud Containers - Senior Vice President](https://jobr.pro/job/34395493/cloud-engineer-senior-lead-public-cloud-containers-senior-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6801 COLWELL BLVD IRVING, United States | On Site | Dec 15 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Java Cloud Engineer - RFT Technology (Accounting Domain)](https://jobr.pro/job/34384416/java-cloud-engineer-rft-technology-accounting-domain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 15 |
 | **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34381420/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Dec 15 |
 | **[IRIUM](https://www.irium.es/)** | **[CLOUD ENGINEER](https://jobr.pro/job/34387350/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain - Remote | Remote | Dec 15 |
 | **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Senior Developer in Test)](https://jobr.pro/job/34367763/senior-quality-cloud-engineer-senior-developer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, Australia | On Site | Dec 14 |
@@ -37,8 +37,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[RELEX Solutions](https://www.relexsolutions.com/careers/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34309551/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Helsinki, Finland | On Site | Dec 12 |
 | **[Daimler Truck](https://www.daimlertruck.com/)** | **[DTICI_Senior Cloud Engineer - T7](https://jobr.pro/job/34250302/dticisenior-cloud-engineer-t7?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 12 |
 | **[American Electric Power](https://www.aep.com/)** | **[Cloud Engineer](https://jobr.pro/job/34269050/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | AEP Headquarters, United States | On Site | Dec 12 |
-| **[Thales](https://www.thalesgroup.com/)** | **[IMS Cloud Engineer](https://jobr.pro/job/34263205/ims-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jakarta, Indonesia | On Site | Dec 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[SR Cloud Engineer](https://jobr.pro/job/34292479/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA NC Durham - 79 TW Alexander Dr (NCS017), United States | On Site | Dec 12 |
+| **[Thales](https://www.thalesgroup.com/)** | **[IMS Cloud Engineer](https://jobr.pro/job/34263205/ims-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jakarta, Indonesia | On Site | Dec 12 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/34200039/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ARLINGTON, VA, United States | On Site | Dec 11 |
 | **[ECS](https://ecstech.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/34200038/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Work from home, VA | Remote | Dec 11 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Junior AWS Cloud Engineer](https://jobr.pro/job/34225943/junior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 11 |
