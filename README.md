@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,10 +18,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DKB \| Deutsche Kreditbank AG](https://www.dkb.de)** | **[Cloud Engineer - Banking Platform](https://jobr.pro/job/34410433/cloud-engineer-banking-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, DE, 10117 | On Site | Dec 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - AWS Cloud Engineer + Java](https://jobr.pro/job/34443774/software-engineer-iii-aws-cloud-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 16 |
 | **[Sandisk](https://www.sandisk.com/)** | **[Sr. Azure Cloud Engineer](https://jobr.pro/job/34414649/sr-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Milpitas, CA, United States | On Site | Dec 16 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/34459712/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 16 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/34465575/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 16 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior VMware Cloud Engineer](https://jobr.pro/job/34463610/senior-vmware-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Solna, Sweden | On Site | Dec 16 |
 | **[MSD](https://www.msd.com/)** | **[Manager Cloud Engineer](https://jobr.pro/job/34476906/manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Dec 16 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/34459712/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 16 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/34465575/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 16 |
 | **[3Pillar Global](https://www.3pillarglobal.com/)** | **[Technical Lead Cloud Engineer (Azure) - NodeJs/React](https://jobr.pro/job/34405825/technical-lead-cloud-engineer-azure-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Romania | On Site | Dec 15 |
 | **[3Pillar Global](https://www.3pillarglobal.com/)** | **[Senior Cloud Engineer (Azure) - NodeJs/React](https://jobr.pro/job/34405819/senior-cloud-engineer-azure-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Moldova | On Site | Dec 15 |
 | **[amplimind GmbH](https://amplimind.io/)** | **[Cloud Engineer (all genders)](https://jobr.pro/job/34434694/cloud-engineer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | München, Remote bzw. mobil | Remote | Dec 15 |
