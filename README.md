@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -20,10 +20,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Cloud Engineer (Tenant)](https://jobr.pro/job/34583665/senior-cloud-engineer-tenant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tallinn, 37, EE, 10412 | On Site | Dec 18 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior AWS DevOps & Cloud Engineer](https://jobr.pro/job/34580104/senior-aws-devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, IN, 560100 | On Site | Dec 18 |
 | **[Coles Group](https://www.colesgroup.com.au/)** | **[Cloud Engineer - Hawthorn East](https://jobr.pro/job/34577716/cloud-engineer-hawthorn-east?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hawthorn East Melbourne, VIC, AU, 3123 | On Site | Dec 18 |
+| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/34613949/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MY-PJA-002, Malaysia | On Site | Dec 18 |
 | **[MassMutual Romania](https://www.massmutual.com/)** | **[Cloud Engineer (Cloud Security Operations)](https://jobr.pro/job/34596135/cloud-engineer-cloud-security-operations?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucuresti - Soseaua Orhideelor - Sector 6, Romania | On Site | Dec 18 |
 | **[PwC](https://www.pwc.com/)** | **[ETIC, M365 Cloud Engineer - Senior Associate](https://jobr.pro/job/34608709/etic-m365-cloud-engineer-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cairo - ETIC, Egypt | On Site | Dec 18 |
 | **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobr.pro/job/34614087/d365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Dec 18 |
-| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/34613949/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MY-PJA-002, Malaysia | On Site | Dec 18 |
+| **[Zühlke Group](https://www.zuehlke.com/)** | **[(Senior) Azure Cloud Engineer](https://jobr.pro/job/34634672/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Schlieren, Switzerland | On Site | Dec 18 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer Stage (H/F)](https://jobr.pro/job/34573535/cloud-engineer-stage-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Levallois-Perret, IDF, France | On Site | Dec 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/34573544/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Dec 17 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6141)](https://jobr.pro/job/34576505/sr-cloud-engineer-i-6141?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer Senior Lead - Public Cloud Containers - Senior Vice President](https://jobr.pro/job/34395493/cloud-engineer-senior-lead-public-cloud-containers-senior-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6801 COLWELL BLVD IRVING, United States | On Site | Dec 15 |
 | **[IRIUM](https://www.irium.es/)** | **[CLOUD ENGINEER](https://jobr.pro/job/34387350/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain - Remote | Remote | Dec 15 |
 | **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34381420/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Dec 15 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Java Cloud Engineer - RFT Technology (Accounting Domain)](https://jobr.pro/job/34384416/java-cloud-engineer-rft-technology-accounting-domain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London 10 Upper Bank Street, United Kingdom | On Site | Dec 15 |
 
 ---
 
