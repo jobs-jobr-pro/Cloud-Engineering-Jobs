@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,8 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Cloud Engineer](https://jobr.pro/job/34683351/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Dec 19 |
 | **[EY](https://www.ey.com)** | **[Hybrid Cloud Engineer - OpenShift - Senior](https://jobr.pro/job/34681608/hybrid-cloud-engineer-openshift-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, IN, 600032 | On Site | Dec 19 |
+| **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Cloud Engineer](https://jobr.pro/job/34683351/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Dec 19 |
+| **[PwC](https://www.pwc.com/)** | **[Azure Cloud Engineer, AI Manager (Data & AI)](https://jobr.pro/job/34724721/azure-cloud-engineer-ai-manager-data-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dublin - One Spencer Dock, Ireland | On Site | Dec 19 |
 | **[Kunai](https://www.kunaico.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34659432/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | Dec 18 |
 | **[CreateFuture](https://hello.createfuture.com/)** | **[Senior Cloud Engineer (GCP)](https://jobr.pro/job/34653486/senior-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Leeds | On Site | Dec 18 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34612297/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN-AP-Hyderabad | On Site | Dec 18 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Morpheus Private Cloud Engineer](https://jobr.pro/job/34459712/morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 16 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/34465575/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 16 |
 | **[3Pillar Global](https://www.3pillarglobal.com/)** | **[Technical Lead Cloud Engineer (Azure) - NodeJs/React](https://jobr.pro/job/34405825/technical-lead-cloud-engineer-azure-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Romania | On Site | Dec 15 |
-| **[3Pillar Global](https://www.3pillarglobal.com/)** | **[Senior Cloud Engineer (Azure) - NodeJs/React](https://jobr.pro/job/34405819/senior-cloud-engineer-azure-nodejsreact?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Moldova | On Site | Dec 15 |
 
 ---
 
