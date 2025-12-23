@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Particle41](https://particle41.com/)** | **[Cloud Engineer (Full Stack / AWS)](https://jobr.pro/job/34847735/cloud-engineer-full-stack-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Remote | Remote | Dec 22 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/34818054/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Dec 22 |
 | **[Scottish Government](https://www.gov.scot/)** | **[Cloud Engineer - FinOps](https://jobr.pro/job/34815969/cloud-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Glasgow, United Kingdom | On Site | Dec 22 |
+| **[Valtech](https://www.valtech.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34856396/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Dec 22 |
 | **[Stingray Marine Solutions AS](https://www.stingray.no/)** | **[AWS Cloud Engineer](https://jobr.pro/job/34825823/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oslo | On Site | Dec 22 |
+| **[Orion Innovation](https://www.orioninc.com/)** | **[Cloud Engineer](https://jobr.pro/job/34851022/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edison, NJ | On Site | Dec 22 |
+| **[Peraton](https://www.peraton.com/)** | **[Cloud Engineer](https://jobr.pro/job/34857164/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St Louis, MO, United States | On Site | Dec 22 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/34803119/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Dec 22 |
 | **[AAA Club Alliance](https://www.aaa.com/)** | **[Microsoft 365 Cloud Engineer](https://jobr.pro/job/34841677/microsoft-365-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wilmington, DE, 19801, United States | On Site | Dec 22 |
 | **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Cloud Engineer](https://jobr.pro/job/34818385/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Quezon City, Metro Manila, Philippines | On Site | Dec 21 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Engineer III - Azure Cloud Engineer](https://jobr.pro/job/34512539/engineer-iii-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | APAC - India - Pune - Samrat Ashok Path | On Site | Dec 17 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Cloud Engineer - Associate - CPRE Devops team](https://jobr.pro/job/34571812/cloud-engineer-associate-cpre-devops-team?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad - BSR IT - SEZ - Block 1, India | On Site | Dec 17 |
 | **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer (Security Operation)](https://jobr.pro/job/34572842/sr-cloud-engineer-security-operation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Dec 17 |
-| **[Technologent](https://www.technologent.com/)** | **[Kubernetes Cloud Engineer](https://jobr.pro/job/34553313/kubernetes-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Phoenix, AZ | On Site | Dec 16 |
-| **[Mutual Of Omaha](https://www.mutualofomaha.com/)** | **[Cloud Engineer (AWS/CDK/Object Oriented Programming) - Remote](https://jobr.pro/job/34524170/cloud-engineer-awscdkobject-oriented-programming-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Dec 16 |
-| **[VFG Group](https://vfgconsulting.com/)** | **[Azure Cloud Engineer (Part-Time)](https://jobr.pro/job/34529575/azure-cloud-engineer-part-time?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fully Remote | Remote | Dec 16 |
-| **[Spry Methods](https://www.sprymethods.com/)** | **[Cloud Engineer](https://jobr.pro/job/34494100/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Quantico, VA | On Site | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 176k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
