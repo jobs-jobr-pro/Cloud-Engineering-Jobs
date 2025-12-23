@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, App Modernization, Technical Delivery](https://jobr.pro/job/34878438/strategic-cloud-engineer-app-modernization-technical-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA | On Site | Dec 23 |
+| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Rakuten Wallet, Inc.](https://jobr.pro/job/34879237/cloud-engineer-rakuten-wallet-inc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House Aoyama, Japan | On Site | Dec 23 |
+| **[Fanatics](https://www.fanaticsinc.com/)** | **[Senior Cloud Engineer - NCF](https://jobr.pro/job/34881991/senior-cloud-engineer-ncf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Dec 22 |
 | **[Particle41](https://particle41.com/)** | **[Cloud Engineer (Full Stack / AWS)](https://jobr.pro/job/34847735/cloud-engineer-full-stack-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Remote | Remote | Dec 22 |
+| **[Valcon](https://valcon.com/)** | **[(Senior) Principal Azure Cloud Engineer](https://jobr.pro/job/34867135/senior-principal-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, The Netherlands | On Site | Dec 22 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/34818054/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Dec 22 |
 | **[Scottish Government](https://www.gov.scot/)** | **[Cloud Engineer - FinOps](https://jobr.pro/job/34815969/cloud-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Glasgow, United Kingdom | On Site | Dec 22 |
 | **[Valtech](https://www.valtech.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34856396/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Dec 22 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Journeyman Cloud Engineer](https://jobr.pro/job/34565765/journeyman-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Dec 17 |
 | **[Leidos](https://www.leidos.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/34565696/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Dec 17 |
 | **[Sun Life](https://www.sunlife.com/)** | **[Sr. Principal Cloud Engineer](https://jobr.pro/job/34555329/sr-principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Asia Service Centre Philippines | On Site | Dec 17 |
-| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Rakuten Wallet, Inc.](https://jobr.pro/job/34555263/cloud-engineer-rakuten-wallet-inc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House Aoyama, Japan | On Site | Dec 17 |
-| **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Engineer III - Azure Cloud Engineer](https://jobr.pro/job/34512539/engineer-iii-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | APAC - India - Pune - Samrat Ashok Path | On Site | Dec 17 |
-| **[MassMutual](https://www.massmutual.com/)** | **[Cloud Engineer - Associate - CPRE Devops team](https://jobr.pro/job/34571812/cloud-engineer-associate-cpre-devops-team?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad - BSR IT - SEZ - Block 1, India | On Site | Dec 17 |
-| **[Trend Micro](https://www.trendmicro.com/)** | **[(Sr.) Cloud Engineer (Security Operation)](https://jobr.pro/job/34572842/sr-cloud-engineer-security-operation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, Taiwan | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 174k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
