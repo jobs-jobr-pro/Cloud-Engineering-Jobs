@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Advancio](https://www.advancio.com)** | **[DevOps Cloud Engineer](https://jobr.pro/job/34890306/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Dec 23 |
+| **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/34885415/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-MD-Fort Meade | On Site | Dec 23 |
+| **[F-Secure](https://www.f-secure.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/34900538/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bratislava I | On Site | Dec 23 |
+| **[Endava](https://www.endava.com)** | **[GCP Cloud Engineer (Apigee)](https://jobr.pro/job/34884950/gcp-cloud-engineer-apigee?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Mazovia, Poland | On Site | Dec 23 |
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, App Modernization, Technical Delivery](https://jobr.pro/job/34878438/strategic-cloud-engineer-app-modernization-technical-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA | On Site | Dec 23 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Rakuten Wallet, Inc.](https://jobr.pro/job/34879237/cloud-engineer-rakuten-wallet-inc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House Aoyama, Japan | On Site | Dec 23 |
 | **[Fanatics](https://www.fanaticsinc.com/)** | **[Senior Cloud Engineer - NCF](https://jobr.pro/job/34881991/senior-cloud-engineer-ncf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Dec 22 |
 | **[Particle41](https://particle41.com/)** | **[Cloud Engineer (Full Stack / AWS)](https://jobr.pro/job/34847735/cloud-engineer-full-stack-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Remote | Remote | Dec 22 |
+| **[Dayforce](https://www.dayforce.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34891983/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Philippines | On Site | Dec 22 |
 | **[Valcon](https://valcon.com/)** | **[(Senior) Principal Azure Cloud Engineer](https://jobr.pro/job/34867135/senior-principal-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, The Netherlands | On Site | Dec 22 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/34818054/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Hyderabad | On Site | Dec 22 |
 | **[Scottish Government](https://www.gov.scot/)** | **[Cloud Engineer - FinOps](https://jobr.pro/job/34815969/cloud-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Glasgow, United Kingdom | On Site | Dec 22 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. Cloud Engineer I (6141)](https://jobr.pro/job/34576505/sr-cloud-engineer-i-6141?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 17 |
 | **[Siili Solutions](https://www.siili.com/)** | **[AI Cloud Engineer](https://jobr.pro/job/34603866/ai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tampere, Finland | On Site | Dec 17 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps/Cloud Engineer (Senior/Lead) ID38550 ($2,500 signing bonus)](https://jobr.pro/job/34539029/devopscloud-engineer-seniorlead-id38550-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Łódź, Poland | On Site | Dec 17 |
-| **[Scottish Government](https://www.gov.scot/)** | **[Cloud Engineer](https://jobr.pro/job/34607557/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Glasgow, United Kingdom | On Site | Dec 17 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Data Cloud Engineer](https://jobr.pro/job/34587982/telecom-sector-data-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 17 |
-| **[Leidos](https://www.leidos.com/)** | **[Journeyman Cloud Engineer](https://jobr.pro/job/34565765/journeyman-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Dec 17 |
-| **[Leidos](https://www.leidos.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/34565696/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Dec 17 |
-| **[Sun Life](https://www.sunlife.com/)** | **[Sr. Principal Cloud Engineer](https://jobr.pro/job/34555329/sr-principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Asia Service Centre Philippines | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 8% remote | 47 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
