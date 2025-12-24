@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[METRO/MAKRO](https://www.metroag.de/)** | **[Cloud Engineer Microsoft M365](https://jobr.pro/job/34957999/cloud-engineer-microsoft-m365?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, Maharashtra, India | On Site | Dec 24 |
+| **[Version 1](https://www.version1.com)** | **[Cloud Engineer](https://jobr.pro/job/34958002/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, UP, India | On Site | Dec 24 |
+| **[NEXTDC](https://www.nextdc.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/34957874/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Dec 24 |
 | **[Hopae](https://www.hopae.com/)** | **[Cloud Engineer - EU Luxembourg](https://jobr.pro/job/34929659/cloud-engineer-eu-luxembourg?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | On Site | Dec 24 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Cloud Engineer](https://jobr.pro/job/34902194/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Nationwide, United States | Remote | Dec 23 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud Engineer AWS F/H](https://jobr.pro/job/34921729/senior-cloud-engineer-aws-fh?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Dec 23 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MassMutual Romania](https://www.massmutual.com/)** | **[Cloud Engineer (Cloud Security Operations)](https://jobr.pro/job/34596135/cloud-engineer-cloud-security-operations?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucuresti - Soseaua Orhideelor - Sector 6, Romania | On Site | Dec 18 |
 | **[PwC](https://www.pwc.com/)** | **[ETIC, M365 Cloud Engineer - Senior Associate](https://jobr.pro/job/34608709/etic-m365-cloud-engineer-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cairo - ETIC, Egypt | On Site | Dec 18 |
 | **[UBS](https://www.ubs.com/)** | **[D365 Azure Cloud Engineer](https://jobr.pro/job/34614087/d365-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Dec 18 |
-| **[NN Group](https://www.nn-group.com/)** | **[Kubernetes DevOps/Cloud Engineer (AWS)](https://jobr.pro/job/34646848/kubernetes-devopscloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Digital Hub Madrid, Spain | On Site | Dec 18 |
-| **[Coles Group](https://www.colesgroup.com.au/)** | **[Cloud Engineer - Hawthorn East](https://jobr.pro/job/34577716/cloud-engineer-hawthorn-east?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hawthorn East Melbourne, VIC, AU, 3123 | On Site | Dec 18 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer Stage (H/F)](https://jobr.pro/job/34573535/cloud-engineer-stage-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Levallois-Perret, IDF, France | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 47 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 10% remote | 48 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
