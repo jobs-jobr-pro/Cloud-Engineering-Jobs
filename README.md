@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,8 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Liebherr Group](https://www.liebherr.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/34993403/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kirchdorf/Oberopfingen, DE | On Site | Dec 25 |
+| **[Checkmate](https://itsacheckmate.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/35000063/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Dec 25 |
 | **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Cloud Engineer (Datadog SME)](https://jobr.pro/job/34992052/cloud-engineer-datadog-sme?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canada | On Site | Dec 24 |
 | **[GCI](https://gci.tech)** | **[DevOps Cloud Engineer (TS/SCI with Poly Required)](https://jobr.pro/job/34991894/devops-cloud-engineer-tssci-with-poly-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tysons Corner, Virginia, United States; Chantilly, Virginia, United States; Warrenton, Virginia, United States | On Site | Dec 24 |
+| **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Full Stack Developer)](https://jobr.pro/job/35000643/senior-quality-cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | София, Bulgaria | On Site | Dec 24 |
 | **[METRO/MAKRO](https://www.metroag.de/)** | **[Cloud Engineer Microsoft M365](https://jobr.pro/job/34957999/cloud-engineer-microsoft-m365?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, Maharashtra, India | On Site | Dec 24 |
 | **[Version 1](https://www.version1.com)** | **[Cloud Engineer](https://jobr.pro/job/34958002/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, UP, India | On Site | Dec 24 |
 | **[NEXTDC](https://www.nextdc.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/34957874/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Dec 24 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rewire](https://www.rewirenow.com/)** | **[Cloud Engineer](https://jobr.pro/job/34655193/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam, Noord-Holland, Netherlands | On Site | Dec 18 |
 | **[CD PROJEKT RED](https://www.cdprojekt.com/)** | **[Senior IT Cloud Engineer](https://jobr.pro/job/34610301/senior-it-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 18 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Cloud Engineer](https://jobr.pro/job/34610315/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malmö, Skåne län, Sweden | On Site | Dec 18 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Cloud Engineer (Tenant)](https://jobr.pro/job/34583665/senior-cloud-engineer-tenant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tallinn, 37, EE, 10412 | On Site | Dec 18 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Senior AWS DevOps & Cloud Engineer](https://jobr.pro/job/34580104/senior-aws-devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, IN, 560100 | On Site | Dec 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 49 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 12% remote | 49 companies | Avg salary: 183k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
