@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Senior Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten! (m/w/d)](https://jobr.pro/job/35044171/senior-cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 27 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/35021392/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Noida | On Site | Dec 26 |
+| **[Barrow Wise Consulting](https://www.barrowwise.com/)** | **[Cloud Engineer](https://jobr.pro/job/35041441/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, D.C., USA | On Site | Dec 26 |
+| **[Barrow Wise Consulting](https://www.barrowwise.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/35041438/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Maryland, USA | On Site | Dec 26 |
 | **[Clickhouse](https://clickhouse.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35038960/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States (remote) | Remote | Dec 26 |
 | **[AirAsia](https://www.airasia.com/)** | **[Cloud Engineer](https://jobr.pro/job/35019864/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 26 |
 | **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35033064/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Dec 26 |
@@ -55,7 +58,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 13% remote | 39 companies | Avg salary: 183k  
+**Current Stats:** 42 jobs | 14% remote | 41 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
