@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Senior Cloud Engineer - SBS Team](https://jobr.pro/job/35091990/senior-cloud-engineer-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Dec 29 |
+| **[Eversource Energy](https://www.eversource.com/)** | **[Lead Cloud Engineer (Azure) Hybrid Schedule](https://jobr.pro/job/35099115/lead-cloud-engineer-azure-hybrid-schedule?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, CT, United States | On Site | Dec 29 |
 | **[1NCE](https://1nce.com/en/jobs/)** | **[Cloud Engineer AWS (Middle/Senior) - (all)](https://jobr.pro/job/35068754/cloud-engineer-aws-middlesenior-all?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Europe | Remote | Dec 28 |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Senior Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten! (m/w/d)](https://jobr.pro/job/35044171/senior-cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 27 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/35021392/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Noida | On Site | Dec 26 |
@@ -56,7 +58,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 39 companies | Avg salary: 179k  
+**Current Stats:** 42 jobs | 17% remote | 41 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
