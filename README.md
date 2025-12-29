@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[1NCE](https://1nce.com/en/jobs/)** | **[Cloud Engineer AWS (Middle/Senior) - (all)](https://jobr.pro/job/35068754/cloud-engineer-aws-middlesenior-all?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Europe | Remote | Dec 28 |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Senior Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten! (m/w/d)](https://jobr.pro/job/35044171/senior-cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 27 |
 | **[Genpact](https://www.genpact.com/)** | **[Principal Consultant – Cloud Engineer](https://jobr.pro/job/35021392/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Noida | On Site | Dec 26 |
 | **[Barrow Wise Consulting](https://www.barrowwise.com/)** | **[Cloud Engineer](https://jobr.pro/job/35041441/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, D.C., USA | On Site | Dec 26 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 15% remote | 38 companies | Avg salary: 179k  
+**Current Stats:** 40 jobs | 18% remote | 39 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
