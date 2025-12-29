@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -52,13 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Peraton](https://www.peraton.com/)** | **[Cloud Engineer](https://jobr.pro/job/34857164/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St Louis, MO, United States | On Site | Dec 22 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/34803119/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Dec 22 |
 | **[AAA Club Alliance](https://www.aaa.com/)** | **[Microsoft 365 Cloud Engineer](https://jobr.pro/job/34841677/microsoft-365-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wilmington, DE, 19801, United States | On Site | Dec 22 |
-| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[Cloud Engineer](https://jobr.pro/job/34818385/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Quezon City, Metro Manila, Philippines | On Site | Dec 21 |
-| **[PSA Singapore](https://www.singaporepsa.com/)** | **[Cloud Engineer](https://jobr.pro/job/34811127/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | Dec 21 |
-| **[Steampunk](https://steampunk.com)** | **[Cloud Engineer](https://jobr.pro/job/34803791/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | McLean, VA, United States | On Site | Dec 21 |
 
 ---
 
-**Current Stats:** 42 jobs | 14% remote | 41 companies | Avg salary: 178k  
+**Current Stats:** 39 jobs | 15% remote | 38 companies | Avg salary: 179k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
