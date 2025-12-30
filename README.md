@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MSD](https://www.msd.com/)** | **[Manager Cloud Engineer](https://jobr.pro/job/35142748/manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Dec 30 |
 | **[bp](https://www.bp.com/)** | **[Operational Security Management Specialist (Security Azure Cloud Engineer)](https://jobr.pro/job/35134156/operational-security-management-specialist-security-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MY: Kuala Lumpur - Bangsar South Campus, Malaysia | On Site | Dec 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Lead Cloud Engineer/Manager](https://jobr.pro/job/35143477/lead-cloud-engineermanager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA MD Bethesda - NIH Campus, Bldg 31-B1B09 (MDC038), United States | On Site | Dec 30 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35149079/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | UK - LONDON 25 ROPEMAKER STREET 35 HRS, United Kingdom | On Site | Dec 30 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/35114633/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/35114627/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/35114623/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
@@ -64,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 48 jobs | 15% remote | 39 companies | Avg salary: 180k  
+**Current Stats:** 49 jobs | 14% remote | 40 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
