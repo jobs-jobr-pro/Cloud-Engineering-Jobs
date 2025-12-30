@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -44,21 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[GCP Cloud Engineer (Apigee)](https://jobr.pro/job/34932923/gcp-cloud-engineer-apigee?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gdansk, Pomerania, Poland | On Site | Dec 23 |
 | **[Google](https://www.google.com/)** | **[Strategic Cloud Engineer, App Modernization, Technical Delivery](https://jobr.pro/job/34878438/strategic-cloud-engineer-app-modernization-technical-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA | On Site | Dec 23 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Cloud Engineer - Rakuten Wallet, Inc.](https://jobr.pro/job/34879237/cloud-engineer-rakuten-wallet-inc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rakuten Crimson House Aoyama, Japan | On Site | Dec 23 |
-| **[Fanatics](https://www.fanaticsinc.com/)** | **[Senior Cloud Engineer - NCF](https://jobr.pro/job/34881991/senior-cloud-engineer-ncf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Dec 22 |
-| **[Particle41](https://particle41.com/)** | **[Cloud Engineer (Full Stack / AWS)](https://jobr.pro/job/34847735/cloud-engineer-full-stack-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - Remote | Remote | Dec 22 |
-| **[Dayforce](https://www.dayforce.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34891983/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Philippines | On Site | Dec 22 |
-| **[Valcon](https://valcon.com/)** | **[(Senior) Principal Azure Cloud Engineer](https://jobr.pro/job/34867135/senior-principal-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, The Netherlands | On Site | Dec 22 |
-| **[Scottish Government](https://www.gov.scot/)** | **[Cloud Engineer - FinOps](https://jobr.pro/job/34815969/cloud-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Glasgow, United Kingdom | On Site | Dec 22 |
-| **[Valtech](https://www.valtech.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/34856396/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Dec 22 |
-| **[Stingray Marine Solutions AS](https://www.stingray.no/)** | **[AWS Cloud Engineer](https://jobr.pro/job/34825823/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oslo | On Site | Dec 22 |
-| **[Orion Innovation](https://www.orioninc.com/)** | **[Cloud Engineer](https://jobr.pro/job/34851022/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Edison, NJ | On Site | Dec 22 |
-| **[Peraton](https://www.peraton.com/)** | **[Cloud Engineer](https://jobr.pro/job/34857164/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St Louis, MO, United States | On Site | Dec 22 |
-| **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/34803119/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Dec 22 |
-| **[AAA Club Alliance](https://www.aaa.com/)** | **[Microsoft 365 Cloud Engineer](https://jobr.pro/job/34841677/microsoft-365-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Wilmington, DE, 19801, United States | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 42 jobs | 17% remote | 41 companies | Avg salary: 178k  
+**Current Stats:** 31 jobs | 19% remote | 30 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
