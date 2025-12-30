@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -15,6 +15,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten!](https://jobr.pro/job/35131725/cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 30 |
 | **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-1](https://jobr.pro/job/35118408/cloud-engineer-additional-devops-dcs-1?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Dec 30 |
+| **[MSD](https://www.msd.com/)** | **[Manager Cloud Engineer](https://jobr.pro/job/35142748/manager-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND - Telangana - Hyderabad (HITEC City), India | On Site | Dec 30 |
+| **[bp](https://www.bp.com/)** | **[Operational Security Management Specialist (Security Azure Cloud Engineer)](https://jobr.pro/job/35134156/operational-security-management-specialist-security-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | MY: Kuala Lumpur - Bangsar South Campus, Malaysia | On Site | Dec 30 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Lead Cloud Engineer/Manager](https://jobr.pro/job/35143477/lead-cloud-engineermanager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA MD Bethesda - NIH Campus, Bldg 31-B1B09 (MDC038), United States | On Site | Dec 30 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/35114633/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/35114627/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/35114623/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Dec 29 |
@@ -61,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 16% remote | 36 companies | Avg salary: 179k  
+**Current Stats:** 48 jobs | 15% remote | 39 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
