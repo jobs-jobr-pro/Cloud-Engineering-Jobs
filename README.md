@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/35204887/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 31 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer H/F](https://jobr.pro/job/35162045/cloud-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toulouse, Occitanie, France | On Site | Dec 30 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/35162020/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Dec 30 |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten!](https://jobr.pro/job/35131725/cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 30 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 12% remote | 32 companies | Avg salary: 169k  
+**Current Stats:** 43 jobs | 12% remote | 33 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
