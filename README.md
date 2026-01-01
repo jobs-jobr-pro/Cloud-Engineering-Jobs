@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Cloud engineer Jobs 2025
+# Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Cloud engineer opportunities in 2025**.  
+This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs) — **you choose the job, we handle the paperwork**.  
@@ -47,19 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AirAsia](https://www.airasia.com/)** | **[Cloud Engineer](https://jobr.pro/job/35019864/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 26 |
 | **[Liebherr Group](https://www.liebherr.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/34993403/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kirchdorf/Oberopfingen, DE | On Site | Dec 25 |
 | **[Checkmate](https://itsacheckmate.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/35000063/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Dec 25 |
-| **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Cloud Engineer (Datadog SME)](https://jobr.pro/job/34992052/cloud-engineer-datadog-sme?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canada | On Site | Dec 24 |
-| **[GCI](https://gci.tech)** | **[DevOps Cloud Engineer (TS/SCI with Poly Required)](https://jobr.pro/job/34991894/devops-cloud-engineer-tssci-with-poly-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tysons Corner, Virginia, United States; Chantilly, Virginia, United States; Warrenton, Virginia, United States | On Site | Dec 24 |
-| **[ClearRoute](https://clearroute.io/)** | **[Senior Quality Cloud Engineer (Full Stack Developer)](https://jobr.pro/job/35000643/senior-quality-cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | София, Bulgaria | On Site | Dec 24 |
-| **[METRO/MAKRO](https://www.metroag.de/)** | **[Cloud Engineer Microsoft M365](https://jobr.pro/job/34957999/cloud-engineer-microsoft-m365?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, Maharashtra, India | On Site | Dec 24 |
-| **[Version 1](https://www.version1.com)** | **[Cloud Engineer](https://jobr.pro/job/34958002/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, UP, India | On Site | Dec 24 |
-| **[NEXTDC](https://www.nextdc.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/34957874/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Dec 24 |
-| **[Hopae](https://www.hopae.com/)** | **[Cloud Engineer - EU Luxembourg](https://jobr.pro/job/34929659/cloud-engineer-eu-luxembourg?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | On Site | Dec 24 |
-| **[Labcorp](https://www.labcorp.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/34972222/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA - NC - Durham - 10 Moore Drive, United States | On Site | Dec 24 |
-| **[Sunlight Group](https://www.the-sunlight-group.com/)** | **[Senior Systems & Cloud Engineer](https://jobr.pro/job/34994042/senior-systems-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attica, Greece | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 43 jobs | 12% remote | 33 companies | Avg salary: 169k  
+**Current Stats:** 34 jobs | 15% remote | 24 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
