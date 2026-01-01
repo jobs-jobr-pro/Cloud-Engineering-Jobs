@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Crane Worldwide Logistics](https://www.craneww.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/35220200/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, Texas, United States | On Site | Dec 31 |
+| **[SMX](https://www.smxtech.com/)** | **[Junior Cloud Engineer (4818)](https://jobr.pro/job/35216417/junior-cloud-engineer-4818?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Dec 31 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/35204887/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 31 |
+| **[NTT DATA](https://nttdata.com)** | **[AWS Public Cloud Engineer - Must have both AWS/Azure](https://jobr.pro/job/35223200/aws-public-cloud-engineer-must-have-both-awsazure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, US | On Site | Dec 31 |
+| **[NTT DATA](https://nttdata.com)** | **[Lead Public Cloud Engineer - GCP (Google Cloud Platform)](https://jobr.pro/job/35223186/lead-public-cloud-engineer-gcp-google-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, US | On Site | Dec 31 |
+| **[NTT DATA](https://nttdata.com)** | **[Multi-Cloud Engineer - SQL Database (DBA) Focused](https://jobr.pro/job/35223179/multi-cloud-engineer-sql-database-dba-focused?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Plano, TX, US | On Site | Dec 31 |
+| **[HII](https://hii.com/)** | **[Cloud Engineer (Cloud Engineer 2) - 26507](https://jobr.pro/job/35217904/cloud-engineer-cloud-engineer-2-26507?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Columbia, MD, Maryland, United States | On Site | Dec 31 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer H/F](https://jobr.pro/job/35162045/cloud-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toulouse, Occitanie, France | On Site | Dec 30 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/35162020/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Dec 30 |
 | **[Auralis Partners GmbH](https://auralispartners.com/)** | **[Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten!](https://jobr.pro/job/35131725/cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Dec 30 |
@@ -50,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 15% remote | 24 companies | Avg salary: 165k  
+**Current Stats:** 40 jobs | 13% remote | 28 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
