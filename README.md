@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Engineer](https://jobr.pro/job/35240637/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ILTELHQ Petach Tikva HQ (ILTELHQ), Israel | On Site | Jan 01 |
 | **[Crane Worldwide Logistics](https://www.craneww.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/35220200/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, Texas, United States | On Site | Dec 31 |
 | **[SMX](https://www.smxtech.com/)** | **[Junior Cloud Engineer (4818)](https://jobr.pro/job/35216417/junior-cloud-engineer-4818?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Dec 31 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/35204887/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 31 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 13% remote | 28 companies | Avg salary: 158k  
+**Current Stats:** 41 jobs | 12% remote | 29 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
