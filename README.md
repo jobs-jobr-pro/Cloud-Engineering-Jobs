@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 02, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Engineer](https://jobr.pro/job/35240637/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ILTELHQ Petach Tikva HQ (ILTELHQ), Israel | On Site | Jan 01 |
+| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Public Cloud Network Application Delivery - Vice President](https://jobr.pro/job/35249990/cloud-engineer-public-cloud-network-application-delivery-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Jan 01 |
 | **[Crane Worldwide Logistics](https://www.craneww.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/35220200/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, Texas, United States | On Site | Dec 31 |
 | **[SMX](https://www.smxtech.com/)** | **[Junior Cloud Engineer (4818)](https://jobr.pro/job/35216417/junior-cloud-engineer-4818?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Huntsville, AL | On Site | Dec 31 |
 | **[ECS](https://ecstech.com/)** | **[Cloud Engineer](https://jobr.pro/job/35204887/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 31 |
@@ -52,12 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sprinklr](https://www.sprinklr.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35033064/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Dec 26 |
 | **[Gunvor Group](https://gunvorgroup.com/)** | **[Cloud Engineer](https://jobr.pro/job/35029269/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, United States | On Site | Dec 26 |
 | **[AirAsia](https://www.airasia.com/)** | **[Cloud Engineer](https://jobr.pro/job/35019864/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 26 |
-| **[Liebherr Group](https://www.liebherr.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/34993403/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kirchdorf/Oberopfingen, DE | On Site | Dec 25 |
-| **[Checkmate](https://itsacheckmate.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/35000063/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Dec 25 |
 
 ---
 
-**Current Stats:** 41 jobs | 12% remote | 29 companies | Avg salary: 158k  
+**Current Stats:** 40 jobs | 10% remote | 28 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
