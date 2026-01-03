@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com/)** | **[Cloud Engineer](https://jobr.pro/job/35259055/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cyberjaya, Selangor, Malaysia | On Site | Jan 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Cloud Engineer](https://jobr.pro/job/35256838/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore-CapitaSky | On Site | Jan 02 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Engineer](https://jobr.pro/job/35240637/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ILTELHQ Petach Tikva HQ (ILTELHQ), Israel | On Site | Jan 01 |
 | **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Public Cloud Network Application Delivery - Vice President](https://jobr.pro/job/35249990/cloud-engineer-public-cloud-network-application-delivery-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Jan 01 |
@@ -50,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 9% remote | 23 companies | Avg salary: 154k  
+**Current Stats:** 35 jobs | 9% remote | 24 companies | Avg salary: 154k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
