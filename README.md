@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -53,11 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TekSynap](https://www.teksynap.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/35124922/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, United States | On Site | Dec 29 |
 | **[TekSynap](https://www.teksynap.com/)** | **[Cloud Engineer](https://jobr.pro/job/35124918/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, United States | On Site | Dec 29 |
 | **[Eversource Energy](https://www.eversource.com/)** | **[Lead Cloud Engineer (Azure) Hybrid Schedule](https://jobr.pro/job/35099115/lead-cloud-engineer-azure-hybrid-schedule?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, CT, United States | On Site | Dec 29 |
-| **[1NCE](https://1nce.com/en/jobs/)** | **[Cloud Engineer AWS (Middle/Senior) - (all)](https://jobr.pro/job/35068754/cloud-engineer-aws-middlesenior-all?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Europe | Remote | Dec 28 |
 
 ---
 
-**Current Stats:** 41 jobs | 5% remote | 28 companies | Avg salary: 141k  
+**Current Stats:** 40 jobs | 3% remote | 27 companies | Avg salary: 141k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
