@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -46,17 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Lead Cloud Engineer/Manager](https://jobr.pro/job/35143477/lead-cloud-engineermanager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA MD Bethesda - NIH Campus, Bldg 31-B1B09 (MDC038), United States | On Site | Dec 30 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35149079/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | UK - LONDON 25 ROPEMAKER STREET 35 HRS, United Kingdom | On Site | Dec 30 |
 | **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-1](https://jobr.pro/job/35118408/cloud-engineer-additional-devops-dcs-1?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Dec 30 |
-| **[ADP](https://www.adp.com/)** | **[Senior Cloud Engineer - SBS Team](https://jobr.pro/job/35091990/senior-cloud-engineer-sbs-team?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Dec 29 |
-| **[Kaseya](https://www.kaseya.com/)** | **[Cloud Engineer](https://jobr.pro/job/35103683/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Miami, FL | On Site | Dec 29 |
-| **[Orange Business](https://www.orange-business.com/)** | **[Azure Senior Cloud Engineer/ Architect](https://jobr.pro/job/35131584/azure-senior-cloud-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oslo, Norway | On Site | Dec 29 |
-| **[Ekco](https://www.ek.co)** | **[Cloud Engineer](https://jobr.pro/job/35131566/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Veenendaal, Netherlands | On Site | Dec 29 |
-| **[TekSynap](https://www.teksynap.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/35124922/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, United States | On Site | Dec 29 |
-| **[TekSynap](https://www.teksynap.com/)** | **[Cloud Engineer](https://jobr.pro/job/35124918/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC, United States | On Site | Dec 29 |
-| **[Eversource Energy](https://www.eversource.com/)** | **[Lead Cloud Engineer (Azure) Hybrid Schedule](https://jobr.pro/job/35099115/lead-cloud-engineer-azure-hybrid-schedule?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, CT, United States | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 40 jobs | 3% remote | 27 companies | Avg salary: 141k  
+**Current Stats:** 33 jobs | 3% remote | 21 companies | Avg salary: 138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
