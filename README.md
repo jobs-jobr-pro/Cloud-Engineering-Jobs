@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 08, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 09, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -43,12 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bluevine](https://www.bluevine.com/)** | **[Senior Security Engineer (Cloud Engineer)](https://jobr.pro/job/35270637/senior-security-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Jan 02 |
 | **[Experian](https://www.experian.com/)** | **[Cloud Engineer](https://jobr.pro/job/35259055/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cyberjaya, Selangor, Malaysia | On Site | Jan 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Cloud Engineer](https://jobr.pro/job/35256838/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore-CapitaSky | On Site | Jan 02 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Engineer](https://jobr.pro/job/35240637/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ILTELHQ Petach Tikva HQ (ILTELHQ), Israel | On Site | Jan 01 |
-| **[Citi](https://www.citigroup.com/)** | **[Cloud Engineer - Public Cloud Network Application Delivery - Vice President](https://jobr.pro/job/35249990/cloud-engineer-public-cloud-network-application-delivery-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Jan 01 |
 
 ---
 
-**Current Stats:** 32 jobs | 6% remote | 22 companies | Avg salary: 170k  
+**Current Stats:** 30 jobs | 7% remote | 20 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
