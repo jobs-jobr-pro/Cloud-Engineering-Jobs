@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 10, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 11, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -37,14 +37,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NTT DATA](https://nttdata.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/35323057/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, KA, IN | On Site | Jan 05 |
 | **[Chevron](https://www.chevron.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/35358686/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Jan 05 |
 | **[Checkmate](https://itsacheckmate.com)** | **[Lead Cloud Engineer](https://jobr.pro/job/35333679/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Jan 05 |
-| **[Bayer](https://www.bayer.com/)** | **[Sr Cloud Engineer](https://jobr.pro/job/35281173/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Residence Based, Residence Based, US | On Site | Jan 03 |
-| **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/35273604/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 03 |
-| **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/35273598/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 03 |
-| **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/35273593/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 03 |
 
 ---
 
-**Current Stats:** 28 jobs | 11% remote | 23 companies | Avg salary: 187k  
+**Current Stats:** 24 jobs | 13% remote | 21 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
