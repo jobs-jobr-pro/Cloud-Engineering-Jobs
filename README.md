@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[SAS](https://www.sas.com)** | **[Sr Associate Cloud Engineer](https://jobr.pro/job/35824075/sr-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Jan 12 |
+| **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-2](https://jobr.pro/job/35833044/cloud-engineer-additional-devops-dcs-2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Jan 12 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer SRE](https://jobr.pro/job/35842437/cloud-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Jan 12 |
+| **[ZainTECH](https://zaintech.com/)** | **[Senior Cloud Engineer - AWS](https://jobr.pro/job/35827251/senior-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jan 11 |
 | **[NV5](https://www.nv5.com)** | **[Cloud Engineer](https://jobr.pro/job/35824663/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, United States | Remote | Jan 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Senior AI/Cloud Engineer](https://jobr.pro/job/35794179/senior-aicloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ZAPOPAN, JALISCO, Mexico | On Site | Jan 09 |
 | **[Hearst](https://www.hearst.com/)** | **[Senior Azure Cloud Engineer (.NET + AI Tools)](https://jobr.pro/job/35783613/senior-azure-cloud-engineer-net-ai-tools?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Durham, NC, United States | On Site | Jan 09 |
@@ -45,7 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 14% remote | 26 companies | Avg salary: 177k  
+**Current Stats:** 32 jobs | 13% remote | 29 companies | Avg salary: 177k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
