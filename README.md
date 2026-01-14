@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 13, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -32,13 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Afni, Inc.](https://afnicareers.com/)** | **[Cloud Engineer](https://jobr.pro/job/35634105/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bloomington, IL, United States | On Site | Jan 08 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/35657475/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 08 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Cloud Engineer](https://jobr.pro/job/35652845/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cambridge, UK | On Site | Jan 08 |
-| **[Oxford Nanopore](https://nanoporetech.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/35429271/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | OXFORD, OXFORDSHIRE, United Kingdom | On Site | Jan 06 |
-| **[Chevron](https://www.chevron.com/)** | **[AVD Cloud Engineer](https://jobr.pro/job/35456616/avd-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | RMZ Ecoworld 32, India | On Site | Jan 06 |
-| **[Skipton Building Society](https://www.skipton.co.uk/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35412337/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hybrid (GB), United Kingdom | Remote | Jan 06 |
 
 ---
 
-**Current Stats:** 22 jobs | 18% remote | 22 companies | Avg salary: 169k  
+**Current Stats:** 19 jobs | 16% remote | 19 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
