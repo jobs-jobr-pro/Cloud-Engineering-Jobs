@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 15, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 15, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,11 +14,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Google](https://www.google.com/)** | **[Principal Workspace Strategic Cloud Engineer, Public Sector](https://jobr.pro/job/36013870/principal-workspace-strategic-cloud-engineer-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Jan 14 |
+| **[ELCA Group](https://www.elca.ch/)** | **[Senior Cloud Engineer DataAI](https://jobr.pro/job/36025819/senior-cloud-engineer-dataai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Zurich, Switzerland | On Site | Jan 14 |
 | **[Kroll](https://www.kroll.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/36013178/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Manila, Philippines | On Site | Jan 14 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/35983255/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Jan 14 |
 | **[BT Group](https://www.bt.com/)** | **[OpenStack Cloud Engineer](https://jobr.pro/job/36000224/openstack-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 1 Braham Street, London, United Kingdom | On Site | Jan 14 |
 | **[Cascadia Healthcare](https://www.cascadiahc.com/)** | **[Cloud Engineer](https://jobr.pro/job/36010216/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cascadia Services LLC | On Site | Jan 14 |
 | **[TransUnion](https://www.transunion.com/)** | **[DevOps-Cloud Engineer](https://jobr.pro/job/36009130/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Jan 14 |
+| **[Barclays](https://home.barclays/)** | **[AWS Cloud Engineer](https://jobr.pro/job/36051647/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Jan 14 |
+| **[Availity](https://www.availity.com/)** | **[Cloud Engineer IV](https://jobr.pro/job/36058507/cloud-engineer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States, United States | Remote | Jan 14 |
+| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/36057452/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Two Destiny Way, Westlake TX, United States | On Site | Jan 14 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Senior Backend & Cloud Engineer (Java / Spring Boot)](https://jobr.pro/job/35974560/senior-backend-cloud-engineer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City | Remote | Jan 13 |
 | **[SMX](https://www.smxtech.com/)** | **[Cleared Onsite Mid-Level Cloud Engineer (4954)](https://jobr.pro/job/35972244/cleared-onsite-mid-level-cloud-engineer-4954?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 13 |
 | **[TTEC Digital](https://ttecdigital.com)** | **[Principal Consultant, Cloud Engineer](https://jobr.pro/job/35971986/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | Remote | Jan 13 |
@@ -48,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 16% remote | 31 companies | Avg salary: 177k  
+**Current Stats:** 36 jobs | 17% remote | 35 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
