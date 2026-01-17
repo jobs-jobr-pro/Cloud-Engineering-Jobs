@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 16, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 17, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -41,19 +41,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-2](https://jobr.pro/job/35833044/cloud-engineer-additional-devops-dcs-2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Jan 12 |
 | **[ZainTECH](https://zaintech.com/)** | **[Senior Cloud Engineer - AWS](https://jobr.pro/job/35827251/senior-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jan 11 |
 | **[NV5](https://www.nv5.com)** | **[Cloud Engineer](https://jobr.pro/job/35824663/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, United States | Remote | Jan 11 |
-| **[Oracle](https://www.oracle.com/)** | **[Senior AI/Cloud Engineer](https://jobr.pro/job/35794179/senior-aicloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ZAPOPAN, JALISCO, Mexico | On Site | Jan 09 |
-| **[Hearst](https://www.hearst.com/)** | **[Senior Azure Cloud Engineer (.NET + AI Tools)](https://jobr.pro/job/35783613/senior-azure-cloud-engineer-net-ai-tools?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Durham, NC, United States | On Site | Jan 09 |
-| **[Equus](https://equusworks.com)** | **[Cloud Engineer](https://jobr.pro/job/35743123/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Louisville, KY, United States | On Site | Jan 09 |
-| **[Rawhide Youth Services](https://rawhide.org/)** | **[Cloud Engineer](https://jobr.pro/job/35706902/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New London, WI, USA | On Site | Jan 09 |
-| **[ManTech](https://www.mantech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/35705841/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-Remote Work | Remote | Jan 09 |
-| **[Guardant Health](https://guardanthealth.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35702823/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, TS, India | On Site | Jan 09 |
-| **[CARET](https://getcaret.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35684665/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Ontario, CAN | On Site | Jan 09 |
-| **[KPMG India](https://kpmg.com/)** | **[Assistant Manager-Azure Cloud Engineer](https://jobr.pro/job/35709311/assistant-manager-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 09 |
-| **[Elevance Health](https://www.elevancehealth.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35709629/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | GA-ATLANTA, 740 W PEACHTREE ST NW, United States | On Site | Jan 09 |
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 35 companies | Avg salary: 165k  
+**Current Stats:** 28 jobs | 18% remote | 26 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
