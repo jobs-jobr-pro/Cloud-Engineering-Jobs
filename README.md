@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 18, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -52,12 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[IT Infrastructure Platform/Cloud Engineer](https://jobr.pro/job/35854923/it-infrastructure-platformcloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Coimbra, Lisboa, Castelo Branco, Coimbra, Lisboa, Castelo Branco | On Site | Jan 12 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer SRE](https://jobr.pro/job/35842437/cloud-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Jan 12 |
 | **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-2](https://jobr.pro/job/35833044/cloud-engineer-additional-devops-dcs-2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Jan 12 |
-| **[ZainTECH](https://zaintech.com/)** | **[Senior Cloud Engineer - AWS](https://jobr.pro/job/35827251/senior-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jan 11 |
-| **[NV5](https://www.nv5.com)** | **[Cloud Engineer](https://jobr.pro/job/35824663/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, United States | Remote | Jan 11 |
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 33 companies | Avg salary: 166k  
+**Current Stats:** 39 jobs | 18% remote | 31 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
