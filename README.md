@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 20, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 20, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Cloud Engineer, Infrastructure, Professional Services, Google Cloud (English, Portuguese or Spanish)](https://jobr.pro/job/36374360/cloud-engineer-infrastructure-professional-services-google-cloud-english-portuguese-or-spanish?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, State of São Paulo, Brazil | On Site | Jan 20 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Cloud Engineer (Tenant)](https://jobr.pro/job/36352058/cloud-engineer-tenant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tallinn, 37, EE, 10412 | On Site | Jan 20 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Cloud Engineer/ SRE / DevOps Engineer](https://jobr.pro/job/36368630/cloud-engineer-sre-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Jan 20 |
 | **[Visa](https://visa.com)** | **[Senior Software Cloud Engineer- AWS- Min 3-5 yrs of exp](https://jobr.pro/job/36339924/senior-software-cloud-engineer-aws-min-3-5-yrs-of-exp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Jan 19 |
 | **[Visa](https://visa.com)** | **[Software Cloud Engineer-AWS- Min 1 yr- 1.5 yrs of experience](https://jobr.pro/job/36339925/software-cloud-engineer-aws-min-1-yr-15-yrs-of-experience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Jan 19 |
 | **[Virtusa](https://www.virtusa.com/)** | **[AI Cloud Engineer](https://jobr.pro/job/36316933/ai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN-AP-Hyderabad | On Site | Jan 19 |
+| **[Eurofins](https://www.eurofins.com)** | **[IT Infrastructure Cloud Engineer](https://jobr.pro/job/36358655/it-infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Jan 19 |
 | **[Bluevine](https://www.bluevine.com/)** | **[Senior Security Engineer (Cloud Engineer)](https://jobr.pro/job/36345817/senior-security-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Jan 19 |
 | **[ShyftLabs](https://shyftlabs.io)** | **[Cloud Engineer](https://jobr.pro/job/36341675/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, Uttar Pradesh | On Site | Jan 19 |
 | **[Eurofins](https://www.eurofins.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/36316532/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, India | On Site | Jan 19 |
@@ -62,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 13% remote | 38 companies | Avg salary: 159k  
+**Current Stats:** 49 jobs | 12% remote | 39 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
