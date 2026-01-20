@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 20, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -50,15 +50,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inetum](https://www.inetum.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/35925454/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Belgium, mechelen, Belgium | On Site | Jan 13 |
 | **[Beghou Consulting](https://www.beghouconsulting.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35974876/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana | On Site | Jan 13 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Morpheus Private Cloud Engineer](https://jobr.pro/job/35967586/senior-morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 13 |
-| **[SAS](https://www.sas.com)** | **[Sr Associate Cloud Engineer](https://jobr.pro/job/35824075/sr-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Jan 12 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer SRE](https://jobr.pro/job/35842437/cloud-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Jan 12 |
-| **[Centific](https://centific.com/)** | **[Cloud Engineer (Additional) - DevOps - DCS-2](https://jobr.pro/job/35833044/cloud-engineer-additional-devops-dcs-2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India Office - Hyderabad | On Site | Jan 12 |
-| **[Solventum](https://www.solventum.com/)** | **[Principal Cloud Engineer – AWS Infrastructure & Solutions](https://jobr.pro/job/35860859/principal-cloud-engineer-aws-infrastructure-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Minnesota, United States | Remote | Jan 12 |
-| **[IRIUM Portugal](https://www.irium.pt/)** | **[IT Infrastructure Platform/Cloud Engineer](https://jobr.pro/job/35854923/it-infrastructure-platformcloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Coimbra, Lisboa, Castelo Branco, Coimbra, Lisboa, Castelo Branco | On Site | Jan 12 |
 
 ---
 
-**Current Stats:** 42 jobs | 17% remote | 34 companies | Avg salary: 166k  
+**Current Stats:** 37 jobs | 16% remote | 30 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
