@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 20, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 20, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Cloud Engineer (Tenant)](https://jobr.pro/job/36352058/cloud-engineer-tenant?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tallinn, 37, EE, 10412 | On Site | Jan 20 |
+| **[Visa](https://visa.com)** | **[Senior Software Cloud Engineer- AWS- Min 3-5 yrs of exp](https://jobr.pro/job/36339924/senior-software-cloud-engineer-aws-min-3-5-yrs-of-exp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Jan 19 |
+| **[Visa](https://visa.com)** | **[Software Cloud Engineer-AWS- Min 1 yr- 1.5 yrs of experience](https://jobr.pro/job/36339925/software-cloud-engineer-aws-min-1-yr-15-yrs-of-experience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Jan 19 |
+| **[Virtusa](https://www.virtusa.com/)** | **[AI Cloud Engineer](https://jobr.pro/job/36316933/ai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IN-AP-Hyderabad | On Site | Jan 19 |
+| **[Bluevine](https://www.bluevine.com/)** | **[Senior Security Engineer (Cloud Engineer)](https://jobr.pro/job/36345817/senior-security-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | Jan 19 |
+| **[ShyftLabs](https://shyftlabs.io)** | **[Cloud Engineer](https://jobr.pro/job/36341675/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, Uttar Pradesh | On Site | Jan 19 |
+| **[Eurofins](https://www.eurofins.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/36316532/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, TN, India | On Site | Jan 19 |
+| **[Theodo](https://www.theodo.co.uk/)** | **[Cloud Engineer - London - Theodo UK](https://jobr.pro/job/36344561/cloud-engineer-london-theodo-uk?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | On Site | Jan 19 |
+| **[Acuity](https://www.acuityinc.com/)** | **[Senior Backend Cloud Engineer](https://jobr.pro/job/36344436/senior-backend-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cork City, IE, T23 YY09 | On Site | Jan 19 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Java Cloud Engineer (Kubernetes)](https://jobr.pro/job/36306553/java-cloud-engineer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Strasbourg, Grand Est, France | On Site | Jan 18 |
 | **[Applied Cloud Computing](https://www.appliedcloudcomputing.com)** | **[L3 Cloud Engineer - Applied Cloud Computing](https://jobr.pro/job/36303467/l3-cloud-engineer-applied-cloud-computing?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mumbai, MH, India | On Site | Jan 18 |
 | **[MAG Aerospace](https://www.magaero.com)** | **[Cloud Engineer](https://jobr.pro/job/36300988/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fayetteville, NC, United States | On Site | Jan 18 |
@@ -53,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 30 companies | Avg salary: 159k  
+**Current Stats:** 46 jobs | 13% remote | 38 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
