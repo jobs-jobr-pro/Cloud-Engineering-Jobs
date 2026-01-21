@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 21, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -61,8 +61,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Senior Cloud Engineer](https://jobr.pro/job/35983255/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Richmond, VIC, Australia | On Site | Jan 14 |
 | **[BT Group](https://www.bt.com/)** | **[OpenStack Cloud Engineer](https://jobr.pro/job/36000224/openstack-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 1 Braham Street, London, United Kingdom | On Site | Jan 14 |
 | **[Cascadia Healthcare](https://www.cascadiahc.com/)** | **[Cloud Engineer](https://jobr.pro/job/36010216/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cascadia Services LLC | On Site | Jan 14 |
+| **[TransUnion](https://www.transunion.com/)** | **[DevOps-Cloud Engineer](https://jobr.pro/job/36009130/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Jan 14 |
 | **[Availity](https://www.availity.com/)** | **[Cloud Engineer IV](https://jobr.pro/job/36058507/cloud-engineer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States, United States | Remote | Jan 14 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/36057452/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Two Destiny Way, Westlake TX, United States | On Site | Jan 14 |
 
 ---
 
