@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 20, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -55,17 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/36057452/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Two Destiny Way, Westlake TX, United States | On Site | Jan 14 |
 | **[TransUnion](https://www.transunion.com/)** | **[DevOps-Cloud Engineer](https://jobr.pro/job/36009130/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, India | On Site | Jan 14 |
 | **[Barclays](https://home.barclays/)** | **[AWS Cloud Engineer](https://jobr.pro/job/36051647/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Jan 14 |
-| **[Oowlish Technology](https://www.oowlish.com/)** | **[Senior Backend & Cloud Engineer (Java / Spring Boot)](https://jobr.pro/job/35974560/senior-backend-cloud-engineer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City | Remote | Jan 13 |
-| **[SMX](https://www.smxtech.com/)** | **[Cleared Onsite Mid-Level Cloud Engineer (4954)](https://jobr.pro/job/35972244/cleared-onsite-mid-level-cloud-engineer-4954?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 13 |
-| **[TTEC Digital](https://ttecdigital.com)** | **[Principal Consultant, Cloud Engineer](https://jobr.pro/job/35971986/principal-consultant-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | Remote | Jan 13 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/35947930/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, MA, United States | On Site | Jan 13 |
-| **[Inetum](https://www.inetum.com)** | **[Azure Cloud Engineer](https://jobr.pro/job/35925454/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Belgium, mechelen, Belgium | On Site | Jan 13 |
-| **[Beghou Consulting](https://www.beghouconsulting.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/35974876/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana | On Site | Jan 13 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Morpheus Private Cloud Engineer](https://jobr.pro/job/35967586/senior-morpheus-private-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 13 |
 
 ---
 
-**Current Stats:** 49 jobs | 12% remote | 39 companies | Avg salary: 159k  
+**Current Stats:** 42 jobs | 10% remote | 32 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
