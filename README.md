@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 22, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 23, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -62,11 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axi](https://www.axi.com/)** | **[Cloud Engineer](https://jobr.pro/job/36230573/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Metro Manila, Philippines (Hybrid) | Remote | Jan 16 |
 | **[Kids&Us](https://www.kidsandus.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/36264533/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Manresa, Spain | On Site | Jan 16 |
 | **[Google](https://www.google.com/)** | **[Workspace Strategic Cloud Engineer, Public Sector](https://jobr.pro/job/36184451/workspace-strategic-cloud-engineer-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, VA, USA; Austin, TX, USA | On Site | Jan 16 |
-| **[BHG Financial](https://bhgfinancial.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/36146042/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Davie, Florida | On Site | Jan 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 35 companies | Avg salary: 140k  
+**Current Stats:** 49 jobs | 18% remote | 34 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
