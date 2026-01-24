@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 23, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 24, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -55,18 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Uni Systems](https://www.unisystems.com)** | **[Java Cloud Engineer (Kubernetes)](https://jobr.pro/job/36306553/java-cloud-engineer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Strasbourg, Grand Est, France | On Site | Jan 18 |
 | **[Applied Cloud Computing](https://www.appliedcloudcomputing.com)** | **[L3 Cloud Engineer - Applied Cloud Computing](https://jobr.pro/job/36303467/l3-cloud-engineer-applied-cloud-computing?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mumbai, MH, India | On Site | Jan 18 |
 | **[MAG Aerospace](https://www.magaero.com)** | **[Cloud Engineer](https://jobr.pro/job/36300988/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fayetteville, NC, United States | On Site | Jan 18 |
-| **[Splitero](https://www.splitero.com/)** | **[Senior Marketing Cloud Engineer](https://jobr.pro/job/36236499/senior-marketing-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/36233330/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/36233324/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/36233320/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[Senior AWS Cloud Engineer](https://jobr.pro/job/36233329/senior-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer](https://jobr.pro/job/36233315/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[AWS Lead Cloud Engineer](https://jobr.pro/job/36233312/aws-lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
-| **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/36233311/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 35 companies | Avg salary: 169k  
+**Current Stats:** 42 jobs | 14% remote | 33 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
