@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 27, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -60,13 +60,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Southern Poverty Law Center](https://www.splcenter.org/)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobr.pro/job/36412961/intern-cloud-engineer-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote; Montgomery, AL; New Orleans, LA; Jackson, MS; Miami, FL; Atlanta, GA; Washington, D.C. | Remote | Jan 21 |
 | **[EY](https://www.ey.com)** | **[GDS Consulting_Digital Engineering_Staff Cloud Engineer](https://jobr.pro/job/36444027/gds-consultingdigital-engineeringstaff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taguig, PH, 1634 | On Site | Jan 21 |
 | **[EY](https://www.ey.com)** | **[GDS Consulting_Digital Engineering_Senior Cloud Engineer](https://jobr.pro/job/36444023/gds-consultingdigital-engineeringsenior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taguig, PH, 1634 | On Site | Jan 21 |
-| **[SoSafe](https://sosafe-awareness.com/)** | **[AWS Senior Cloud Engineer - Remote](https://jobr.pro/job/36422460/aws-senior-cloud-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon | Remote | Jan 20 |
-| **[SoSafe](https://sosafe-awareness.com/)** | **[Senior AWS Cloud Engineer (m/f/d)](https://jobr.pro/job/36422459/senior-aws-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon | On Site | Jan 20 |
-| **[SoSafe](https://sosafe-awareness.com/)** | **[AWS Cloud Engineer (m/f/d)](https://jobr.pro/job/36422457/aws-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon | On Site | Jan 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 37 companies | Avg salary: 149k  
+**Current Stats:** 47 jobs | 15% remote | 36 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
