@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Singtel](https://www.singtel.com/)** | **[Cloud Engineer (Senior)](https://jobr.pro/job/37057889/cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur, Malaysia | On Site | Jan 30 |
+| **[Trace3](https://www.trace3.com/)** | **[Cloud Engineer III](https://jobr.pro/job/37038767/cloud-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States - Colorado | Remote | Jan 29 |
+| **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Cloud Engineer (Mid)](https://jobr.pro/job/37041852/cloud-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Louis, MO | On Site | Jan 29 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Cloud Engineer](https://jobr.pro/job/37014909/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Capital City of Warsaw, PL | On Site | Jan 29 |
+| **[VML](https://www.vml.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/37049052/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, England, United Kingdom | On Site | Jan 29 |
+| **[SoSafe](https://sosafe-awareness.com/)** | **[Senior AWS Cloud Engineer (m/f/d)](https://jobr.pro/job/37047958/senior-aws-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisbon | On Site | Jan 29 |
 | **[Rackspace](https://www.rackspace.com/)** | **[Windows Cloud Engineer II - IN](https://jobr.pro/job/36966921/windows-cloud-engineer-ii-in?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Remote | Remote | Jan 29 |
 | **[Encora](https://www.encora.com/)** | **[Cloud Engineer](https://jobr.pro/job/36960119/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | Jan 29 |
 | **[Baader Bank AG](https://www.baaderbank.de/)** | **[Unix / AWS Cloud Engineer (m/w/d)](https://jobr.pro/job/36993915/unix-aws-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Unterschleißheim, IT-Operations | On Site | Jan 29 |
@@ -58,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genpact](https://www.genpact.com/)** | **[Senior Principal Consultant - Senior Cloud Engineer](https://jobr.pro/job/36641591/senior-principal-consultant-senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India-Noida | On Site | Jan 23 |
 | **[Google](https://www.google.com/)** | **[Cloud Engineer I, Application Modernization, Professional Services](https://jobr.pro/job/36630487/cloud-engineer-i-application-modernization-professional-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA, USA; Austin, TX, USA | On Site | Jan 23 |
 | **[Apps Associates GmbH](https://www.appsassociates.com/)** | **[Cloud Engineer Kubernetes](https://jobr.pro/job/36628793/cloud-engineer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurgaon, Haryana, India | On Site | Jan 23 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/36636617/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Jan 23 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[SRE Cloud Engineer](https://jobr.pro/job/36628574/sre-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Jan 23 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Operations - Cloud Engineer with DBA skill](https://jobr.pro/job/36645372/cloud-operations-cloud-engineer-with-dba-skill?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Jan 23 |
 
 ---
 
-**Current Stats:** 48 jobs | 13% remote | 38 companies | Avg salary: 161k  
+**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
