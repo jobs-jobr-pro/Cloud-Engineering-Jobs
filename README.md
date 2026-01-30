@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -61,12 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Cloud Engineer AWS H/F](https://jobr.pro/job/36636617/cloud-engineer-aws-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nantes, Pays de la Loire, France | On Site | Jan 23 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[SRE Cloud Engineer](https://jobr.pro/job/36628574/sre-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Jan 23 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Cloud Operations - Cloud Engineer with DBA skill](https://jobr.pro/job/36645372/cloud-operations-cloud-engineer-with-dba-skill?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Jan 23 |
-| **[Softgic](https://softgic.co/)** | **[Azure Cloud Engineer](https://jobr.pro/job/36558243/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jan 22 |
-| **[ManTech](https://www.mantech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/36556838/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-Remote Work | Remote | Jan 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 160k  
+**Current Stats:** 48 jobs | 13% remote | 38 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
