@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ManTech](https://www.mantech.com/)** | **[Cloud Engineer](https://jobr.pro/job/37167069/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA-Remote Work | Remote | Jan 31 |
 | **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/37126225/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 30 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/37124774/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Orlando, Florida, United States | On Site | Jan 30 |
 | **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/37126219/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 30 |
@@ -23,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LightFeather](https://lightfeather.io/)** | **[AWS Cloud Engineer](https://jobr.pro/job/37126205/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jan 30 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/37134352/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, VA | On Site | Jan 30 |
 | **[Milliman](https://careers.milliman.com)** | **[Cloud Engineer III - IntelliScript (Remote)](https://jobr.pro/job/37143458/cloud-engineer-iii-intelliscript-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brookfield, Wisconsin, United States | Remote | Jan 30 |
+| **[Oracle](https://www.oracle.com/)** | **[Principal AI/Cloud Engineer](https://jobr.pro/job/37165701/principal-aicloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hungary | On Site | Jan 30 |
 | **[PetIQ](https://petiq.com/)** | **[Sr. Cloud Engineer](https://jobr.pro/job/37101467/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oak Brook, IL, United States | On Site | Jan 30 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud engineer](https://jobr.pro/job/37120166/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lille, Hauts-de-France, France | On Site | Jan 30 |
 | **[Bristlecone](https://www.bristlecone.com/)** | **[Sr Cloud Engineer, ESS Ascend Pla4orm](https://jobr.pro/job/37081079/sr-cloud-engineer-ess-ascend-pla4orm?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Singtel](https://www.singtel.com/)** | **[Lead/ Senior Cloud Engineer](https://jobr.pro/job/36798540/lead-senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur, Malaysia | On Site | Jan 27 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Cloud Engineer AIOps](https://jobr.pro/job/36844386/cloud-engineer-aiops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Business Bay, India | On Site | Jan 27 |
 | **[Leidos](https://www.leidos.com/)** | **[AWS Cloud Engineer Sr](https://jobr.pro/job/36826666/aws-cloud-engineer-sr?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 6314 Remote/Teleworker US, United States | Remote | Jan 27 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Cloud Engineer (Nights) (AHT)](https://jobr.pro/job/36771256/cloud-engineer-nights-aht?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | OHWP10GC, United States | On Site | Jan 26 |
-| **[IRIUM Portugal](https://www.irium.pt/)** | **[IT Platform/Cloud Engineer](https://jobr.pro/job/36772923/it-platformcloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lisboa, Castelo Branco, Porto, Lisboa, Castelo Branco, Porto | On Site | Jan 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 16% remote | 38 companies | Avg salary: 173k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
