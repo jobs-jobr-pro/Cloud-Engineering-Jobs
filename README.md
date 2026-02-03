@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -18,12 +18,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Devoteam Cyber Trust \| Cybersecurity Cloud Engineer \| Retail & E-commerce Sector](https://jobr.pro/job/37215303/devoteam-cyber-trust-cybersecurity-cloud-engineer-retail-e-commerce-sector?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Porto, Porto, Portugal | On Site | Feb 02 |
 | **[Sika AG](https://www.sika.com)** | **[Cloud Engineer Intern](https://jobr.pro/job/37215312/cloud-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Zürich, ZH, Switzerland | On Site | Feb 02 |
 | **[Milliman](https://careers.milliman.com)** | **[Infrastructure & Cloud Engineer](https://jobr.pro/job/37205040/infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurgaon, India | On Site | Feb 02 |
-| **[Mohawk Industries](https://www.mohawkind.com)** | **[Cloud Engineer](https://jobr.pro/job/37196159/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalton, Georgia, United States, 30721 | On Site | Feb 02 |
-| **[SS&C Technologies](https://www.ssctech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/37220105/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Thailand | On Site | Feb 02 |
-| **[Sanoma Learning](https://sanomalearning.com/)** | **[Cloud Engineer](https://jobr.pro/job/37224800/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bergen, Norway | On Site | Feb 02 |
 | **[Manulife](https://www.manulife.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/37235546/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CAN, Ontario, Waterloo, 500 King Street North, Canada | On Site | Feb 02 |
+| **[SS&C Technologies](https://www.ssctech.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/37220105/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Thailand | On Site | Feb 02 |
+| **[DXC Technology](https://dxc.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/37242334/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | ESM02 - DXC Madrid Las Rozas (ESM02), Spain | On Site | Feb 02 |
+| **[Mohawk Industries](https://www.mohawkind.com)** | **[Cloud Engineer](https://jobr.pro/job/37196159/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dalton, Georgia, United States, 30721 | On Site | Feb 02 |
+| **[Sanoma Learning](https://sanomalearning.com/)** | **[Cloud Engineer](https://jobr.pro/job/37224800/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bergen, Norway | On Site | Feb 02 |
 | **[Amgen](https://www.amgen.com/)** | **[Associate AWS Cloud Engineer](https://jobr.pro/job/37233053/associate-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Hyderabad | On Site | Feb 02 |
 | **[Amgen](https://www.amgen.com/)** | **[Specialist AWS Cloud Engineer](https://jobr.pro/job/37233013/specialist-aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal - ACC | On Site | Feb 02 |
+| **[Gunvor Group](https://gunvorgroup.com/)** | **[Cloud Engineer](https://jobr.pro/job/37239134/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, United States | On Site | Feb 02 |
 | **[JANUS Research Group](https://www.janusresearch.com/)** | **[Cloud Engineer](https://jobr.pro/job/37204844/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Radford, VA | On Site | Feb 01 |
 | **[NCS](https://www.ncs.co)** | **[Cloud Engineer (Azure)](https://jobr.pro/job/37198486/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Feb 01 |
 | **[Contact Government Services](https://cgsfederal.com/)** | **[Cloud Engineer (AWS)](https://jobr.pro/job/37193396/cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL | On Site | Feb 01 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Smile Digital Health](https://www.smiledigitalhealth.com)** | **[Senior Cloud Engineer- Remote, Canada](https://jobr.pro/job/36956991/senior-cloud-engineer-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Ontario | Remote | Jan 28 |
 | **[Jefferies](https://www.jefferies.com/)** | **[VP, Cloud Engineer - Equities Technology](https://jobr.pro/job/37004604/vp-cloud-engineer-equities-technology?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY, United States | On Site | Jan 28 |
 | **[Nagarro](https://www.nagarro.com)** | **[Staff Engineer -- Salesforce Consumer Goods Cloud Engineer](https://jobr.pro/job/36973271/staff-engineer-salesforce-consumer-goods-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, Illinois, United States | On Site | Jan 28 |
-| **[Incluso](https://www.incluso.se)** | **[Cloud Engineer - AWS](https://jobr.pro/job/36996733/cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Göteborg, Sweden | On Site | Jan 28 |
-| **[BETSOL](https://www.betsol.com)** | **[Cloud Engineer – Platform & Automation](https://jobr.pro/job/36951967/cloud-engineer-platform-automation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 180k  
+**Current Stats:** 50 jobs | 12% remote | 38 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
