@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud engineer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Cloud engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Entergy](https://www.entergy.com)** | **[Cloud Engineer](https://jobr.pro/job/37257550/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | The Woodlands, Texas, United States | On Site | Feb 03 |
+| **[Cascadia Healthcare](https://www.cascadiahc.com/)** | **[IT Cloud Engineer](https://jobr.pro/job/37280674/it-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cascadia Services LLC | On Site | Feb 02 |
 | **[SMX](https://www.smxtech.com/)** | **[Azure Cloud Engineer (4857)](https://jobr.pro/job/37258640/azure-cloud-engineer-4857?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hanover, MD | On Site | Feb 02 |
 | **[AppDirect](https://www.appdirect.com/)** | **[DevOps Cloud Engineer](https://jobr.pro/job/37265314/devops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Montreal Canada | On Site | Feb 02 |
 | **[Keyfactor, Inc.](https://www.keyfactor.com/)** | **[Associate Cloud Engineer](https://jobr.pro/job/37244667/associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States; Remote, EST or CST | Remote | Feb 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oracle](https://www.oracle.com/)** | **[Senior Cloud Engineer / Specialist (OASE)](https://jobr.pro/job/37088714/senior-cloud-engineer-specialist-oase?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seattle, WA, United States | On Site | Jan 29 |
 | **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Cloud Engineer (Mid)](https://jobr.pro/job/37041852/cloud-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Louis, MO | On Site | Jan 29 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Cloud Engineer](https://jobr.pro/job/37014909/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Capital City of Warsaw, PL | On Site | Jan 29 |
-| **[VML](https://www.vml.com/)** | **[Lead Cloud Engineer](https://jobr.pro/job/37049052/lead-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, England, United Kingdom | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 36 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 12% remote | 36 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, terraform  
