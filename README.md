@@ -3,7 +3,7 @@
 
 <sub><small>Last updated: Feb 06, 2026 at 08:30 UTC</small></sub>
 
-# ⚠️ Important Announcement
+### ⚠️ Important Announcement
 
 We are sorry to announce that this repository will no longer be maintained.  
 **Jobr.pro will no longer add new listings or jobs**, unless we decide otherwise in the future.  
