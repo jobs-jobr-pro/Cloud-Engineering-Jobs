@@ -1,20 +1,9 @@
 <!-- prettier-ignore-start -->
-# Cloud engineer Jobs 2026
+# Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Feb 06, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Apr 08, 2026 at 13:00 UTC</small></sub>
 
----
-
-### ⚠️ Important Announcement
-
-We are sorry to announce that this repository will no longer be maintained.  
-**Jobr.pro will no longer add new listings or jobs**, unless we decide otherwise in the future.  
-
-Thank you for your support, and we apologize for any inconvenience this may cause.
-
----
-
-This repository collects curated **Cloud engineer opportunities in 2026**.  
+This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs) — **you choose the job, we handle the paperwork**.  
@@ -24,72 +13,55 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Process Engineer II - SDF](https://jobr.pro/job/37538697/process-engineer-ii-sdf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Durham, NC, US | On Site | Feb 06 |
-| **[Western Digital](https://www.westerndigital.com)** | **[Intern - Environmental Engineer (Studying Bachelor Degree)](https://jobr.pro/job/37538128/intern-environmental-engineer-studying-bachelor-degree?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amphoe Si Maha Phot, Prachin Buri, Thailand | On Site | Feb 06 |
-| **[INPEX](https://www.inpex.com.au/)** | **[Senior Process Engineer](https://jobr.pro/job/37537723/senior-process-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Perth, WA, AU | On Site | Feb 06 |
-| **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[Pilot Plant Engineer](https://jobr.pro/job/37537544/pilot-plant-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Piscataway, NJ, US | On Site | Feb 06 |
-| **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[Process Engineer Leader](https://jobr.pro/job/37537527/process-engineer-leader?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Jose Iturbide, GUA, MX | On Site | Feb 06 |
-| **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[Process Engineer](https://jobr.pro/job/37537526/process-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Guatemala, GU, GT | On Site | Feb 06 |
-| **[Bosch Group](https://www.bosch.com)** | **[Junior IT Engineer (SAP S/4 HANA Production Rollout) (1 year Contract)](https://jobr.pro/job/37537787/junior-it-engineer-sap-s4-hana-production-rollout-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand | On Site | Feb 06 |
-| **[Rubrik](https://www.rubrik.com/)** | **[Senior Software Engineer - HyperV](https://jobr.pro/job/37536838/senior-software-engineer-hyperv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, India | On Site | Feb 06 |
-| **[Rubrik](https://www.rubrik.com/)** | **[Software Engineer - HyperV](https://jobr.pro/job/37536840/software-engineer-hyperv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore | On Site | Feb 06 |
-| **[Segula Technologies](https://www.segulatechnologies.com)** | **[Junior Design Engineer – BIW & Interior/Exterior Trims](https://jobr.pro/job/37537105/junior-design-engineer-biw-interiorexterior-trims?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bucharest, Bucharest, Romania | On Site | Feb 06 |
-| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Japanese Speaking](https://jobr.pro/job/37533208/senior-software-engineer-i-japanese-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore | On Site | Feb 06 |
-| **[Airbnb](https://www.airbnb.com/)** | **[Senior Software Engineer, Data Engineering](https://jobr.pro/job/37533543/senior-software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Feb 06 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Frontend Engineer (React) (m/f/d)](https://jobr.pro/job/37529571/senior-frontend-engineer-react-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chiasso, TI, CH, 6830 | On Site | Feb 06 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[ICT Network Engineer (m/w/d)](https://jobr.pro/job/37529524/ict-network-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | St. Gallen, SG, CH, 9000 | On Site | Feb 06 |
-| **[PayPay](https://paypay.ne.jp/)** | **[【AI Agent】Forward Deployed Engineer（社内DX・生産性革新担当）](https://jobr.pro/job/37532804/ai-agentforward-deployed-engineerdx?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Feb 06 |
-| **[Nagarro](https://www.nagarro.com)** | **[Associate Principal Engineer, Google Analytics](https://jobr.pro/job/37532950/associate-principal-engineer-google-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, India | Remote | Feb 06 |
-| **[Smith's Group](https://www.smiths.com)** | **[Field Service Engineer](https://jobr.pro/job/37536031/field-service-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Noida, UP, India | On Site | Feb 06 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Intern, Quality Engineer – Document Control & QMS](https://jobr.pro/job/37527655/intern-quality-engineer-document-control-qms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Telok Panglima Garang, Malaysia | On Site | Feb 06 |
-| **[Visa](https://visa.com)** | **[Senior Software Engineer (Frontend, React)](https://jobr.pro/job/37527993/senior-software-engineer-frontend-react?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Feb 06 |
-| **[Fairsource](https://fairsource.de)** | **[SAFe Releaste Train Engineer](https://jobr.pro/job/37539216/safe-releaste-train-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Deutschland - Remote | Remote | Feb 06 |
-| **[Segula Technologies](https://www.segulatechnologies.com)** | **[Site Civil/Mechanical Engineer – Pile Foundation & Solar PV Projects (Sohar, Oman) – 4 Months with possible extension](https://jobr.pro/job/37537108/site-civilmechanical-engineer-pile-foundation-solar-pv-projects-sohar-oman-4-months-with-possible-extension?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sohar, Al Batinah North Governorate, Oman | On Site | Feb 06 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Product Development Engineer 3](https://jobr.pro/job/37524575/product-development-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bedford, Massachusetts, US, 01730 | On Site | Feb 06 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Cloud Solutions Architect /Senior Cloud Platform Engineer](https://jobr.pro/job/37524569/cloud-solutions-architect-senior-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mollet del Valles, Barcelona, ES, 08100 | On Site | Feb 06 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Senior Device Development Engineer for active medical implants (all genders)](https://jobr.pro/job/37524564/senior-device-development-engineer-for-active-medical-implants-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Darmstadt, Hessen, DE, 64293 | On Site | Feb 06 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Automation Engineer / Role in Portugal or in Spain](https://jobr.pro/job/37524559/automation-engineer-role-in-portugal-or-in-spain?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mollet del Valles, Barcelona, ES, 08100 | On Site | Feb 06 |
-| **[Rijksoverheid](https://www.werkenvoornederland.nl)** | **[medior DevOps engineer](https://jobr.pro/job/37524392/medior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, NL, 3584 AB | On Site | Feb 06 |
-| **[Entain](https://www.entaingroup.com)** | **[Site Reliability Engineer III](https://jobr.pro/job/37526507/site-reliability-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, Maharashtra, India | On Site | Feb 06 |
-| **[Bosch Group](https://www.bosch.com)** | **[Test Engineer](https://jobr.pro/job/37532038/test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tambon Khlong Ha, จ.ปทุมธานี, Thailand | On Site | Feb 06 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Sr Manufacturing Engineer](https://jobr.pro/job/37527657/sr-manufacturing-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kulim, Malaysia | On Site | Feb 06 |
-| **[Celonis](https://www.celonis.com/)** | **[Senior Software Engineer-Frontend](https://jobr.pro/job/37525211/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, India | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[R&D/PRODUCT DVL ENGINEER II](https://jobr.pro/job/37523248/rdproduct-dvl-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Suzhou, JS, CN, 215123 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[R&D/PRODUCT DVL ENGINEER I](https://jobr.pro/job/37523247/rdproduct-dvl-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | KAWASAKI-SHI KANAGAWA, 14, JP, 213 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[SUPPLIER QUALITY ENGINEER](https://jobr.pro/job/37523238/supplier-quality-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | TANGER, TNG, MA, 90000 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[QLTY & RELIABILITY ENGINEER II](https://jobr.pro/job/37523236/qlty-reliability-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Prai, Penang, 07, MY, 13600 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[Senior Product Engineer - Fine-Pitch Board Connectors (m/w/d)](https://jobr.pro/job/37523227/senior-product-engineer-fine-pitch-board-connectors-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Adelberg, BW, DE, 73099 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[Senior Product Engineer - Fine-Pitch Board Connectors (m/f/d)](https://jobr.pro/job/37523223/senior-product-engineer-fine-pitch-board-connectors-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Adelberg, BW, DE, 73099 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[PROJECT MANAGER ENGINEER I](https://jobr.pro/job/37523207/project-manager-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangalore, KA, IN, 560066 | On Site | Feb 06 |
-| **[GoPro](https://gopro.com/)** | **[Image Embedded Algorithms Engineer](https://jobr.pro/job/37524877/image-embedded-algorithms-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Paris | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[MANUFACTURING ENGINEER II](https://jobr.pro/job/37523178/manufacturing-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PUNE, MH, IN, 412801 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[SR QLTY & RELIABILITY ENGINEER](https://jobr.pro/job/37523171/sr-qlty-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | CHENGDU, SC, CN, 518057 | On Site | Feb 06 |
-| **[TE Connectivity](https://www.te.com)** | **[R&D/PRODUCT DVL ENGINEER II (SI ICC)](https://jobr.pro/job/37523149/rdproduct-dvl-engineer-ii-si-icc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei, TPE, TW, | On Site | Feb 06 |
-| **[Bosch Group](https://www.bosch.com)** | **[Proportional Valve Controller Design Engineer比例阀控制器设计工程师_DCCC](https://jobr.pro/job/37537800/proportional-valve-controller-design-engineerdccc?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Changzhou, Jiangsu, China | On Site | Feb 06 |
-| **[Sana Commerce](https://www.sana-commerce.com)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/37528327/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Alexandria, Alexandria Governorate, Egypt | On Site | Feb 06 |
-| **[Sika AG](https://www.sika.com)** | **[Sales Engineer - Automotive & Industry](https://jobr.pro/job/37536323/sales-engineer-automotive-industry?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ha Noi, Vietnam | On Site | Feb 06 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior Engineer/Assistant Manager_Power Distribution and Management_GR/FCM-Na](https://jobr.pro/job/37537802/senior-engineerassistant-managerpower-distribution-and-managementgrfcm-na?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nashik, Maharashtra, India | On Site | Feb 06 |
-| **[Cuscal](https://www.cuscal.com/)** | **[Senior Data Engineer (AWS, Databricks & Terraform)](https://jobr.pro/job/37538045/senior-data-engineer-aws-databricks-terraform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, NSW, Australia | On Site | Feb 06 |
-| **[Bottomline Technologies](https://www.bottomline.com/)** | **[DevOps Engineer II](https://jobr.pro/job/37536424/devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Feb 06 |
-| **[ASSYSTEM](https://www.assystem.com)** | **[Structrue engineer buildings](https://jobr.pro/job/37525180/structrue-engineer-buildings?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurugram, HR, India | On Site | Feb 06 |
-| **[Property Finder](https://www.propertyfinder.ae/)** | **[Software Engineer](https://jobr.pro/job/37528148/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dubai, United Arab Emirates | On Site | Feb 06 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Senior Mine Engineer](https://jobr.pro/job/37521145/senior-mine-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Republic, Washington, USA | On Site | Feb 06 |
+| **[Systems Engineering Solutions Corporation](https://www.sescorporation.com/)** | **[FinOps Cloud Engineer](https://jobr.pro/job/40247685/finops-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, Massachusetts, United States | On Site | Apr 08 |
+| **[The University of Sydney](https://www.sydney.edu.au/)** | **[Senior Manager, Cloud Engineering](https://jobr.pro/job/40249276/senior-manager-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Services Building (G12), Australia | On Site | Apr 08 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Cloud Engineer (Devops)](https://jobr.pro/job/40250037/cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Apr 08 |
+| **[LightFeather](https://lightfeather.io/)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40247360/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 07 |
+| **[LightFeather](https://lightfeather.io/)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40247361/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 07 |
+| **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud Engineer](https://jobr.pro/job/40247362/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 07 |
+| **[LightFeather](https://lightfeather.io/)** | **[Azure Cloud Engineer](https://jobr.pro/job/40247363/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 07 |
+| **[Mobiik](https://www.mobiik.com/)** | **[Cloud Engineer 100% oficina](https://jobr.pro/job/40247378/cloud-engineer-100-oficina?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de México | On Site | Apr 07 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[GCP Cloud Engineer (Washington, DC) Secret Clearance Required](https://jobr.pro/job/40247388/gcp-cloud-engineer-washington-dc-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Apr 07 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Cloud Engineer](https://jobr.pro/job/40247391/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, MA, United States | On Site | Apr 07 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Google Cloud Engineer](https://jobr.pro/job/40247394/google-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, MA, United States | On Site | Apr 07 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Azure Cloud Engineer](https://jobr.pro/job/40247395/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington D.C., United States | On Site | Apr 07 |
+| **[apexanalytix](https://www.apexanalytix.com/)** | **[Cloud Engineer Intern - Databases](https://jobr.pro/job/40249289/cloud-engineer-intern-databases?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Greensboro, NC | On Site | Apr 07 |
+| **[SoSafe](https://sosafe-awareness.com/)** | **[AWS Cloud Engineer (m/f/d)](https://jobr.pro/job/40247747/aws-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal Remote | Remote | Apr 07 |
+| **[SEI](https://sei.com/)** | **[IT Cloud Engineer](https://jobr.pro/job/40247752/it-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cincinnati, Ohio, United States | On Site | Apr 07 |
+| **[InPost](https://inpost.eu/)** | **[Senior Cloud Engineer - GCP (f/m/n)](https://jobr.pro/job/40247754/senior-cloud-engineer-gcp-fmn?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Apr 07 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer T Cloud Public (REF5204N)](https://jobr.pro/job/40247755/cloud-engineer-t-cloud-public-ref5204n?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Debrecen, Szeged, Pécs, Hungary | On Site | Apr 07 |
+| **[Accenture Federal Services](https://www.accenture.com/)** | **[Cloud Engineer](https://jobr.pro/job/40247756/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 07 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Cloud Engineer - Project Delivery Specialist](https://jobr.pro/job/40247766/cloud-engineer-project-delivery-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dallas, Texas, United States | On Site | Apr 07 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Cloud Engineer - Project Delivery Senior Analyst](https://jobr.pro/job/40247767/cloud-engineer-project-delivery-senior-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dallas, Texas, United States | On Site | Apr 07 |
+| **[BT Group](https://www.bt.com/)** | **[Cloud Engineering Professional - Access & Security](https://jobr.pro/job/40247776/cloud-engineering-professional-access-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, IN, 560103 | On Site | Apr 07 |
+| **[Fincite GmbH](https://www.fincite.de/)** | **[Operations Cloud Engineer (m/w/d)](https://jobr.pro/job/40247780/operations-cloud-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Frankfurt am Main | On Site | Apr 07 |
+| **[Alter Solutions](https://www.alter-solutions.com/)** | **[Cloud Engineer ( JD)](https://jobr.pro/job/40247782/cloud-engineer-jd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Apr 07 |
+| **[The Cigna Group](https://www.thecignagroup.com/)** | **[HIH - Cloud Engineering Senior Analyst](https://jobr.pro/job/40248054/hih-cloud-engineering-senior-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | HIH - Hyderabad, India | On Site | Apr 07 |
+| **[Barclays](https://home.barclays/)** | **[Cloud Engineer](https://jobr.pro/job/40248058/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Apr 07 |
+| **[Optimiza](https://optimiza.me/)** | **[Senior Cloud Engineer](https://jobr.pro/job/40248063/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amman, Amman Governorate, Jordan | On Site | Apr 07 |
+| **[Globe Group](https://www.globe.com.ph/)** | **[AI Cloud Engineer](https://jobr.pro/job/40248071/ai-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 26F The Globe Tower, Philippines | On Site | Apr 07 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Cloud Engineer, Senior](https://jobr.pro/job/40248082/cloud-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | USA, AL, Huntsville (4946 Fowler Rd), United States | On Site | Apr 07 |
+| **[Accenture](https://www.accenture.com/)** | **[Telco Cloud Engineer](https://jobr.pro/job/40248061/telco-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Midrand, J'burg Waterfall - 3, South Africa | On Site | Apr 07 |
+| **[Synechron](https://www.synechron.com/)** | **[AWS Cloud Engineer](https://jobr.pro/job/40249345/aws-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Apr 07 |
+| **[Aptiv](https://www.aptiv.com/)** | **[Cloud Engineer (Golang / Python - Data Processing)](https://jobr.pro/job/40249346/cloud-engineer-golang-python-data-processing?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | IND Chennai Tech Center, India | On Site | Apr 07 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Senior, Cloud Engineering](https://jobr.pro/job/40249351/senior-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, ON, CA, M5H 1H1 | On Site | Apr 07 |
+| **[LightFeather](https://lightfeather.io/)** | **[Cloud Engineer - Azure](https://jobr.pro/job/40249361/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Apr 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 29 companies | Avg salary: 131k  
+**Current Stats:** 33 jobs | 3% remote | 25 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, gcp, kubernetes, terraform  
+**Trending Skills:** aws, azure, gcp, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
-This repository tracks current Cloud engineer positions from companies across different industries, updated daily.
+This repository tracks **Cloud Engineer positions** from companies across different industries, updated daily.
 
 **What makes this useful:**
 
-- Fresh Cloud engineer positions aggregated from multiple job boards
+- Fresh **Cloud Engineer positions** aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
 - Direct links to apply on company career pages
@@ -106,7 +78,7 @@ This repository tracks current Cloud engineer positions from companies across di
 
 ## For Recruiters
 
-This repository gets consistent traffic from Cloud engineer professionals actively job searching. The audience is pre-qualified and specifically interested in Cloud engineer opportunities.
+This repository gets consistent traffic from **Cloud Engineer professionals** actively job searching. The audience is pre-qualified and specifically interested in **Cloud Engineer opportunities**.
 
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
 
@@ -114,9 +86,12 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 
 Looking for other opportunities? Check out these related job repositories:
 
-- [Devops Jobs](https://github.com/jobs-jobr-pro/DevOps-Jobs)
+- [DevOps Jobs](https://github.com/jobs-jobr-pro/DevOps-Jobs)
 - [Software Engineering Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs)
 
+---
+
+Find more jobs and career tools at [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=related-repos)
 
 
 ---
