@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,24 +13,36 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Data](https://jobr.pro/job/40594086/senior-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seattle, WA | On Site | May 02 |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40584514/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40584511/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/40584510/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[GCP Cloud Engineer](https://jobr.pro/job/40584509/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/40584512/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40584506/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
+| **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/40584505/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 01 |
 | **[Omnidian, Inc.](https://omnidian.com)** | **[Senior System Administrator](https://jobr.pro/job/40575634/senior-system-administrator?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, US | Remote | May 01 |
 | **[Unknown Company](https://elementsolutionsinc.com)** | **[Data Engineer](https://jobr.pro/job/40575033/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | May 01 |
 | **[Okta](https://okta.com)** | **[Staff Data Engineer - Federal (Auth0)](https://jobr.pro/job/40572356/staff-data-engineer-federal-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | On Site | May 01 |
 | **[Unknown Company](https://peek.com)** | **[Senior Data Engineer](https://jobr.pro/job/40572408/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City | Remote | May 01 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Zero Trust Cloud - UKI](https://jobr.pro/job/40571233/senior-specialist-sales-engineer-zero-trust-cloud-uki?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United Kingdom - Update Location | On Site | May 01 |
 | **[The New York Times](https://nytimes.com)** | **[Senior Data Engineer, Customer-Facing Data Products](https://jobr.pro/job/40578524/senior-data-engineer-customer-facing-data-products?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY | On Site | May 01 |
+| **[NetSage](https://netsage.com)** | **[Cloud Software Engineer](https://jobr.pro/job/40583614/cloud-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, Maryland, United States | On Site | May 01 |
 | **[Omada Health](https://omadahealth.com)** | **[Senior Software Engineer, Data Engineering](https://jobr.pro/job/40580163/senior-software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA | Remote | May 01 |
 | **[Wiz, Inc.](https://wizinc.es)** | **[Revenue Systems Administrator](https://jobr.pro/job/40569794/revenue-systems-administrator?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - USA | Remote | May 01 |
 | **[SKELAR — your partner in building a global tech company](https://www.skelar.tech)** | **[Data Engineer/Analytics Engineer - Liven](https://jobr.pro/job/40572040/data-engineeranalytics-engineer-liven?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Krakow | On Site | May 01 |
 | **[Chainalysis]()** | **[Senior Data Platform Engineer, Data Cloud](https://jobr.pro/job/40569847/senior-data-platform-engineer-data-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Massachusetts | Remote | May 01 |
 | **[SecurityScorecard](https://securityscorecard.com)** | **[Staff Data Engineer](https://jobr.pro/job/40575320/staff-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote (Canada) | Remote | May 01 |
+| **[Empower Pharmacy](https://empowerpharmacy.com)** | **[Staff DevOps & Site Reliability Engineer](https://jobr.pro/job/40583716/staff-devops-site-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US Remote | Remote | May 01 |
 | **[Mapbox](https://www.mapbox.com)** | **[Software Development Engineer II, Data Boundaries](https://jobr.pro/job/40568205/software-development-engineer-ii-data-boundaries-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mapbox US | On Site | May 01 |
+| **[Relay Payments](https://relaypayments.com)** | **[Cloud Engineer](https://jobr.pro/job/40584558/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA | On Site | May 01 |
 | **[Graphcore](https://graphcore.ai)** | **[Senior Cloud Network Engineer](https://jobr.pro/job/40569804/senior-cloud-network-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bristol, UK | On Site | May 01 |
 | **[Graphcore](https://graphcore.ai)** | **[Senior Cloud Engineer (K8S)](https://jobr.pro/job/40569803/senior-cloud-engineer-k8s?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bristol, UK | On Site | May 01 |
 | **[Keyfactor, Inc.]()** | **[Cloud Engineer](https://jobr.pro/job/40568094/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States; Remote, EST or CST | Remote | May 01 |
 | **[Radiant](https://radiant.co/)** | **[Principal Software Engineer: Cloud Platform](https://jobr.pro/job/40574350/principal-software-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | Remote | May 01 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40571173/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | Remote | May 01 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40571169/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Indonesia | Remote | May 01 |
+| **[Pt78]()** | **[Senior Data Security Engineer](https://jobr.pro/job/40581535/senior-data-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tampa, FL | On Site | May 01 |
 | **[cws](https://cws.com)** | **[Cloud Engineer](https://jobr.pro/job/40565391/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Springfield, VA | On Site | Apr 30 |
 | **[Think Ahead Education](https://thinkaheadeducation.com)** | **[Managed Services Cloud Engineer - FinOps](https://jobr.pro/job/40560683/managed-services-cloud-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Apr 30 |
 | **[Instacart](https://instacart.com)** | **[Senior Security Engineer, Cloud, AI, Product Security](https://jobr.pro/job/40560692/senior-security-engineer-cloud-ai-product-security-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States - Remote | Remote | Apr 30 |
@@ -38,8 +50,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GitLab](https://gitlab.com)** | **[Vice President of Engineering, DevOps Engineering](https://jobr.pro/job/40559863/vice-president-of-engineering-devops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, US | Remote | Apr 30 |
 | **[Fanatics Betting & Gaming]()** | **[Analytics Engineer III - FBG - Data](https://jobr.pro/job/40559864/analytics-engineer-iii-fbg-data?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY, United States | On Site | Apr 30 |
 | **[Encora](https://encora.com)** | **[Sr Data Engineer](https://jobr.pro/job/40559383/sr-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico | On Site | Apr 30 |
+| **[Heven AeroTech]()** | **[Cloud Software Engineer - Defense Systems](https://jobr.pro/job/40584532/cloud-software-engineer-defense-systems-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sterling, Virginia | On Site | Apr 30 |
 | **[Konrad]()** | **[Data Engineer](https://jobr.pro/job/40567201/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurgaon | On Site | Apr 30 |
-| **[Konrad]()** | **[Senior Data Engineer](https://jobr.pro/job/40567243/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San José, Costa Rica | On Site | Apr 30 |
 | **[Riveron](https://riveron.com/)** | **[Technology and Innovation - Salesforce Architect (Marketing Cloud, Sales Cloud, and Connected Apps)](https://jobr.pro/job/40566190/technology-and-innovation-salesforce-architect-marketing-cloud-sales-cloud-and-connected-apps?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, GA | Remote | Apr 30 |
 | **[Comfy Org](https://www.comfy.org/)** | **[Data Engineer](https://jobr.pro/job/40574632/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | On Site | Apr 30 |
 | **[DoorDash USA]()** | **[Staff Software Engineer, Data Engineering](https://jobr.pro/job/40558933/staff-software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA; Sunnyvale, CA; Seattle, WA | On Site | Apr 30 |
@@ -51,25 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unity Technologies]()** | **[Staff Data Engineer- Ads reporting](https://jobr.pro/job/40578643/staff-data-engineer-ads-reporting-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA, USA | On Site | Apr 30 |
 | **[Suno](https://www.suno.com/)** | **[Senior / Staff Software Engineer, Data Infrastructure](https://jobr.pro/job/40563014/senior-staff-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston | On Site | Apr 30 |
 | **[Suno](https://www.suno.com/)** | **[Software Engineer, Data Platform](https://jobr.pro/job/40563015/software-engineer-data-platform-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston | On Site | Apr 30 |
-| **[SMX](https://smxtech.com)** | **[Systems Administrator (5249)](https://jobr.pro/job/40559843/systems-administrator-5249?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Patuxent River, MD | On Site | Apr 30 |
-| **[K Health]()** | **[Senior Data Engineer](https://jobr.pro/job/40563268/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, NY | On Site | Apr 30 |
-| **[Profluent](https://profluenttrading.com)** | **[Senior Software Engineering Manager, Lab Data Platform](https://jobr.pro/job/40558034/senior-software-engineering-manager-lab-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Emeryville, California, United States; Hybrid (2-3 days on-site) | On Site | Apr 30 |
-| **[Unknown Company](https://www.checkatrade.com/)** | **[Director Data Engineering](https://jobr.pro/job/40567291/director-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Moorgate London | On Site | Apr 30 |
-| **[Dun & Bradstreet: Intelligent Data for Business Performance](https://dnb.com)** | **[Principal Java Cloud Engineer (R-19113)](https://jobr.pro/job/40560834/principal-java-cloud-engineer-r-19113?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jacksonville - Florida - United States | On Site | Apr 30 |
-| **[Thoughtworks](https://thoughtworks.com)** | **[Principal Data Engineer (m/f/d)](https://jobr.pro/job/40576663/principal-data-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam, Netherlands | On Site | Apr 30 |
-| **[n8n](https://n8n.io/)** | **[Sr Cloud Engineer \| Europe remote](https://jobr.pro/job/40557491/sr-cloud-engineer-europe-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin Office | Remote | Apr 30 |
-| **[Dun & Bradstreet: Intelligent Data for Business Performance](https://dnb.com)** | **[Senior Cloud Platform Engineer (R-19149)](https://jobr.pro/job/40560838/senior-cloud-platform-engineer-r-19149?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Jacksonville - Florida - United States | On Site | Apr 30 |
-| **[Abacus Insights](https://abacusinsights.com)** | **[Data Governance Engineer](https://jobr.pro/job/40560706/data-governance-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, India | On Site | Apr 30 |
-| **[Lyft](https://lyft.com)** | **[Senior Software Engineer, Cloud Security](https://jobr.pro/job/40563963/senior-software-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, Mexico | On Site | Apr 30 |
-| **[Pathward, N.A.]()** | **[DevOps Engineer II](https://jobr.pro/job/40580578/devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Apr 30 |
-| **[SKELAR — your partner in building a global tech company](https://www.skelar.tech)** | **[DevOps Engineer - Duomo](https://jobr.pro/job/40557602/devops-engineer-duomo?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kyiv, Lviv, Warsaw | Remote | Apr 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 39 companies | Avg salary: 4.750007750011936e+115k  
+**Current Stats:** 50 jobs | 30% remote | 37 companies | Avg salary: 9.4500475000775e+114k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, security  
+**Trending Skills:** aws, azure, gcp, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
