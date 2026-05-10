@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[Temus](https://temus.com)** | **[Senior Cloud Engineer (12 mths contract)](https://jobr.pro/job/40700198/senior-cloud-engineer-12-mths-contract?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | May 10 |
+| **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | May 09 |
 | **[Dun & Bradstreet](https://dnb.com)** | **[Senior Data Engineer-AI (R-19035)](https://jobr.pro/job/40689921/senior-data-engineer-ai-r-19035?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Shanghai - China | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40689121/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malaysia | Remote | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40689120/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malaysia | On Site | May 09 |
@@ -36,6 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[StackAdapt](https://stackadapt.com)** | **[Senior Staff Software Engineer - Data Delivery](https://jobr.pro/job/40684602/senior-staff-software-engineer-data-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canada; United States | On Site | May 08 |
 | **[Anthropic](https://anthropics.com)** | **[Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://jobr.pro/job/40684623/staff-sr-software-engineer-cloud-inference-launch-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA \| Seattle, WA | On Site | May 08 |
 | **[Kiefer](https://kiefer.gr/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40687665/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens | On Site | May 08 |
+| **[Code and Theory](https://codeandtheory.com)** | **[Senior Engineer, Cloud Infrastructure (US)](https://jobr.pro/job/40701405/senior-engineer-cloud-infrastructure-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, New York, United States | On Site | May 08 |
 | **[ZEFR](https://zefr.com/)** | **[Senior Data Engineer](https://jobr.pro/job/40691733/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Marina del Rey, CA | Remote | May 08 |
 | **[Zone 5 Technologies](https://zone5tech.com)** | **[DevOps Engineer III](https://jobr.pro/job/40683924/devops-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | May 08 |
 | **[Radiant](https://www.radiantnuclear.com/)** | **[Staff DevOps Engineer, Enterprise Data](https://jobr.pro/job/40686923/staff-devops-engineer-enterprise-data?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | El Segundo, CA | On Site | May 08 |
@@ -52,21 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fundraise Up](https://fundraiseup.com)** | **[DevOps Engineer / SRE](https://jobr.pro/job/40689940/devops-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Georgia - Remote | Remote | May 08 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/40683209/cloud-platform-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Meade, MD | On Site | May 08 |
 | **[Zingtree](https://zingtree.com)** | **[Senior DevOps / Platform Reliability Engineer](https://jobr.pro/job/40681289/senior-devops-platform-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | East Coast - United States | On Site | May 08 |
+| **[540](https://540.co)** | **[Senior Cloud Engineer (GCP)](https://jobr.pro/job/40695205/senior-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 08 |
 | **[Goodway Group](https://goodwaygroup.com)** | **[Global Data Engineer](https://jobr.pro/job/40679845/global-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 08 |
 | **[Ryz Labs - Elevate Your Team with LatAm's Elite Nearshore Talent](https://ryzlabs.com)** | **[Data Analytics Engineer](https://jobr.pro/job/40685188/data-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Buenos Aires | On Site | May 08 |
 | **[Marqeta](https://marqeta.com)** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40682446/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | May 08 |
 | **[Feedzai](https://feedzai.com)** | **[Systems Research Engineer- Software Engineer, Data and ML Infrastructure](https://jobr.pro/job/40685816/systems-research-engineer-software-engineer-data-and-ml-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal | On Site | May 08 |
 | **[MQ Referrals Only]()** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40683298/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA | Remote | May 08 |
 | **[WPP Media](https://wppmedia.com)** | **[Senior Manager, Data Engineering](https://jobr.pro/job/40679192/senior-manager-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, United Kingdom | On Site | May 08 |
-| **[Stone - Linkedin](https://stonetoss.com)** | **[Sênior Data Engineer - Governança](https://jobr.pro/job/40680029/senior-data-engineer-governanca?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remoto | On Site | May 08 |
-| **[Stone - Linkedin](https://stonetoss.com)** | **[Sênior Data Engineer - Experimentação](https://jobr.pro/job/40680028/senior-data-engineer-experimentacao?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remoto | On Site | May 08 |
-| **[Huntress](https://huntress.com)** | **[Staff Cloud Security Engineer](https://jobr.pro/job/40685114/staff-cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States of America | On Site | May 08 |
-| **[EQ Bank](https://eqbank.ca)** | **[Staff Engineer, Cloud Engineering](https://jobr.pro/job/40682448/staff-engineer-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto | On Site | May 08 |
-| **[Greenhouse](https://greenhousemegastore.com)** | **[Data Migrations Engineer I](https://jobr.pro/job/40689467/data-migrations-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ontario | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 1.425001250001383e+90k  
+**Current Stats:** 50 jobs | 22% remote | 37 companies | Avg salary: 1.5200013333348083e+85k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** azure, gcp, security  
