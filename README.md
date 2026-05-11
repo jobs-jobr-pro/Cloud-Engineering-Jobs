@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Optiver](https://optiver.com)** | **[Cloud Engineer](https://jobr.pro/job/40706604/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, Australia | On Site | May 11 |
+| **[Unison Group](https://unisonindia.com)** | **[Data engineer (Azure Databricks)](https://jobr.pro/job/40713154/data-engineer-azure-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | May 11 |
+| **[Flix](https://flixbus.com)** | **[Junior DevOps Engineer (m/f/d)](https://jobr.pro/job/40706218/junior-devops-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Munich | On Site | May 10 |
+| **[Lendbuzz](https://lendbuzz.com)** | **[Data Engineer](https://jobr.pro/job/40705050/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv | On Site | May 10 |
+| **[Similarweb](https://similarweb.com)** | **[Senior Data Engineer ( Data Collection)](https://jobr.pro/job/40704765/-senior-data-engineer-data-collection?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
 | **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
 | **[Temus](https://temus.com)** | **[Senior Cloud Engineer (12 mths contract)](https://jobr.pro/job/40700198/senior-cloud-engineer-12-mths-contract?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore | On Site | May 10 |
+| **[Xenon7](https://xenon.bot)** | **[Sagemaker DevOps Engineer - Europe](https://jobr.pro/job/40709002/sagemaker-devops-engineer-europe?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Netherlands | Remote | May 10 |
 | **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | May 09 |
 | **[Dun & Bradstreet](https://dnb.com)** | **[Senior Data Engineer-AI (R-19035)](https://jobr.pro/job/40689921/senior-data-engineer-ai-r-19035?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Shanghai - China | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40689121/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malaysia | Remote | May 09 |
@@ -24,6 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Data Security, Commercial](https://jobr.pro/job/40686240/senior-specialist-sales-engineer-data-security-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - USA | Remote | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - USA | Remote | May 09 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Data Scientist: Mission Engineering](https://jobr.pro/job/40691223/data-scientist-mission-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hawthorne, California, United States | On Site | May 08 |
+| **[Sono Bello](https://sonobello.com)** | **[Data Engineer](https://jobr.pro/job/40702673/data-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | WA - Bellevue | On Site | May 08 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer](https://jobr.pro/job/40691221/cloud-devsecops-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hawthorne, California, United States | On Site | May 08 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/40691222/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hawthorne, California, United States | On Site | May 08 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40688926/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 08 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fundraise Up](https://fundraiseup.com)** | **[DevOps Engineer / SRE](https://jobr.pro/job/40689940/devops-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Georgia - Remote | Remote | May 08 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/40683209/cloud-platform-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Meade, MD | On Site | May 08 |
 | **[Zingtree](https://zingtree.com)** | **[Senior DevOps / Platform Reliability Engineer](https://jobr.pro/job/40681289/senior-devops-platform-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | East Coast - United States | On Site | May 08 |
-| **[540](https://540.co)** | **[Senior Cloud Engineer (GCP)](https://jobr.pro/job/40695205/senior-cloud-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 08 |
-| **[Goodway Group](https://goodwaygroup.com)** | **[Global Data Engineer](https://jobr.pro/job/40679845/global-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 08 |
-| **[Ryz Labs - Elevate Your Team with LatAm's Elite Nearshore Talent](https://ryzlabs.com)** | **[Data Analytics Engineer](https://jobr.pro/job/40685188/data-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Buenos Aires | On Site | May 08 |
-| **[Marqeta](https://marqeta.com)** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40682446/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | May 08 |
-| **[Feedzai](https://feedzai.com)** | **[Systems Research Engineer- Software Engineer, Data and ML Infrastructure](https://jobr.pro/job/40685816/systems-research-engineer-software-engineer-data-and-ml-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal | On Site | May 08 |
-| **[MQ Referrals Only]()** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40683298/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA | Remote | May 08 |
-| **[WPP Media](https://wppmedia.com)** | **[Senior Manager, Data Engineering](https://jobr.pro/job/40679192/senior-manager-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, United Kingdom | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 37 companies | Avg salary: 1.5200013333348083e+85k  
+**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 1.5200013333348083e+85k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** azure, gcp, security  
