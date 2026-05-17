@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 16, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -49,8 +49,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coupang]()** | **[Staff Backend Engineer - Intelligent Cloud](https://jobr.pro/job/40777429/staff-backend-engineer-intelligent-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 14 |
 | **[540]()** | **[Senior Cloud Engineer](https://jobr.pro/job/40773465/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Patrick SFB, FL | On Site | May 14 |
 | **[Roblox]()** | **[Senior Software Engineer - Open Cloud](https://jobr.pro/job/40774303/senior-software-engineer-open-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Mateo, CA, United States | On Site | May 14 |
-| **[Illumio]()** | **[Staff Engineer, Cloud Security](https://jobr.pro/job/40775188/staff-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sunnyvale, California - HQ | On Site | May 13 |
-| **[Illumio]()** | **[Sr. Software Engineer, Cloud Security](https://jobr.pro/job/40775191/sr-software-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sunnyvale, California - HQ | On Site | May 13 |
+| **[Illumio]()** | **[Staff Engineer, Cloud Security](https://jobr.pro/job/40821310/staff-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sunnyvale, California - HQ | On Site | May 13 |
+| **[Illumio]()** | **[Sr. Software Engineer, Cloud Security](https://jobr.pro/job/40821313/sr-software-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sunnyvale, California - HQ | On Site | May 13 |
 | **[Rocket Money]()** | **[Senior Infrastructure Engineer, Cloud Security](https://jobr.pro/job/40775949/senior-infrastructure-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA, Washington, D.C., New York City, NY, Remote (USA) | Remote | May 13 |
 | **[The Trade Desk]()** | **[Senior Software Engineer - Cloud Services](https://jobr.pro/job/40772734/senior-software-engineer-cloud-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bellevue; San Francisco | On Site | May 13 |
 | **[Accenture Federal Services]()** | **[Cloud Engineer](https://jobr.pro/job/40764129/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Antonio, TX | On Site | May 13 |
