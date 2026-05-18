@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Teads]()** | **[Cloud Engineer, Cloud Foundation Team (Networking & Provisioning)](https://jobr.pro/job/40832992/cloud-engineer-cloud-foundation-team-networking-provisioning?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ljubljana | On Site | May 18 |
+| **[Baseten]()** | **[Engineering Manager, Cloud Platform](https://jobr.pro/job/40830320/engineering-manager-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | Remote | May 17 |
+| **[Latitude IT Solutions]()** | **[Oracle Cloud Infrastructure (OCI) Cloud Engineer](https://jobr.pro/job/40827175/oracle-cloud-infrastructure-oci-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, FL Remote | Remote | May 17 |
+| **[Latitude IT Solutions]()** | **[Google Cloud Platform (GCP) Cloud Engineer](https://jobr.pro/job/40827174/google-cloud-platform-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, FL Remote | Remote | May 17 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/40814455/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 16 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40814461/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 16 |
 | **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40814460/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[66degrees]()** | **[Azure Cloud Engineer](https://jobr.pro/job/40764642/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Pune | On Site | May 13 |
 | **[AHEAD]()** | **[Senior Cloud Engineer - Azure/OpenShift](https://jobr.pro/job/40765593/senior-cloud-engineer-azureopenshift?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | Remote | May 13 |
 | **[Kaizen Asset Management Services]()** | **[DevOps, Cloud Infrastructure & Security Engineer](https://jobr.pro/job/40775004/devops-cloud-infrastructure-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 13 |
-| **[Eram Talent]()** | **[Cloud Engineer / Architect (Saudi Arabia)](https://jobr.pro/job/40768955/cloud-engineer-architect-saudi-arabia?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | May 13 |
-| **[GSSTech Group]()** | **[Senior Technology Engineer - (DevOps \| Multi-Cloud)](https://jobr.pro/job/40768596/senior-technology-engineer-devops-multi-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 13 |
-| **[Centorrino Technologies]()** | **[Cloud Engineer](https://jobr.pro/job/40753566/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Canberra, Australian Capital Territory, Australia | On Site | May 13 |
-| **[Glean]()** | **[Cloud Security Engineer](https://jobr.pro/job/40752052/cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - US | Remote | May 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 38 companies | Avg salary: 1.350000579501075e+115k  
+**Current Stats:** 50 jobs | 36% remote | 37 companies | Avg salary: 1.6500013500005797e+115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
