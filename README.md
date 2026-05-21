@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Blink Health](https://blinkhealth.com)** | **[Staff Cloud Engineer](https://jobr.pro/job/40872648/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 20 |
+| **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - ZT Cloud, Commercial - West/Central](https://jobr.pro/job/40870005/senior-specialist-sales-engineer-zt-cloud-commercial-westcentral?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Illinois, USA; Remote - Minnesota, USA; Remote - Missouri, USA; Remote - Nevada, USA; Remote - Oregon, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA | Remote | May 20 |
 | **[Redis](https://redis.io/)** | **[Cloud Operations Automation Engineer](https://jobr.pro/job/40865218/cloud-operations-automation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | Remote | May 20 |
 | **[AlphaSense India]()** | **[Cloud Support Engineer](https://jobr.pro/job/40865419/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
 | **[AlphaSense](https://alpha-sense.com)** | **[Cloud Support Engineer](https://jobr.pro/job/40865855/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NetBox Labs](https://netboxlabs.com)** | **[Senior DevOps Engineer, Cloud Delivery](https://jobr.pro/job/40785043/senior-devops-engineer-cloud-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US Remote | Remote | May 14 |
 | **[Job Board](https://jobboard.io)** | **[Lead Cloud Infrastructure Engineer / Site Reliability Engineer (SRE)](https://jobr.pro/job/40783161/lead-cloud-infrastructure-engineer-site-reliability-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | North America | On Site | May 14 |
 | **[Grafana Labs](https://grafana.com/)** | **[Copy of Staff Software Engineer - Grafana Cloud k6 \| UK \| Remote](https://jobr.pro/job/40780861/copy-of-staff-software-engineer-grafana-cloud-k6-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United Kingdom (Remote) | Remote | May 14 |
-| **[Grafana Labs](https://grafana.com/)** | **[Staff Software Engineer - Grafana Cloud k6 \| Germany \| Remote](https://jobr.pro/job/40780864/staff-software-engineer-grafana-cloud-k6-germany-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Germany (Remote) | Remote | May 14 |
-| **[Grafana Labs](https://grafana.com/)** | **[Staff Software Engineer - Grafana Cloud k6 \| Ireland \| Remote](https://jobr.pro/job/40780865/staff-software-engineer-grafana-cloud-k6-ireland-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Republic of Ireland (Remote) | Remote | May 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 42 companies | Avg salary: 1.842105359789571e+110k  
+**Current Stats:** 50 jobs | 48% remote | 44 companies | Avg salary: 1.2291686111112132e+104k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
