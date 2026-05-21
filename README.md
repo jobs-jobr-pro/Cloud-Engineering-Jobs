@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coupang](https://aboutcoupang.com)** | **[Senior Security Engineer (Cloud Infrastructure Security)](https://jobr.pro/job/40880581/senior-security-engineer-cloud-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | May 21 |
+| **[Coupang](https://aboutcoupang.com)** | **[Staff Security Engineer (Cloud Infrastructure Security)](https://jobr.pro/job/40878398/staff-security-engineer-cloud-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | May 21 |
+| **[Planned Parenthood Los Angeles](https://www.plannedparenthood.org)** | **[Cloud Systems Engineer](https://jobr.pro/job/40874498/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Los Angeles | On Site | May 20 |
 | **[Blink Health](https://blinkhealth.com)** | **[Staff Cloud Engineer](https://jobr.pro/job/40872648/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 20 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - ZT Cloud, Commercial - West/Central](https://jobr.pro/job/40870005/senior-specialist-sales-engineer-zt-cloud-commercial-westcentral?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Illinois, USA; Remote - Minnesota, USA; Remote - Missouri, USA; Remote - Nevada, USA; Remote - Oregon, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA | Remote | May 20 |
+| **[Torc Robotics](https://torc.ai)** | **[Senior, Software Engineer - Cloud Automation](https://jobr.pro/job/40875619/senior-software-engineer-cloud-automation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ann Arbor, MI, Remote - US | Remote | May 20 |
+| **[Brex](https://brex.com)** | **[Software Engineer II, Cloud Infrastructure](https://jobr.pro/job/40877278/software-engineer-ii-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, São Paulo, Brazil | On Site | May 20 |
 | **[Redis](https://redis.io/)** | **[Cloud Operations Automation Engineer](https://jobr.pro/job/40865218/cloud-operations-automation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | Remote | May 20 |
 | **[AlphaSense India]()** | **[Cloud Support Engineer](https://jobr.pro/job/40865419/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
 | **[AlphaSense](https://alpha-sense.com)** | **[Cloud Support Engineer](https://jobr.pro/job/40865855/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Synergy ECP](https://synergyecp.com)** | **[Senior RADAR Cloud Engineer](https://jobr.pro/job/40796845/senior-radar-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 14 |
 | **[Marqeta](https://marqeta.com)** | **[Senior Cloud Database Engineer](https://jobr.pro/job/40789744/senior-cloud-database-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | May 14 |
 | **[MQ Referrals Only]()** | **[Senior Cloud Database Engineer](https://jobr.pro/job/40789125/senior-cloud-database-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA | Remote | May 14 |
-| **[66degrees](https://66degrees.com)** | **[Cloud Engineer](https://jobr.pro/job/40791544/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Pune | On Site | May 14 |
-| **[Material Security](https://material.security)** | **[Senior Software Engineer, Cloud Office Security](https://jobr.pro/job/40794332/senior-software-engineer-cloud-office-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 14 |
-| **[NetBox Labs](https://netboxlabs.com)** | **[Senior DevOps Engineer, Cloud Delivery](https://jobr.pro/job/40785043/senior-devops-engineer-cloud-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US Remote | Remote | May 14 |
-| **[Job Board](https://jobboard.io)** | **[Lead Cloud Infrastructure Engineer / Site Reliability Engineer (SRE)](https://jobr.pro/job/40783161/lead-cloud-infrastructure-engineer-site-reliability-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | North America | On Site | May 14 |
-| **[Grafana Labs](https://grafana.com/)** | **[Copy of Staff Software Engineer - Grafana Cloud k6 \| UK \| Remote](https://jobr.pro/job/40780861/copy-of-staff-software-engineer-grafana-cloud-k6-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United Kingdom (Remote) | Remote | May 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 44 companies | Avg salary: 1.2291686111112132e+104k  
+**Current Stats:** 50 jobs | 44% remote | 43 companies | Avg salary: 1.114668141669e+86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
