@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40914097/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
+| **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40914095/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
+| **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/40914094/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
+| **[LIGHTFEATHER IO LLC]()** | **[GCP Cloud Engineer](https://jobr.pro/job/40914093/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior Azure Cloud Infrastructure Engineer - Cleared](https://jobr.pro/job/40914096/senior-azure-cloud-infrastructure-engineer-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
+| **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/40914087/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
 | **[Poshmark](https://poshmark.com/)** | **[Staff Software Engineer, Cloud Platform](https://jobr.pro/job/40902833/staff-software-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US California (Redwood City) - Office | Remote | May 22 |
 | **[SMX](https://smxi.cat)** | **[Cloud Engineer (TS/SCI CI Poly) (5304) (Chantilly, VA; Herndon, VA; Aurora, CO)](https://jobr.pro/job/40901873/cloud-engineer-tssci-ci-poly-5304-chantilly-va-herndon-va-aurora-co?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Aurora, CO; Chantilly, VA; Herndon, VA | On Site | May 22 |
 | **[Graphcore](https://graphcore.ai)** | **[Staff Cloud Engineer](https://jobr.pro/job/40902106/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London, UK | On Site | May 22 |
@@ -26,6 +32,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Poland and Eastern Europe]()** | **[Cloud Engineer for Global Infrastructure](https://jobr.pro/job/40898682/cloud-engineer-for-global-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bulgaria; Poland; Romania | On Site | May 22 |
 | **[AlphaSense](https://alpha-sense.com)** | **[Staff Software Engineer, Core Cloud Platform](https://jobr.pro/job/40894171/staff-software-engineer-core-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, New York, United States | On Site | May 22 |
 | **[AlphaSense](https://alpha-sense.com)** | **[Staff Software Engineer, Cloud Developer Experience](https://jobr.pro/job/40894170/staff-software-engineer-cloud-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, New York, United States | On Site | May 22 |
+| **[Garmin Cluj](https://www.garmin.com/ro-RO/careers/)** | **[Lead IT Network Engineer \| Infrastructure and Cloud Team](https://jobr.pro/job/40916052/lead-it-network-engineer-infrastructure-and-cloud-team?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | May 22 |
+| **[Northramp LLC](https://www.northramp.com)** | **[Senior Network Engineer (Cloud Developer)](https://jobr.pro/job/40915234/senior-network-engineer-cloud-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
+| **[Northramp LLC](https://www.northramp.com)** | **[Data Engineer (BigQuery / Cloud Data Platforms)](https://jobr.pro/job/40915226/data-engineer-bigquery-cloud-data-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
+| **[Northramp LLC](https://www.northramp.com)** | **[Cloud Systems Engineer (Automation / IaC)](https://jobr.pro/job/40915224/cloud-systems-engineer-automation-iac?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
+| **[Northramp LLC](https://www.northramp.com)** | **[Cloud Systems Engineer](https://jobr.pro/job/40915223/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
+| **[Northramp LLC](https://www.northramp.com)** | **[Cloud DevOps Engineer (App Dev Ops / Harness)](https://jobr.pro/job/40915221/cloud-devops-engineer-app-dev-ops-harness?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
 | **[Commify](https://www.commify.com/)** | **[Principal Cloud Engineer](https://jobr.pro/job/40909708/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nottingham, England, United Kingdom | On Site | May 22 |
 | **[Cepal Hellas Financial Services S.A.](https://cepal.gr/)** | **[Cloud Platform Engineer](https://jobr.pro/job/40906661/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Nea Smyrni, Attica, Greece | On Site | May 22 |
 | **[Infotel UK](https://infotel-consulting.co.uk/)** | **[Cloud Engineer](https://jobr.pro/job/40902941/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | May 22 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Planned Parenthood Los Angeles](https://www.plannedparenthood.org)** | **[Cloud Systems Engineer](https://jobr.pro/job/40874498/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Los Angeles | On Site | May 20 |
 | **[Blink Health](https://blinkhealth.com)** | **[Staff Cloud Engineer](https://jobr.pro/job/40872648/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 20 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - ZT Cloud, Commercial - West/Central](https://jobr.pro/job/40870005/senior-specialist-sales-engineer-zt-cloud-commercial-westcentral?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Illinois, USA; Remote - Minnesota, USA; Remote - Missouri, USA; Remote - Nevada, USA; Remote - Oregon, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA | Remote | May 20 |
-| **[Torc Robotics](https://torc.ai)** | **[Senior, Software Engineer - Cloud Automation](https://jobr.pro/job/40875619/senior-software-engineer-cloud-automation?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ann Arbor, MI, Remote - US | Remote | May 20 |
-| **[Brex](https://brex.com)** | **[Software Engineer II, Cloud Infrastructure](https://jobr.pro/job/40877278/software-engineer-ii-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, São Paulo, Brazil | On Site | May 20 |
-| **[Redis](https://redis.io/)** | **[Cloud Operations Automation Engineer](https://jobr.pro/job/40865218/cloud-operations-automation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | Remote | May 20 |
-| **[AlphaSense India]()** | **[Cloud Support Engineer](https://jobr.pro/job/40865419/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
-| **[AlphaSense](https://alpha-sense.com)** | **[Cloud Support Engineer](https://jobr.pro/job/40865855/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru | On Site | May 20 |
-| **[Goods & Services](https://goodsandservicesinc.com)** | **[Senior Cloud Engineer - Azure](https://jobr.pro/job/40865424/senior-cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico-Remote | Remote | May 19 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)** | **[Senior Software Engineer, Vehicle Access Cloud](https://jobr.pro/job/40856748/senior-software-engineer-vehicle-access-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Palo Alto, California | Remote | May 19 |
-| **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40857611/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 19 |
-| **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40857610/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 19 |
-| **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/40857609/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 19 |
-| **[LIGHTFEATHER IO LLC]()** | **[GCP Cloud Engineer](https://jobr.pro/job/40857608/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 19 |
-| **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/40857605/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 36 companies | Avg salary: 2.008462959232231e+74k  
+**Current Stats:** 50 jobs | 20% remote | 32 companies | Avg salary: 2.373638042729e+61k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
