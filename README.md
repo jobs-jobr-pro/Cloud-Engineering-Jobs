@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DoiT](https://doitbest.com)** | **[Senior Cloud Architect, Field Engineering (GenAI Focus) - Portugal](https://jobr.pro/job/40918945/senior-cloud-architect-field-engineering-genai-focus-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote EMEA | Remote | May 24 |
+| **[DoiT](https://doitbest.com)** | **[Copy of Senior Cloud Architect, Field Engineering (GenAI Focus) - Armenia](https://jobr.pro/job/40918939/copy-of-senior-cloud-architect-field-engineering-genai-focus-armenia?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote EMEA | Remote | May 24 |
+| **[DoiT](https://doitbest.com)** | **[Senior Cloud Architect, Field Engineering (GenAI Focus)](https://jobr.pro/job/40918942/senior-cloud-architect-field-engineering-genai-focus?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote Netherlands | Remote | May 24 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40914097/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
 | **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/40914095/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
 | **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/40914094/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | May 22 |
@@ -54,22 +57,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ivanti](https://ivanti.com)** | **[Senior Software Engineer \| Python \| GoLang \| Containerization \| Cloud](https://jobr.pro/job/40884344/senior-software-engineer-python-golang-containerization-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Americas | On Site | May 21 |
 | **[Dragos](https://dragos.com)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/40888231/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | May 21 |
 | **[Filigran](https://filigran.io)** | **[Senior Platform Engineer - Cloud Engineer](https://jobr.pro/job/40883841/senior-platform-engineer-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | France | Remote | May 21 |
+| **[Woven by Toyota](https://woven.toyota)** | **[Senior Cloud V&V Platform Engineer, AD/ADAS](https://jobr.pro/job/40921363/senior-cloud-vv-platform-engineer-adadas?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tokyo | On Site | May 21 |
 | **[Coupang](https://aboutcoupang.com)** | **[Senior Security Engineer (Cloud Infrastructure Security)](https://jobr.pro/job/40880581/senior-security-engineer-cloud-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | May 21 |
 | **[Coupang](https://aboutcoupang.com)** | **[Staff Security Engineer (Cloud Infrastructure Security)](https://jobr.pro/job/40878398/staff-security-engineer-cloud-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | May 21 |
 | **[ESG - USA](https://esgglobal.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/40893638/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Norwell, Massachusetts, United States | On Site | May 21 |
 | **[Realtime Robotics](http://rtr.ai)** | **[Senior Cloud Engineer](https://jobr.pro/job/40888057/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Boston, Massachusetts, United States | On Site | May 21 |
 | **[FP Markets](http://fpmarkets.com.au)** | **[Cloud Engineer](https://jobr.pro/job/40886576/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kazakhstan | Remote | May 21 |
-| **[Mindera](http://www.mindera.com)** | **[Experienced Cloud Engineer (AWS) - Morocco](https://jobr.pro/job/40884508/experienced-cloud-engineer-aws-morocco?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Casablanca, Casablanca-Settat, Morocco | Remote | May 21 |
-| **[Planned Parenthood Los Angeles](https://www.plannedparenthood.org)** | **[Cloud Systems Engineer](https://jobr.pro/job/40874498/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Los Angeles | On Site | May 20 |
-| **[Blink Health](https://blinkhealth.com)** | **[Staff Cloud Engineer](https://jobr.pro/job/40872648/staff-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | May 20 |
-| **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - ZT Cloud, Commercial - West/Central](https://jobr.pro/job/40870005/senior-specialist-sales-engineer-zt-cloud-commercial-westcentral?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Illinois, USA; Remote - Minnesota, USA; Remote - Missouri, USA; Remote - Nevada, USA; Remote - Oregon, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA | Remote | May 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 32 companies | Avg salary: 2.373638042729e+61k  
+**Current Stats:** 50 jobs | 20% remote | 30 companies | Avg salary: 2.901113163335444e+49k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, gcp, security  
+**Trending Skills:** azure, gcp, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
