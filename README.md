@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -29,6 +29,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thought Machine Group](http://www.thoughtmachine.net)** | **[Cloud Security Engineer](https://jobr.pro/job/40981433/cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Portugal, Lisbon | On Site | May 29 |
 | **[Analytic Services Inc](https://alloway.com)** | **[Cloud Engineer](https://jobr.pro/job/40978551/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | May 29 |
 | **[Temporal Technologies](https://temporal.io)** | **[Senior Software Engineer, Cloud Applications](https://jobr.pro/job/40976038/senior-software-engineer-cloud-applications?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States - Remote Opportunity | Remote | May 29 |
+| **[Hugging Face](https://huggingface.co)** | **[Cloud ML DevRel Engineer - US remote](https://jobr.pro/job/40992374/cloud-ml-devrel-engineer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New York, New York, United States | Remote | May 29 |
+| **[Hugging Face](https://huggingface.co)** | **[Cloud ML DevRel Engineer - EMEA remote](https://jobr.pro/job/40992373/cloud-ml-devrel-engineer-emea-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Paris, Île-de-France, France | Remote | May 29 |
 | **[Security Risk Advisors](https://sra.io)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/40988994/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Philadelphia, Pennsylvania, United States | On Site | May 29 |
 | **[DaCodes](https://dacodes.com)** | **[Senior Cloud Application Engineer (AWS) - Mexico Only - Intermediate English](https://jobr.pro/job/40987131/senior-cloud-application-engineer-aws-mexico-only-intermediate-english?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, Mexico | Remote | May 29 |
 | **[Credence](https://credenceresearch.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/40985827/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | McLean, Virginia, United States | On Site | May 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anduril Industries](https://www.anduril.com/)** | **[Cloud Infrastructure Engineer – Multinational Digital Infrastructure](https://jobr.pro/job/40947614/cloud-infrastructure-engineer-multinational-digital-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | May 27 |
 | **[Axonius](https://axonius.com)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/40947850/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv, Israel | On Site | May 27 |
 | **[Collibra](https://collibra.com)** | **[Senior Cloud Security Engineer](https://jobr.pro/job/40950805/senior-cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA | Remote | May 27 |
-| **[Egencia](https://egen.solutions)** | **[Lead Cloud Infrastructure Engineer](https://jobr.pro/job/40949473/lead-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad | On Site | May 27 |
-| **[The Copper River Family of Companies]()** | **[Senior Cloud Engineer](https://jobr.pro/job/40942497/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Arlington, Virginia, United States | On Site | May 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 1.8461559230781537e+72k  
+**Current Stats:** 50 jobs | 30% remote | 42 companies | Avg salary: 1.8461559230781537e+72k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
