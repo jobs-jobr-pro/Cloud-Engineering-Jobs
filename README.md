@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unison Group](http://www.unisongroup.ca)** | **[Cloud Infrastructure Engineer / DevOps Engineer](https://jobr.pro/job/41071090/cloud-infrastructure-engineer-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 08 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Cloud Agents](https://jobr.pro/job/41061775/software-engineer-cloud-agents?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | Remote | Jun 06 |
 | **[Life360](https://intl.life360.com)** | **[Senior Backend Engineer - AI Natives Devices Cloud](https://jobr.pro/job/41059782/senior-backend-engineer-ai-natives-devices-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA; Remote, Canada | Remote | Jun 05 |
 | **[SmithRx](https://smithrx.com/)** | **[Senior Cloud Engineer](https://jobr.pro/job/41061116/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jun 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Cloud Operations Engineer - Infrastructure](https://jobr.pro/job/41039939/cloud-operations-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Codex Cloud Apps](https://jobr.pro/job/41032893/software-engineer-codex-cloud-apps?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | On Site | Jun 03 |
 | **[Ombud](https://ombud.com)** | **[Principal Platform Engineer — Kubernetes & Cloud Infrastructure](https://jobr.pro/job/41055095/principal-platform-engineer-kubernetes-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Denver, CO | On Site | Jun 03 |
-| **[iCapital](https://7icapital.com/)** | **[Cloud Infrastructure Engineer - Vice President](https://jobr.pro/job/41031041/cloud-infrastructure-engineer-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Salt Lake City, Utah, United States | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 36 companies | Avg salary: 2.0263169289480255e+109k  
+**Current Stats:** 50 jobs | 34% remote | 36 companies | Avg salary: 2.13889009166736e+103k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, security  
