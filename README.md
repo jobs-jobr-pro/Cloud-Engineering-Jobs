@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hypori](https://www.hypori.com)** | **[Senior Software Engineer – Application & Cloud Security](https://jobr.pro/job/41076639/senior-software-engineer-application-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin - TX; Remote - US | Remote | Jun 08 |
+| **[Reltio](https://www.reltio.com/)** | **[Senior Cloud Security Engineer](https://jobr.pro/job/41076812/senior-cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Jun 08 |
+| **[OnBoard](https://carryonboard.com)** | **[Principal Cloud Engineer](https://jobr.pro/job/41074533/principal-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Jun 08 |
+| **[OnBoard](https://carryonboard.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41074534/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Jun 08 |
+| **[Cato Networks](https://catonetworks.com)** | **[Cloud Operations Engineer](https://jobr.pro/job/41073535/cloud-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tel Aviv District, Israel | On Site | Jun 08 |
+| **[Qode](http://qode.world)** | **[Lead Cloud Engineering and Production Operations Engineer](https://jobr.pro/job/41073686/lead-cloud-engineering-and-production-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | California, California, United States | On Site | Jun 08 |
 | **[Unison Group](http://www.unisongroup.ca)** | **[Cloud Infrastructure Engineer / DevOps Engineer](https://jobr.pro/job/41071090/cloud-infrastructure-engineer-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 08 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Cloud Agents](https://jobr.pro/job/41061775/software-engineer-cloud-agents?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | Remote | Jun 06 |
 | **[Life360](https://intl.life360.com)** | **[Senior Backend Engineer - AI Natives Devices Cloud](https://jobr.pro/job/41059782/senior-backend-engineer-ai-natives-devices-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA; Remote, Canada | Remote | Jun 05 |
@@ -57,19 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MORSE Corp](https://morsecorp.com)** | **[Cloud Engineer](https://jobr.pro/job/41038490/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Cambridge, MA | On Site | Jun 04 |
 | **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Senior Cloud Software Engineer - Infra Compute & Network](https://jobr.pro/job/41046887/senior-cloud-software-engineer-infra-compute-network?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
 | **[ProArch](http://www.proarch.com)** | **[Cloud and Infra Support Engineer- L1/L2](https://jobr.pro/job/41046328/cloud-and-infra-support-engineer-l1l2?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | Remote | Jun 04 |
-| **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Cloud Software Engineer - Database](https://jobr.pro/job/41042646/cloud-software-engineer-database?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
-| **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Senior Cloud Software Engineer - Database](https://jobr.pro/job/41039941/senior-cloud-software-engineer-database?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
-| **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Senior Cloud Operations Engineer - DBA](https://jobr.pro/job/41039940/senior-cloud-operations-engineer-dba?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
-| **[TP-Link Systems Inc.](https://www.tp-link.com/us/)** | **[Cloud Operations Engineer - Infrastructure](https://jobr.pro/job/41039939/cloud-operations-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States | On Site | Jun 04 |
-| **[OpenAI](https://openai.com/)** | **[Software Engineer, Codex Cloud Apps](https://jobr.pro/job/41032893/software-engineer-codex-cloud-apps?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | On Site | Jun 03 |
-| **[Ombud](https://ombud.com)** | **[Principal Platform Engineer — Kubernetes & Cloud Infrastructure](https://jobr.pro/job/41055095/principal-platform-engineer-kubernetes-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Denver, CO | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 36 companies | Avg salary: 2.13889009166736e+103k  
+**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 1.026316857896763e+109k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, gcp, kubernetes, security  
+**Trending Skills:** aws, azure, gcp, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
