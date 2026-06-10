@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[OKX](https://okx.com)** | **[Staff/Senior Staff Engineer, Public Cloud Operations](https://jobr.pro/job/41114644/staffsenior-staff-engineer-public-cloud-operations?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore | On Site | Jun 10 |
 | **[Juvare](https://juvare.com)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/41109988/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Melbourne, Australia | On Site | Jun 09 |
 | **[Temporal Technologies](https://temporal.io/)** | **[Senior Software Engineer, Cloud Identity](https://jobr.pro/job/41106001/senior-software-engineer-cloud-identity?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Jun 09 |
 | **[Baseten](https://www.baseten.co/)** | **[Engineering Manager, Cloud Platform](https://jobr.pro/job/41110071/engineering-manager-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | Remote | Jun 09 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/41058569/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 05 |
 | **[LIGHTFEATHER IO LLC]()** | **[GCP Cloud Engineer](https://jobr.pro/job/41058568/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 05 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior Azure Cloud Infrastructure Engineer - Cleared](https://jobr.pro/job/41058571/senior-azure-cloud-infrastructure-engineer-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 05 |
-| **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/41058562/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 41 companies | Avg salary: 1.823079461539487e+72k  
+**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 1.823079461539487e+72k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
