@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,9 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com/careers/)** | **[AWS Cloud Optimization Engineer (FinOps)](https://jobr.pro/job/41139013/aws-cloud-optimization-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Heredia, Heredia, Costa Rica | Remote | Jun 10 |
+| **[Sustainable Talent](https://sustainabletalent.com)** | **[QA Engineer – PC & Cloud Gaming](https://jobr.pro/job/41136673/qa-engineer-pc-cloud-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, WA | On Site | Jun 10 |
+| **[Box](https://www.box.com/home)** | **[Senior Engineering Manager, Cloud Ops](https://jobr.pro/job/41136661/senior-engineering-manager-cloud-ops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redwood City, CA, United States | On Site | Jun 10 |
+| **[540](https://540.co)** | **[Senior Cloud Engineer](https://jobr.pro/job/41135988/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Patrick SFB, FL or Arlington, VA | On Site | Jun 10 |
+| **[ClickHouse](https://clickhouse.com)** | **[Support Engineer - China (AliBaba Cloud Strategic Accounts) 支持工程师 - 中国（阿里云战略客户）](https://jobr.pro/job/41133246/support-engineer-china-alibaba-cloud-strategic-accounts-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mainland China (remote) | Remote | Jun 10 |
+| **[Prolific](https://www.prolificworks.com)** | **[Senior Cloud Platform Engineer](https://jobr.pro/job/41139064/senior-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, UK | Remote | Jun 10 |
 | **[Roblox](https://roblox.com)** | **[Senior Cloud Security Engineer](https://jobr.pro/job/41133064/senior-cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Mateo, CA, United States | On Site | Jun 10 |
+| **[Tines](https://tine.no)** | **[Senior Software Engineer - Government Cloud](https://jobr.pro/job/41134002/senior-software-engineer-government-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States (Remote) | Remote | Jun 10 |
 | **[Included Health](https://includedhealth.com/)** | **[Staff Software Engineer, Cloud Security](https://jobr.pro/job/41132287/staff-software-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jun 10 |
 | **[Anthropic](https://anthropics.com)** | **[Engineering Manager, Cloud Safety](https://jobr.pro/job/41133216/engineering-manager-cloud-safety?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA \| Seattle, WA | On Site | Jun 10 |
+| **[Unitek Learning](https://www.uniteklearning.com/integrated-partners/)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41135865/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tempe, AZ, United States | Remote | Jun 10 |
 | **[Box](https://www.box.com/home)** | **[Senior Software Engineer, Cloud Service Engineering](https://jobr.pro/job/41133164/senior-software-engineer-cloud-service-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Poland | On Site | Jun 10 |
 | **[Box](https://www.box.com/home)** | **[Software Engineer III, Cloud Service Engineering](https://jobr.pro/job/41133165/software-engineer-iii-cloud-service-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Poland | On Site | Jun 10 |
 | **[Fullscript](https://fullscript.com)** | **[Cloud Security Engineer](https://jobr.pro/job/41132153/cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ottawa, ON | Remote | Jun 10 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Standard Bank Group](https://standardbank.com)** | **[Senior Engineer, Cloud, AWS](https://jobr.pro/job/41088832/senior-engineer-cloud-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Johannesburg , , South Africa | Remote | Jun 09 |
 | **[Coupang Internal]()** | **[Sr. Staff Observability Engineer (GPU Cloud & Telemetry Platform)](https://jobr.pro/job/41082044/sr-staff-observability-engineer-gpu-cloud-telemetry-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | Jun 09 |
 | **[Coupang](https://aboutcoupang.com)** | **[Sr. Staff Observability Engineer (GPU Cloud & Telemetry Platform)](https://jobr.pro/job/41081767/sr-staff-observability-engineer-gpu-cloud-telemetry-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, South Korea | On Site | Jun 09 |
-| **[Sopra Steria](https://www.soprasteria.com/)** | **[Cloud Native Engineer](https://jobr.pro/job/41083279/cloud-native-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oslo, Oslo, Norway | Remote | Jun 09 |
-| **[ChargePoint](https://chargepoint.com)** | **[Staff Cloud Infrastructure Engineer](https://jobr.pro/job/41081573/staff-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | 418-419, Udyog Vihar, Phase – 4, Gurgaon, Haryana, 122015, India | On Site | Jun 09 |
-| **[Agoda](https://agoda.com)** | **[Collaboration Tools and Cloud Solutions Engineer](https://jobr.pro/job/41080328/collaboration-tools-and-cloud-solutions-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bangkok, Thailand | On Site | Jun 09 |
-| **[Keylane](https://careers.keylane.com/)** | **[Senior Network Engineer (Private & Public Cloud)](https://jobr.pro/job/41118192/senior-network-engineer-private-public-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, Utrecht, Netherlands | On Site | Jun 09 |
-| **[DeepSource Technologies](http://www.deepsource.com)** | **[Cloud Infrastructure Automation Engineer - Riyadh, KSA](https://jobr.pro/job/41110517/cloud-infrastructure-automation-engineer-riyadh-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Islamabad, Islamabad Capital Territory, Pakistan | On Site | Jun 09 |
-| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Full Stack Engineer (SharePoint / .NET / Cloud Migration) - A26189](https://jobr.pro/job/41106501/full-stack-engineer-sharepoint-net-cloud-migration-a26189?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 09 |
-| **[Mindera](http://www.mindera.com)** | **[Experienced Cloud Engineer (AWS)](https://jobr.pro/job/41104404/experienced-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Morocco | Remote | Jun 09 |
-| **[Hypori](https://www.hypori.com)** | **[Senior Software Engineer – Application & Cloud Security](https://jobr.pro/job/41076639/senior-software-engineer-application-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin - TX; Remote - US | Remote | Jun 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 38 companies | Avg salary: 2.2430860008290416e+66k  
+**Current Stats:** 50 jobs | 40% remote | 37 companies | Avg salary: 2.4307713013093843e+72k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
