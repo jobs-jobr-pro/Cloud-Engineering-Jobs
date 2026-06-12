@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com)** | **[Cloud Engineer](https://jobr.pro/job/41168719/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, , India | On Site | Jun 12 |
 | **[Sutherland](https://www.sutherlandglobal.com/)** | **[Cloud Support Engineer](https://jobr.pro/job/41161903/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bogotá, Bogota, Colombia | On Site | Jun 12 |
+| **[AssetWatch, Inc.](http://www.recipero.com/assetwatch)** | **[Cloud Engineering Support Manager](https://jobr.pro/job/41166403/cloud-engineering-support-manager?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jun 11 |
 | **[Life360](https://lifedaily.com)** | **[Software Engineer II AI-Native, Backend Devices Cloud](https://jobr.pro/job/41160594/software-engineer-ii-ai-native-backend-devices-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, USA; Remote, Canada | Remote | Jun 11 |
 | **[Delinea Inc.](https://delinea.com)** | **[Manager, Shared Services — Cloud Engineering - FedRAMP](https://jobr.pro/job/41159541/manager-shared-services-cloud-engineering-fedramp?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | U.S. Remote | Remote | Jun 11 |
 | **[Hypori](https://www.hypori.com)** | **[Senior Software Engineer – Application & Cloud Security (Remote)](https://jobr.pro/job/41163667/senior-software-engineer-application-cloud-security-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin - TX | Remote | Jun 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anthropic](https://anthropics.com)** | **[Engineering Manager, Cloud Safety](https://jobr.pro/job/41133216/engineering-manager-cloud-safety?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA \| Seattle, WA | On Site | Jun 10 |
 | **[Unitek Learning](https://www.uniteklearning.com/integrated-partners/)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41135865/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Tempe, AZ, United States | Remote | Jun 10 |
 | **[Box](https://www.box.com/home)** | **[Senior Software Engineer, Cloud Service Engineering](https://jobr.pro/job/41133164/senior-software-engineer-cloud-service-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Poland | On Site | Jun 10 |
-| **[Box](https://www.box.com/home)** | **[Software Engineer III, Cloud Service Engineering](https://jobr.pro/job/41133165/software-engineer-iii-cloud-service-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Poland | On Site | Jun 10 |
-| **[Fullscript](https://fullscript.com)** | **[Cloud Security Engineer](https://jobr.pro/job/41132153/cloud-security-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ottawa, ON | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 8.972233055566222e+101k  
+**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 9.500011470599531e+95k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, security  
