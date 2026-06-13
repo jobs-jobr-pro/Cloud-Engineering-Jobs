@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Resultant](https://resultant.com)** | **[GCP Cloud Engineer - Management and Operations (Remote in US)](https://jobr.pro/job/41177141/gcp-cloud-engineer-management-and-operations-remote-in-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Indianapolis, IN, United States | Remote | Jun 12 |
+| **[Endava](https://www.endava.com)** | **[Senior Backend Engineer (Java \| Kafka \| Cloud)](https://jobr.pro/job/41178221/senior-backend-engineer-java-kafka-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, São Paulo, Brazil | Remote | Jun 12 |
+| **[Orion Innovation](https://www.orioninnovation.com)** | **[Cloud / SaaS back-end Service Engineer](https://jobr.pro/job/41180092/cloud-saas-back-end-service-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US | On Site | Jun 12 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41173049/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sheffield, , United Kingdom | Remote | Jun 12 |
+| **[N-iX](http://nixbiosensors.com)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41175881/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Poland | On Site | Jun 12 |
 | **[Bosch Group](https://www.bosch.com)** | **[Tech Lead Software Engineering for Cloud-based Industrial AI and Software Applications (f/m/div.)](https://jobr.pro/job/41170345/tech-lead-software-engineering-for-cloud-based-industrial-ai-and-software-applications-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Renningen, BW, Germany | Remote | Jun 12 |
 | **[UMB AG](http://www.umb.ch)** | **[Cloud Engineer](https://jobr.pro/job/41171171/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Alle, , Switzerland | On Site | Jun 12 |
 | **[Axel Springer News Media National](https://www.axelspringer.com)** | **[AWS Cloud Engineer (m/f/d)](https://jobr.pro/job/41170300/aws-cloud-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin, BE, Germany | On Site | Jun 12 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sustainable Talent](https://sustainabletalent.com)** | **[QA Engineer – PC & Cloud Gaming](https://jobr.pro/job/41136673/qa-engineer-pc-cloud-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, WA | On Site | Jun 10 |
 | **[Synergy ECP](https://synergyecp.com)** | **[Senior Systems Engineer- Linux Cloud Platforms](https://jobr.pro/job/41141513/senior-systems-engineer-linux-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sterling, VA | On Site | Jun 10 |
 | **[Box](https://www.box.com/home)** | **[Senior Engineering Manager, Cloud Ops](https://jobr.pro/job/41136661/senior-engineering-manager-cloud-ops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redwood City, CA, United States | On Site | Jun 10 |
-| **[540](https://540.co)** | **[Senior Cloud Engineer](https://jobr.pro/job/41135988/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Patrick SFB, FL or Arlington, VA | On Site | Jun 10 |
-| **[ClickHouse](https://clickhouse.com)** | **[Support Engineer - China (AliBaba Cloud Strategic Accounts) 支持工程师 - 中国（阿里云战略客户）](https://jobr.pro/job/41133246/support-engineer-china-alibaba-cloud-strategic-accounts-?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mainland China (remote) | Remote | Jun 10 |
-| **[Kunai](https://kuna.io)** | **[Senior Cloud Engineer](https://jobr.pro/job/41139930/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | Jun 10 |
-| **[OfferUp](https://offerup.com)** | **[Senior Cloud Engineer (Hybrid @ Bellevue, WA or Remote @ Florida)](https://jobr.pro/job/41153026/senior-cloud-engineer-hybrid-bellevue-wa-or-remote-florida?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bellevue, WA or Remote Florida | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 42 companies | Avg salary: 5.357154392871072e+77k  
+**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 5.769243192322693e+71k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, security  
+**Trending Skills:** aws, azure, gcp, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
