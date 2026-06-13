@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Gramian Consulting Group](https://gramianconsulting.com)** | **[Senior Software Engineer (Cloud Platform & Java) - REMOTE](https://jobr.pro/job/41185961/senior-software-engineer-cloud-platform-java-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | France | Remote | Jun 13 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41180754/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
 | **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41180751/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
 | **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/41180750/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com/global/en/careers/)** | **[Software Engineer (Java, Spring API, Cloud, AI)](https://jobr.pro/job/41145334/software-engineer-java-spring-api-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, India | On Site | Jun 11 |
 | **[Skylo Technologies](https://skylo.tech)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/41142941/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | Remote | Jun 11 |
 | **[Keylane](https://careers.keylane.com/)** | **[Senior VMware / Cloud Infrastructure Engineer](https://jobr.pro/job/41152963/senior-vmware-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, Utrecht, Netherlands | On Site | Jun 11 |
-| **[Diversified Services Network, Inc.](https://dsnworldwide.com)** | **[Lead Java Backend Engineer - AWS Cloud](https://jobr.pro/job/41150439/lead-java-backend-engineer-aws-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, Illinois, United States | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 1.115391538519231e+70k  
+**Current Stats:** 50 jobs | 36% remote | 38 companies | Avg salary: 1.115391538519231e+70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
