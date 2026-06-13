@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41180754/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41180751/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[Google Cloud Platform Engineer](https://jobr.pro/job/41180750/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[GCP Cloud Engineer](https://jobr.pro/job/41180749/gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior Azure Cloud Infrastructure Engineer - Cleared](https://jobr.pro/job/41180753/senior-azure-cloud-infrastructure-engineer-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/41180752/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[LIGHTFEATHER IO LLC]()** | **[Azure Cloud Engineer](https://jobr.pro/job/41180744/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
+| **[Agile IT](https://agileit.com)** | **[Cloud Systems Engineer](https://jobr.pro/job/41181375/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Diego, CA, United States | On Site | Jun 12 |
+| **[Smile Digital Health](https://smiledigitalhealth.com)** | **[Cloud Engineer (Remote Canada)](https://jobr.pro/job/41180665/cloud-engineer-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, Canada | Remote | Jun 12 |
 | **[Resultant](https://resultant.com)** | **[GCP Cloud Engineer - Management and Operations (Remote in US)](https://jobr.pro/job/41177141/gcp-cloud-engineer-management-and-operations-remote-in-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Indianapolis, IN, United States | Remote | Jun 12 |
 | **[Endava](https://www.endava.com)** | **[Senior Backend Engineer (Java \| Kafka \| Cloud)](https://jobr.pro/job/41178221/senior-backend-engineer-java-kafka-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, São Paulo, Brazil | Remote | Jun 12 |
 | **[Orion Innovation](https://www.orioninnovation.com)** | **[Cloud / SaaS back-end Service Engineer](https://jobr.pro/job/41180092/cloud-saas-back-end-service-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US | On Site | Jun 12 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Keylane](https://careers.keylane.com/)** | **[Senior VMware / Cloud Infrastructure Engineer](https://jobr.pro/job/41152963/senior-vmware-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, Utrecht, Netherlands | On Site | Jun 11 |
 | **[Diversified Services Network, Inc.](https://dsnworldwide.com)** | **[Lead Java Backend Engineer - AWS Cloud](https://jobr.pro/job/41150439/lead-java-backend-engineer-aws-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, Illinois, United States | On Site | Jun 11 |
 | **[Weekday AI](https://www.weekday.works)** | **[cloud network operation engineer](https://jobr.pro/job/41149402/cloud-network-operation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 11 |
-| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior Full Stack Engineer (Azure Cloud, DevOps & Security) - A26191](https://jobr.pro/job/41147291/senior-full-stack-engineer-azure-cloud-devops-security-a26191?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 11 |
-| **[Fuku](https://eatfuku.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41147175/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 11 |
-| **[Experian](https://www.experian.com/careers/)** | **[AWS Cloud Optimization Engineer (FinOps)](https://jobr.pro/job/41139013/aws-cloud-optimization-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Heredia, Heredia, Costa Rica | Remote | Jun 10 |
-| **[Metropolis](https://comicconnect.com)** | **[Senior Central Cloud Infrastructure Engineer](https://jobr.pro/job/41139865/senior-central-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Los Angeles, California, United States | On Site | Jun 10 |
-| **[Simplesense](https://simplesense.io)** | **[Senior Cloud Operations Engineer](https://jobr.pro/job/41139934/senior-cloud-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Denver, CO (Hybrid) | On Site | Jun 10 |
-| **[Synergy ECP](https://synergyecp.com)** | **[SME Systems Engineer- API Gateway & Cloud Architecture](https://jobr.pro/job/41141514/sme-systems-engineer-api-gateway-cloud-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sterling, VA | On Site | Jun 10 |
-| **[Sustainable Talent](https://sustainabletalent.com)** | **[QA Engineer – PC & Cloud Gaming](https://jobr.pro/job/41136673/qa-engineer-pc-cloud-gaming?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, WA | On Site | Jun 10 |
-| **[Synergy ECP](https://synergyecp.com)** | **[Senior Systems Engineer- Linux Cloud Platforms](https://jobr.pro/job/41141513/senior-systems-engineer-linux-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sterling, VA | On Site | Jun 10 |
-| **[Box](https://www.box.com/home)** | **[Senior Engineering Manager, Cloud Ops](https://jobr.pro/job/41136661/senior-engineering-manager-cloud-ops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redwood City, CA, United States | On Site | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 5.769243192322693e+71k  
+**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 1.2083395833467916e+65k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
