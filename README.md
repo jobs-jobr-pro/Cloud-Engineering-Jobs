@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Resultant](https://resultant.com)** | **[GCP Cloud Engineer - Management and Operations (Remote in US)](https://jobr.pro/job/41177141/gcp-cloud-engineer-management-and-operations-remote-in-us?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Indianapolis, IN, United States | Remote | Jun 12 |
 | **[Endava](https://www.endava.com)** | **[Senior Backend Engineer (Java \| Kafka \| Cloud)](https://jobr.pro/job/41178221/senior-backend-engineer-java-kafka-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | São Paulo, São Paulo, Brazil | Remote | Jun 12 |
 | **[Orion Innovation](https://www.orioninnovation.com)** | **[Cloud / SaaS back-end Service Engineer](https://jobr.pro/job/41180092/cloud-saas-back-end-service-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US | On Site | Jun 12 |
+| **[naiian](https://naiian.com)** | **[Founding Senior Cloud / Infrastructure Engineer](https://jobr.pro/job/41184763/founding-senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid | On Site | Jun 12 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41173049/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sheffield, , United Kingdom | Remote | Jun 12 |
 | **[N-iX](http://nixbiosensors.com)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41175881/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Poland | On Site | Jun 12 |
 | **[Bosch Group](https://www.bosch.com)** | **[Tech Lead Software Engineering for Cloud-based Industrial AI and Software Applications (f/m/div.)](https://jobr.pro/job/41170345/tech-lead-software-engineering-for-cloud-based-industrial-ai-and-software-applications-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Renningen, BW, Germany | Remote | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Skylo Technologies](https://skylo.tech)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/41142941/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | Remote | Jun 11 |
 | **[Keylane](https://careers.keylane.com/)** | **[Senior VMware / Cloud Infrastructure Engineer](https://jobr.pro/job/41152963/senior-vmware-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, Utrecht, Netherlands | On Site | Jun 11 |
 | **[Diversified Services Network, Inc.](https://dsnworldwide.com)** | **[Lead Java Backend Engineer - AWS Cloud](https://jobr.pro/job/41150439/lead-java-backend-engineer-aws-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, Illinois, United States | On Site | Jun 11 |
-| **[Weekday AI](https://www.weekday.works)** | **[cloud network operation engineer](https://jobr.pro/job/41149402/cloud-network-operation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 1.2083395833467916e+65k  
+**Current Stats:** 50 jobs | 34% remote | 38 companies | Avg salary: 1.115391538519231e+70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
