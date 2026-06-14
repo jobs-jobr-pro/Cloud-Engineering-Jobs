@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Payoneer](https://www.payoneer.com)** | **[Senior Backend Engineer-Cloud Modernization](https://jobr.pro/job/41189967/senior-backend-engineer-cloud-modernization?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Herzliya, Tel Aviv District, Israel | On Site | Jun 14 |
 | **[Gramian Consulting Group](https://gramianconsulting.com)** | **[Senior Software Engineer (Cloud Platform & Java) - REMOTE](https://jobr.pro/job/41185961/senior-software-engineer-cloud-platform-java-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | France | Remote | Jun 13 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41180754/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
 | **[LIGHTFEATHER IO LLC]()** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41180751/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com/global/en/careers/)** | **[Software Engineer 4+ yrs (Must have- Java, Spring, Springboot, REST API, Azure cloud, AI Agents)](https://jobr.pro/job/41147082/software-engineer-4-yrs-must-have-java-spring-springboot-rest-api-azure-cloud-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, India | Remote | Jun 11 |
 | **[NielsenIQ](https://nielseniq.com/global/en/careers/)** | **[Software Engineer (Java, Spring API, Cloud, AI)](https://jobr.pro/job/41145334/software-engineer-java-spring-api-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pune, MH, India | On Site | Jun 11 |
 | **[Skylo Technologies](https://skylo.tech)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/41142941/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mountain View, CA | Remote | Jun 11 |
-| **[Keylane](https://careers.keylane.com/)** | **[Senior VMware / Cloud Infrastructure Engineer](https://jobr.pro/job/41152963/senior-vmware-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Utrecht, Utrecht, Netherlands | On Site | Jun 11 |
 
 ---
 
