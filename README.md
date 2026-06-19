@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Supercell](http://www.supercell.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41280766/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Helsinki | On Site | Jun 19 |
+| **[ABOUT YOU SE & Co. KG](https://www.aboutyou.de)** | **[Staff/Senior Platform Engineer - Cloud Platform (all genders)](https://jobr.pro/job/41280451/staffsenior-platform-engineer-cloud-platform-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, HH, Germany | On Site | Jun 19 |
+| **[Smiths Group](https://www.smiths.com)** | **[Cloud Engineer](https://jobr.pro/job/41279491/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Jun 19 |
+| **[Kepora](https://www.kepora.com)** | **[Multi-Cloud Engineer](https://jobr.pro/job/41281621/multi-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FANX III | On Site | Jun 19 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41272934/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41272931/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Google Cloud Platform Engineer](https://jobr.pro/job/41272930/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
@@ -34,7 +38,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BarmeniaGothaer AG](https://www.barmeniagothaer.de)** | **[Cloud Platform Engineer](https://jobr.pro/job/41258719/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Köln, , Germany | Remote | Jun 18 |
 | **[Standard Bank Group](https://standardbank.com)** | **[Engineer, Cloud Security AWS](https://jobr.pro/job/41258847/engineer-cloud-security-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Johannesburg, GP, South Africa | Remote | Jun 18 |
 | **[IFS](https://ifsm.ir)** | **[Cloud FinOps Engineer (IGT1)](https://jobr.pro/job/41251715/cloud-finops-engineer-igt1?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 18 |
-| **[Kepora](https://www.kepora.com)** | **[Cloud Engineer / Full Stack Developer](https://jobr.pro/job/41254290/cloud-engineer-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Herndon | On Site | Jun 18 |
 | **[Intellectsoft](https://intellectsoft.net)** | **[Senior .NET Cloud Software Engineer (IR-529)](https://jobr.pro/job/41262956/senior-net-cloud-software-engineer-ir-529?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Romania | Remote | Jun 18 |
 | **[Weekday AI](https://www.weekday.works)** | **[Cloud Engineer](https://jobr.pro/job/41260025/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Jun 18 |
 | **[Beacon AI](https://beaconai.co)** | **[Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://jobr.pro/job/41249154/software-engineer-cloud-infrastructure-multiple-seniority-levels?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Carlos - Hybrid | On Site | Jun 17 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WPP](https://www.wpp.com)** | **[Cloud Engineering Lead](https://jobr.pro/job/41235418/cloud-engineering-lead?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chennai | On Site | Jun 17 |
 | **[Unit4](https://www.unit4.com)** | **[Cloud Operations Engineer](https://jobr.pro/job/41233228/cloud-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Granada, AN, Spain | Remote | Jun 17 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Senior Microsoft Cloud Engineer](https://jobr.pro/job/41234063/senior-microsoft-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | All | Remote | Jun 17 |
-| **[AHEAD](https://aheadofthyme.com)** | **[Senior Cloud Engineer– Database](https://jobr.pro/job/41234049/senior-cloud-engineer-database?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Gurugram, Haryana | Remote | Jun 17 |
-| **[MicroStrategy](https://www.strategy.com)** | **[Cloud Support Engineer with English and German](https://jobr.pro/job/41232074/cloud-support-engineer-with-english-and-german?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, , Poland | On Site | Jun 17 |
-| **[Experian](https://www.experian.com)** | **[Lead Software Engineer (Cloud Native \| Microservices \| AWS)](https://jobr.pro/job/41231191/lead-software-engineer-cloud-native-microservices-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, , India | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 38 companies | Avg salary: 2.730771230770585e+72k  
+**Current Stats:** 50 jobs | 28% remote | 39 companies | Avg salary: 2.9583355000014668e+66k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
