@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://encora.es)** | **[Senior Multi-Cloud DevOps Engineer](https://jobr.pro/job/41294784/senior-multi-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil | On Site | Jun 19 |
 | **[IFS](https://ifsp.edu.br)** | **[Cloud Engineer I - Softeon](https://jobr.pro/job/41286386/cloud-engineer-i-softeon?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, Virginia, United States | On Site | Jun 19 |
 | **[Centria Autism](https://centriahealthcare.com)** | **[Senior Director of Cloud Engineering](https://jobr.pro/job/41286607/senior-director-of-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Farmington Hills, Michigan, United States | On Site | Jun 19 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[Cloud Support Engineer](https://jobr.pro/job/41285203/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bogotá, Bogota, Colombia | Remote | Jun 19 |
@@ -23,6 +24,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ABOUT YOU SE & Co. KG](https://www.aboutyou.de)** | **[Staff/Senior Platform Engineer - Cloud Platform (all genders)](https://jobr.pro/job/41280451/staffsenior-platform-engineer-cloud-platform-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, HH, Germany | On Site | Jun 19 |
 | **[Smiths Group](https://www.smiths.com)** | **[Cloud Engineer](https://jobr.pro/job/41279491/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Jun 19 |
 | **[Kepora](https://www.kepora.com)** | **[Multi-Cloud Engineer](https://jobr.pro/job/41281621/multi-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | FANX III | On Site | Jun 19 |
+| **[Gramian Consulting Group](https://gramianconsulting.com)** | **[Cloud Platform Engineer (Kubernetes / Azure / DevOps) - ONSITE Laussane](https://jobr.pro/job/41294627/cloud-platform-engineer-kubernetes-azure-devops-onsite-laussane?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bern, Canton of Bern, Switzerland | On Site | Jun 19 |
+| **[UBDS Group](https://ubdsgroup.com)** | **[Senior Cloud Engineer - Azure AI](https://jobr.pro/job/41293801/senior-cloud-engineer-azure-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Manchester, England, United Kingdom | On Site | Jun 19 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41272934/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41272931/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Google Cloud Platform Engineer](https://jobr.pro/job/41272930/google-cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 18 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kraken](https://www.kraken.com)** | **[Security Engineering Lead - Cloud and Resilience](https://jobr.pro/job/41241333/security-engineering-lead-cloud-and-resilience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | On Site | Jun 17 |
 | **[FeverUp](https://feverup.com)** | **[Senior Infrastructure & Cloud Engineer](https://jobr.pro/job/41242902/senior-infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain | On Site | Jun 17 |
 | **[Mesh](https://fritz.com)** | **[Senior Engineering Manager, Cloud Infrastructure](https://jobr.pro/job/41252505/senior-engineering-manager-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | On Site | Jun 17 |
-| **[Skyward IT Solutions, LLC](https://skywarditsolutions.com)** | **[Cloud Engineer](https://jobr.pro/job/41247842/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Rockville, MD | On Site | Jun 17 |
-| **[SteerBridge](https://www.steerbridge.com)** | **[Cloud Engineer](https://jobr.pro/job/41245817/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Vienna, VA | On Site | Jun 17 |
-| **[Experian](https://www.experian.com)** | **[Senior Data Engineer (Analytics & Cloud)](https://jobr.pro/job/41238192/senior-data-engineer-analytics-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sofia, , Bulgaria | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 7.307709230796538e+72k  
+**Current Stats:** 50 jobs | 24% remote | 37 companies | Avg salary: 8.636383636395909e+60k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, gcp, security  
+**Trending Skills:** aws, azure, gcp, kubernetes, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
