@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NICE](https://www.nicenicedental.com)** | **[Specialist Cloud Database Engineer](https://jobr.pro/job/41309995/specialist-cloud-database-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Pune | On Site | Jun 21 |
+| **[DeepSource Technologies](https://deepsource.ai)** | **[Senior Infrastructure & Multi-Cloud Automation / IaC Engineer - Riyadh, KSA](https://jobr.pro/job/41310501/senior-infrastructure-multi-cloud-automation-iac-engineer-riyadh-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New Delhi, Delhi, India | On Site | Jun 21 |
 | **[Encora](https://encora.es)** | **[Senior Multi-Cloud DevOps Engineer](https://jobr.pro/job/41294784/senior-multi-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil | On Site | Jun 19 |
 | **[IFS](https://ifsp.edu.br)** | **[Cloud Engineer I - Softeon](https://jobr.pro/job/41286386/cloud-engineer-i-softeon?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, Virginia, United States | On Site | Jun 19 |
 | **[Centria Autism](https://centriahealthcare.com)** | **[Senior Director of Cloud Engineering](https://jobr.pro/job/41286607/senior-director-of-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Farmington Hills, Michigan, United States | On Site | Jun 19 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ASSYST, Inc.](https://www.assyst.net)** | **[Cloud Vulnerability Remediation Engineer](https://jobr.pro/job/41244167/cloud-vulnerability-remediation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Jun 17 |
 | **[Poshmark](https://poshmark.com)** | **[Sr. Software Engineer, Cloud Platform](https://jobr.pro/job/41248972/sr-software-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US California (Redwood City) - Office | Remote | Jun 17 |
 | **[Kraken](https://www.kraken.com)** | **[Security Engineering Lead - Cloud and Resilience](https://jobr.pro/job/41241333/security-engineering-lead-cloud-and-resilience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | On Site | Jun 17 |
-| **[FeverUp](https://feverup.com)** | **[Senior Infrastructure & Cloud Engineer](https://jobr.pro/job/41242902/senior-infrastructure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain | On Site | Jun 17 |
-| **[Mesh](https://fritz.com)** | **[Senior Engineering Manager, Cloud Infrastructure](https://jobr.pro/job/41252505/senior-engineering-manager-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco | On Site | Jun 17 |
 
 ---
 
