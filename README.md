@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[DevOps Engineer – Cloud & Platform Engineering (f/m/div.)](https://jobr.pro/job/41315522/devops-engineer-cloud-platform-engineering-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Aveiro, , Portugal | Remote | Jun 22 |
+| **[Babble Cloud](https://babble.cloud)** | **[Cloud Services Engineer](https://jobr.pro/job/41314787/cloud-services-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pristina, Pristina, Kosovo | On Site | Jun 22 |
+| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[M365 Cloud Engineer](https://jobr.pro/job/41314647/m365-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bristol, United Kingdom, United Kingdom | On Site | Jun 22 |
+| **[Encora](https://encora.com)** | **[Cloud Engineer (AWS & OCI)](https://jobr.pro/job/41313356/cloud-engineer-aws-oci?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur | On Site | Jun 22 |
+| **[KNOREX](https://knorex.com)** | **[Security Engineer (Systems & Cloud)](https://jobr.pro/job/41313090/security-engineer-systems-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh, Vietnam | On Site | Jun 22 |
+| **[Fuku](https://fukuhouse.co.uk)** | **[Cloud Network Engineer & Cloud Infrastructure Engineer](https://jobr.pro/job/41312614/cloud-network-engineer-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Jun 22 |
 | **[NICE](https://www.nicenicedental.com)** | **[Specialist Cloud Database Engineer](https://jobr.pro/job/41309995/specialist-cloud-database-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Pune | On Site | Jun 21 |
 | **[DeepSource Technologies](https://deepsource.ai)** | **[Senior Infrastructure & Multi-Cloud Automation / IaC Engineer - Riyadh, KSA](https://jobr.pro/job/41310501/senior-infrastructure-multi-cloud-automation-iac-engineer-riyadh-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New Delhi, Delhi, India | On Site | Jun 21 |
 | **[Encora](https://encora.es)** | **[Senior Multi-Cloud DevOps Engineer](https://jobr.pro/job/41294784/senior-multi-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil | On Site | Jun 19 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Innovid](https://innovid.com)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41251957/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Buenos Aires | On Site | Jun 17 |
 | **[Blueprint Technologies](https://bpcs.com)** | **[Service Engineer - Cloud Infrastructure](https://jobr.pro/job/41244059/service-engineer-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Redmond, WA | On Site | Jun 17 |
 | **[Itero Group](https://www.iterogroup.com)** | **[Sr. Cloud Engineer](https://jobr.pro/job/41249477/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote | Remote | Jun 17 |
-| **[CHAOS Industries](https://chaosindustries.com.mx)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/41244101/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 17 |
-| **[CHAOS Industries](https://chaosindustries.com.mx)** | **[Cloud DevSecOps Engineer](https://jobr.pro/job/41244100/cloud-devsecops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 17 |
-| **[CHAOS Industries](https://chaosindustries.com.mx)** | **[Cloud Cybersecurity Engineer](https://jobr.pro/job/41244099/cloud-cybersecurity-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 17 |
-| **[ASSYST, Inc.](https://www.assyst.net)** | **[Cloud Vulnerability Remediation Engineer](https://jobr.pro/job/41244167/cloud-vulnerability-remediation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Austin, TX | On Site | Jun 17 |
-| **[Poshmark](https://poshmark.com)** | **[Sr. Software Engineer, Cloud Platform](https://jobr.pro/job/41248972/sr-software-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US California (Redwood City) - Office | Remote | Jun 17 |
-| **[Kraken](https://www.kraken.com)** | **[Security Engineering Lead - Cloud and Resilience](https://jobr.pro/job/41241333/security-engineering-lead-cloud-and-resilience?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | London | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 37 companies | Avg salary: 8.636383636395909e+60k  
+**Current Stats:** 50 jobs | 24% remote | 38 companies | Avg salary: 1.3571460000050715e+37k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, kubernetes, security  
