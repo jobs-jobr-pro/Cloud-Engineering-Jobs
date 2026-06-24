@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,17 +13,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[DevSecOps Engineer Cloud Native](https://jobr.pro/job/41356279/devsecops-engineer-cloud-native?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | Remote | Jun 24 |
+| **[Western Digital](https://www.westerndigital.com)** | **[Principal Engineer, Cloud Storage Architect](https://jobr.pro/job/41353502/principal-engineer-cloud-storage-architect?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Shanghai, Shanghai, China | On Site | Jun 24 |
+| **[Tenable, Inc.](https://www.tenable.com)** | **[Senior Software Engineer – Low-Latency, Async & Systems Programming \| Cloud Security](https://jobr.pro/job/41354750/senior-software-engineer-low-latency-async-systems-programming-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | Remote | Jun 23 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - ZT Cloud, Enterprise - East](https://jobr.pro/job/41350809/principal-specialist-sales-engineer-zt-cloud-enterprise-east?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - Connecticut, USA; Remote - D.C., USA; Remote - Maryland, USA; Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Pennsylvania, USA; Remote - Virginia, USA | Remote | Jun 23 |
+| **[Crusoe](https://crusoe.ai)** | **[Senior Cloud Support Engineer](https://jobr.pro/job/41355964/senior-cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Dallas, TX - US | On Site | Jun 23 |
 | **[Arc'teryx Equipment](https://arcteryx.com)** | **[Manager, Software Engineering (Service Cloud)](https://jobr.pro/job/41349937/manager-software-engineering-service-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | North Vancouver, BC (Corporate) | On Site | Jun 23 |
 | **[Smiths Group](https://www.smiths.com)** | **[Cloud Engineer](https://jobr.pro/job/41345145/cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bengaluru, KA, India | On Site | Jun 23 |
+| **[Phamily](https://phamily.com)** | **[Software Engineer (Healthcare Cloud & Interoperability)](https://jobr.pro/job/41356391/software-engineer-healthcare-cloud-interoperability?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | new york, new york | On Site | Jun 23 |
 | **[Flatiron Health](https://flatiron.com)** | **[Cloud Network Engineer](https://jobr.pro/job/41349095/cloud-network-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Berlin office | On Site | Jun 23 |
+| **[Pedestal Health](https://www.pedestalhealth.com)** | **[Cloud Security Engineer (AWS)](https://jobr.pro/job/41353370/cloud-security-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Research Triangle Park, North Carolina | On Site | Jun 23 |
 | **[ELEVI Associates]()** | **[Cloud Software Engineer Sr](https://jobr.pro/job/41350408/cloud-software-engineer-sr?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Annapolis Junction, MD | On Site | Jun 23 |
+| **[Litmos](https://www.litmos.com)** | **[Manager, Cloud Engineering](https://jobr.pro/job/41355028/manager-cloud-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India | On Site | Jun 23 |
 | **[Finn & Finn, Ltd](https://www.waukegan.com)** | **[Engineering Manager - Cloud & Security (m/f/x)](https://jobr.pro/job/41348451/engineering-manager-cloud-security-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Munich | On Site | Jun 23 |
 | **[BarmeniaGothaer AG](https://www.barmeniagothaer.de)** | **[Cloud Platform Engineer](https://jobr.pro/job/41340102/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Köln, , Germany | Remote | Jun 23 |
 | **[Quadient](https://www.quadient.com)** | **[Junior Cloud Operations Engineer](https://jobr.pro/job/41337682/junior-cloud-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hradec Králové, , Czechia | Remote | Jun 23 |
 | **[Rituals](https://www.rituals.com)** | **[Staff Engineer - Cloud (GCP) & Observability](https://jobr.pro/job/41337770/staff-engineer-cloud-gcp-observability?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Amsterdam, NH, Netherlands | Remote | Jun 23 |
-| **[Teads](https://www.teads.com)** | **[Junior Cloud Engineer (DevOps)](https://jobr.pro/job/41339521/junior-cloud-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Netanya | On Site | Jun 23 |
 | **[Nagarro](https://nagarro.com)** | **[Distinguished Engineer (Cloud Architect + AI)](https://jobr.pro/job/41332991/distinguished-engineer-cloud-architect-ai?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India, , India | On Site | Jun 23 |
+| **[Essnova Solutions, Inc.](https://essnova.com)** | **[Senior Microsoft Cloud Engineer](https://jobr.pro/job/41354672/senior-microsoft-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, District of Columbia, United States | On Site | Jun 23 |
 | **[Altom Transport](https://www.altomtransport.com)** | **[Software Engineer (Cloud, Cross-Platform & .NET Systems)](https://jobr.pro/job/41348431/software-engineer-cloud-cross-platform-net-systems?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houston, Texas, United States | On Site | Jun 23 |
 | **[First Focus](https://www.firstfocus.com.au)** | **[Cloud Services Engineer](https://jobr.pro/job/41332835/cloud-services-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Muntinlupa, Metro Manila, Philippines | On Site | Jun 23 |
 | **[Viant Technology](https://viantinc.com)** | **[Senior Cloud Reliability Engineer](https://jobr.pro/job/41333258/senior-cloud-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Irvine, California, United States; Los Angeles, California, United States | On Site | Jun 22 |
@@ -45,7 +52,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NICE](https://nist.gov)** | **[Cloud Site Reliability Engineer](https://jobr.pro/job/41318095/cloud-site-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | India - Pune | On Site | Jun 22 |
 | **[Renaissance Learning EMEA APAC](https://www.renaissance.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/41330040/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Houghton Le Spring | On Site | Jun 22 |
 | **[Babble Cloud](https://babble.cloud)** | **[Cloud Services Engineer](https://jobr.pro/job/41314787/cloud-services-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Pristina, Pristina, Kosovo | On Site | Jun 22 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[M365 Cloud Engineer](https://jobr.pro/job/41314647/m365-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bristol, United Kingdom, United Kingdom | On Site | Jun 22 |
 | **[Encora](https://encora.com)** | **[Cloud Engineer (AWS & OCI)](https://jobr.pro/job/41313356/cloud-engineer-aws-oci?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Kuala Lumpur | On Site | Jun 22 |
 | **[Mindera](http://www.mindera.com)** | **[Senior Cloud Engineer (AWS)](https://jobr.pro/job/41325617/senior-cloud-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Blumenau, State of Santa Catarina, Brazil | Remote | Jun 22 |
 | **[EMW, Inc.](http://www.emw.com)** | **[C004947 Senior Cloud Engineer (AWS) (NS) - MON 6 Jul](https://jobr.pro/job/41325465/c004947-senior-cloud-engineer-aws-ns-mon-6-jul?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Braine-l'Alleud, Wallonia, Belgium | On Site | Jun 22 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DeepSource Technologies](https://deepsource.ai)** | **[Senior Infrastructure & Multi-Cloud Automation / IaC Engineer - Riyadh, KSA](https://jobr.pro/job/41310501/senior-infrastructure-multi-cloud-automation-iac-engineer-riyadh-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | New Delhi, Delhi, India | On Site | Jun 21 |
 | **[Encora](https://encora.es)** | **[Senior Multi-Cloud DevOps Engineer](https://jobr.pro/job/41294784/senior-multi-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil | On Site | Jun 19 |
 | **[IFS](https://ifsp.edu.br)** | **[Cloud Engineer I - Softeon](https://jobr.pro/job/41286386/cloud-engineer-i-softeon?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Reston, Virginia, United States | On Site | Jun 19 |
-| **[Sutherland](https://www.sutherlandglobal.com)** | **[Cloud Support Engineer](https://jobr.pro/job/41285203/cloud-support-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bogotá, Bogota, Colombia | Remote | Jun 19 |
-| **[Welo Global](https://www.weloglobal.com)** | **[Cloud Infrastructure Engineer](https://jobr.pro/job/41286019/cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Argentina | Remote | Jun 19 |
-| **[Rimes Technologies](https://www.rimes.com)** | **[Networks and Cloud Engineer](https://jobr.pro/job/41288372/networks-and-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Manila, Phillipines | On Site | Jun 19 |
-| **[Devoteam](https://nplatform.devoteam.com)** | **[Google Cloud Data Engineer](https://jobr.pro/job/41283139/google-cloud-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | On Site | Jun 19 |
-| **[Supercell](http://www.supercell.com)** | **[Senior Cloud Engineer](https://jobr.pro/job/41280766/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Helsinki | On Site | Jun 19 |
-| **[ABOUT YOU SE & Co. KG](https://www.aboutyou.de)** | **[Staff/Senior Platform Engineer - Cloud Platform (all genders)](https://jobr.pro/job/41280451/staffsenior-platform-engineer-cloud-platform-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, HH, Germany | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 47 companies | Avg salary: 1.7375015021436856e+78k  
+**Current Stats:** 50 jobs | 32% remote | 47 companies | Avg salary: 1.0794131955891176e+97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
