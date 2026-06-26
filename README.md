@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,13 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[World Wildlife Fund, Inc.](https://www.wwf.org.ec)** | **[Senior Cloud Engineer](https://jobr.pro/job/41412097/senior-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de Mexico, , Mexico | Remote | Jun 26 |
+| **[World Wildlife Fund, Inc.](https://www.wwf.org.ec)** | **[Microsoft 365 Productivity & Cloud Engineer](https://jobr.pro/job/41412098/microsoft-365-productivity-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de Mexico, , Mexico | Remote | Jun 26 |
+| **[Vercel](https://vercel.com)** | **[Security Engineer, Cloud](https://jobr.pro/job/41412290/security-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - United States | Remote | Jun 26 |
 | **[Job Board](https://www.jobboard.com)** | **[Lead Cloud Infrastructure Engineer / Site Reliability Engineer (SRE)](https://jobr.pro/job/41401974/lead-cloud-infrastructure-engineer-site-reliability-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | North America | On Site | Jun 25 |
+| **[SingleStore-LinkedIn]()** | **[Director, Cloud Ops Engineering](https://jobr.pro/job/41408021/director-cloud-ops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | International | On Site | Jun 25 |
 | **[SingleStore](https://singlestore.com)** | **[Director, Cloud Ops Engineering](https://jobr.pro/job/41406994/director-cloud-ops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | International | On Site | Jun 25 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/41400259/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lorton, VA | On Site | Jun 25 |
 | **[Oteemo, Inc](https://oteemo.com)** | **[Cloud Engineer, Azure](https://jobr.pro/job/41395847/cloud-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | College Park, MD, United States | Remote | Jun 25 |
 | **[Grafana Labs](https://grafana.org.cn)** | **[Senior Software Engineer - Grafana Cloud Observability Provider \| Sweden \| Remote](https://jobr.pro/job/41399790/senior-software-engineer-grafana-cloud-observability-provider-sweden-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sweden (Remote) | Remote | Jun 25 |
 | **[Grafana Labs](https://grafana.org.cn)** | **[Senior Software Engineer - Grafana Cloud Observability Provider \| Spain \| Remote](https://jobr.pro/job/41399789/senior-software-engineer-grafana-cloud-observability-provider-spain-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Spain (Remote) | Remote | Jun 25 |
 | **[Grafana Labs](https://grafana.org.cn)** | **[Senior Software Engineer - Grafana Cloud Observability Provider \| Germany \| Remote](https://jobr.pro/job/41399788/senior-software-engineer-grafana-cloud-observability-provider-germany-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Germany (Remote) | Remote | Jun 25 |
+| **[Inato](https://www.inato.com)** | **[Senior Cloud Infrastructure Engineer](https://jobr.pro/job/41414354/senior-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | PARIS OFFICE or REMOTE FROM FRANCE | Remote | Jun 25 |
 | **[Grafana Labs](https://grafana.org.cn)** | **[Senior Software Engineer - Grafana Cloud Observability Provider \| UK \| Remote](https://jobr.pro/job/41399791/senior-software-engineer-grafana-cloud-observability-provider-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United Kingdom (Remote) | Remote | Jun 25 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - Cloud Platform (Networks)](https://jobr.pro/job/41400881/software-engineer-cloud-platform-networks?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Malmö | On Site | Jun 25 |
 | **[ABOUT YOU SE & Co. KG](https://www.aboutyou.de)** | **[Staff/Senior Platform Engineer - Cloud Platform (all genders)](https://jobr.pro/job/41393344/staffsenior-platform-engineer-cloud-platform-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hamburg, HH, Germany | On Site | Jun 25 |
@@ -28,7 +33,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tines](https://tine.no)** | **[Senior Site Reliability Engineer - Government Cloud](https://jobr.pro/job/41385340/senior-site-reliability-engineer-government-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States - East (Remote) | Remote | Jun 25 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Cloud & DevOps Engineer](https://jobr.pro/job/41384218/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | Remote | Jun 25 |
 | **[Ubiquiti](https://ui.com)** | **[SQA Automation Engineer for UniFi Cloud](https://jobr.pro/job/41395310/sqa-automation-engineer-for-unifi-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei | On Site | Jun 25 |
-| **[World Wildlife Fund, Inc.](https://www.wwf.org.ec)** | **[Sr. Cloud Engineer](https://jobr.pro/job/41379478/sr-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Ciudad de Mexico, , Mexico | Remote | Jun 25 |
 | **[Kleva](https://www.kleva.co)** | **[Cloud DevOps Engineer](https://jobr.pro/job/41404545/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, Mexico City, Mexico | Remote | Jun 25 |
 | **[novoville](http://novoville.com)** | **[DevOps & Cloud Infrastructure Engineer](https://jobr.pro/job/41396100/devops-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attica, Greece | On Site | Jun 25 |
 | **[CallTek](https://calltekinc.com)** | **[Security Engineering - Apps and Cloud Security](https://jobr.pro/job/41385039/security-engineering-apps-and-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Philippines | Remote | Jun 25 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nagarro](https://nagarro.com)** | **[Senior Staff Engineer, Salesforce Health Cloud](https://jobr.pro/job/41359113/senior-staff-engineer-salesforce-health-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote, , India | Remote | Jun 24 |
 | **[Software Mind](https://softwaremind.com)** | **[\[MMS\] Cloud Engineer (GCP/Azure Managed Services)](https://jobr.pro/job/41359109/mms-cloud-engineer-gcpazure-managed-services?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Jun 24 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Senior Cloud Engineer AWS F/H](https://jobr.pro/job/41358956/senior-cloud-engineer-aws-fh?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | Remote | Jun 24 |
-| **[Fastmarkets](https://fastmarkets.com)** | **[Cloud Systems Engineer](https://jobr.pro/job/41358901/cloud-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Sofia, Sofia City Province, Bulgaria | Remote | Jun 24 |
-| **[ServiceNow](https://www.servicenow.com)** | **[DevSecOps Engineer Cloud Native](https://jobr.pro/job/41356279/devsecops-engineer-cloud-native?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Hyderabad, Telangana, India | Remote | Jun 24 |
-| **[Lyra Technology Group](https://lyratechgroup.com)** | **[Experienced AWS Cloud Engineer - Lancom](https://jobr.pro/job/41371009/experienced-aws-cloud-engineer-lancom?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Auckland | On Site | Jun 24 |
-| **[Beacon AI](https://beaconai.co)** | **[Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://jobr.pro/job/41371482/software-engineer-cloud-infrastructure-multiple-seniority-levels?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Carlos - Hybrid | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 52% remote | 34 companies | Avg salary: 1.684616740007158e+72k  
+**Current Stats:** 50 jobs | 54% remote | 33 companies | Avg salary: 2.2285729928584015e+77k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, gcp, security  
