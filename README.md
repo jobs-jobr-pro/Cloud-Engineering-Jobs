@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Resultant](https://resultant.com)** | **[Principal Cloud Engineer - DevOps/Infrastructure](https://jobr.pro/job/41438762/principal-cloud-engineer-devopsinfrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, United States | Remote | Jun 26 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Azure Cloud Engineer](https://jobr.pro/job/41437687/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 26 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/41437690/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 26 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior Azure Cloud Infrastructure Engineer - Cleared](https://jobr.pro/job/41437691/senior-azure-cloud-infrastructure-engineer-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 26 |
+| **[Beacon AI](https://beaconai.co)** | **[Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://jobr.pro/job/41438905/software-engineer-cloud-infrastructure-multiple-seniority-levels?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Carlos - Hybrid | On Site | Jun 26 |
+| **[Verifone](https://verifone.com)** | **[Senior Cloud Devops Engineer](https://jobr.pro/job/41440617/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Atlanta, Georgia, United States | On Site | Jun 26 |
 | **[Crusoe](https://crusoe.ai)** | **[Principal Software Engineer, Crusoe Cloud](https://jobr.pro/job/41438110/principal-software-engineer-crusoe-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | San Francisco, CA - US | On Site | Jun 26 |
+| **[Mozilla](https://mozilla.org)** | **[Senior Software Engineer, Cloud Development](https://jobr.pro/job/41442779/senior-software-engineer-cloud-development?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote Canada | Remote | Jun 26 |
 | **[Attentive](https://attentive.com)** | **[Staff Software Engineer, Cloud FinOps](https://jobr.pro/job/41432972/staff-software-engineer-cloud-finops?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | On Site | Jun 26 |
 | **[CI&T](https://ciandt.com)** | **[\[Job- 30149\] \[Google-Terraform\] Senior Cloud Developer Engineer, Brazil](https://jobr.pro/job/41428349/job-30149-google-terraform-senior-cloud-developer-engineer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Brazil | Remote | Jun 26 |
 | **[Goldstone Partners, Inc.]()** | **[Cloud Engineer – US Remote](https://jobr.pro/job/41428434/cloud-engineer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Oak Brook, IL, United States | Remote | Jun 26 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kraft & Kennedy](https://www.kraftkennedy.com)** | **[Microsoft Cloud Support Infrastructure Engineer](https://jobr.pro/job/41421714/microsoft-cloud-support-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | Remote | Jun 25 |
 | **[Kleva](https://www.kleva.co)** | **[Cloud DevOps Engineer](https://jobr.pro/job/41404545/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, Mexico City, Mexico | Remote | Jun 25 |
 | **[novoville](http://novoville.com)** | **[DevOps & Cloud Infrastructure Engineer](https://jobr.pro/job/41396100/devops-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Athens, Attica, Greece | On Site | Jun 25 |
-| **[CallTek](https://calltekinc.com)** | **[Security Engineering - Apps and Cloud Security](https://jobr.pro/job/41385039/security-engineering-apps-and-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Philippines | Remote | Jun 25 |
-| **[Abnormal](https://abnormal.ai)** | **[Software Engineer II - Cloud Infrastructure Engineer](https://jobr.pro/job/41379747/software-engineer-ii-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Remote - USA | Remote | Jun 24 |
-| **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/41384364/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 24 |
-| **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Lead GCP Cloud Engineer](https://jobr.pro/job/41384361/lead-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 58% remote | 40 companies | Avg salary: 1.8823543529419117e+95k  
+**Current Stats:** 50 jobs | 58% remote | 42 companies | Avg salary: 1.4444462222229945e+101k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, azure, gcp, kubernetes, terraform  
+**Trending Skills:** aws, azure, kubernetes, terraform, security  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
