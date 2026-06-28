@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BJAK](https://bjak.my)** | **[Cloud Engineer - Automation Infrastructure (Remote, China)](https://jobr.pro/job/41454765/cloud-engineer-automation-infrastructure-remote-china?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | China | Remote | Jun 27 |
 | **[Resultant](https://resultant.com)** | **[Principal Cloud Engineer - DevOps/Infrastructure](https://jobr.pro/job/41438762/principal-cloud-engineer-devopsinfrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Chicago, IL, United States | Remote | Jun 26 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Azure Cloud Engineer](https://jobr.pro/job/41437687/azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 26 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/41437690/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Washington, DC | On Site | Jun 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Cloud & DevOps Engineer](https://jobr.pro/job/41384218/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Madrid, MD, Spain | Remote | Jun 25 |
 | **[Ubiquiti](https://ui.com)** | **[SQA Automation Engineer for UniFi Cloud](https://jobr.pro/job/41395310/sqa-automation-engineer-for-unifi-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Taipei | On Site | Jun 25 |
 | **[Kraft & Kennedy](https://www.kraftkennedy.com)** | **[Microsoft Cloud Support Infrastructure Engineer](https://jobr.pro/job/41421714/microsoft-cloud-support-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | United States | Remote | Jun 25 |
-| **[Kleva](https://www.kleva.co)** | **[Cloud DevOps Engineer](https://jobr.pro/job/41404545/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Mexico City, Mexico City, Mexico | Remote | Jun 25 |
 
 ---
 
