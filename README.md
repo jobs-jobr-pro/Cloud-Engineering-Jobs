@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Cloud Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Cloud Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[MicroStrategy](https://www.strategy.com)** | **[Senior Cloud Support Engineer III](https://jobr.pro/job/41476018/senior-cloud-support-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, Seoul, Korea, republic of | On Site | Jun 29 |
+| **[MicroStrategy](https://www.strategy.com)** | **[Senior Cloud Support Engineer III](https://jobr.pro/job/41482455/senior-cloud-support-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Seoul, Seoul, Korea, republic of | On Site | Jun 29 |
+| **[Analytic Services Inc](https://alloway.com)** | **[Cloud Engineer (Part-Time)](https://jobr.pro/job/41481388/cloud-engineer-part-time?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Fort Belvoir, VA | On Site | Jun 29 |
+| **[Kepora](https://www.kepora.com)** | **[Cloud Software Engineer](https://jobr.pro/job/41477860/cloud-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Maryland | On Site | Jun 29 |
+| **[Accenture Federal Services](https://accenture.com)** | **[Cloud Engineer - Terraform + GitLab](https://jobr.pro/job/41482198/cloud-engineer-terraform-gitlab?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Aberdeen, MD; Fort Belvoir, VA | On Site | Jun 29 |
+| **[Extreme Networks](https://www.extremenetworks.com)** | **[Staff Cloud Operations Engineer (Toronto, Canada)](https://jobr.pro/job/41480616/staff-cloud-operations-engineer-toronto-canada?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Toronto, Canada | On Site | Jun 29 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Engineer (REF5110I)](https://jobr.pro/job/41471411/cloud-engineer-ref5110i?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Debrecen,Pécs,Szeged, , Hungary | Remote | Jun 29 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Cloud DevOps Engineer Azure - H/F](https://jobr.pro/job/41471517/cloud-devops-engineer-azure-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Levallois-Perret, IDF, France | Remote | Jun 29 |
 | **[MicroStrategy](https://www.strategy.com)** | **[Senior Cloud Support Engineer with French](https://jobr.pro/job/41470709/senior-cloud-support-engineer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Warsaw, , Poland | Remote | Jun 29 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AND Digital](https://and.digital)** | **[Senior Azure Cloud Engineer](https://jobr.pro/job/41434790/senior-azure-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Manchester, England, United Kingdom | On Site | Jun 26 |
 | **[Fifty-Five](http://www.fifty-five.com)** | **[Senior Data & Cloud Engineer (H/F)](https://jobr.pro/job/41424378/senior-data-cloud-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Paris, Île-de-France, France | On Site | Jun 26 |
 | **[Nacre Capital](https://nacrecapital.com)** | **[Principal / Staff Software Engineer - Backend, MLOps and Cloud Infrastructure](https://jobr.pro/job/41418932/principal-staff-software-engineer-backend-mlops-and-cloud-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Bulgaria | Remote | Jun 26 |
-| **[Job Board](https://www.jobboard.com)** | **[Lead Cloud Infrastructure Engineer / Site Reliability Engineer (SRE)](https://jobr.pro/job/41401974/lead-cloud-infrastructure-engineer-site-reliability-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | North America | On Site | Jun 25 |
-| **[SingleStore-LinkedIn]()** | **[Director, Cloud Ops Engineering](https://jobr.pro/job/41408021/director-cloud-ops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | International | On Site | Jun 25 |
-| **[SingleStore](https://singlestore.com)** | **[Director, Cloud Ops Engineering](https://jobr.pro/job/41406994/director-cloud-ops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | International | On Site | Jun 25 |
-| **[Accenture Federal Services](https://accenture.com)** | **[Cloud Platform Engineer](https://jobr.pro/job/41400259/cloud-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-cloud-engineering-jobs)** | Lorton, VA | On Site | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 54% remote | 42 companies | Avg salary: 1.818184181821091e+61k  
+**Current Stats:** 50 jobs | 54% remote | 42 companies | Avg salary: 1.7620020000026e+55k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, azure, kubernetes, terraform, security  
